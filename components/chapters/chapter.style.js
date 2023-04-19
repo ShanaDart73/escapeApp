@@ -36,7 +36,7 @@ export const Content = styled.div`
   grid-row: 2 / 3;
 `;
 
-export const Siderbar = styled.nav`
+export const Sidebar = styled.nav`
   grid-column: 2 / 3;
   grid-row: 2 / 3;
   height: 90vh;

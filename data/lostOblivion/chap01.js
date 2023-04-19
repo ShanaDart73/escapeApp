@@ -1,4 +1,4 @@
-import { Wrapper, Container, Header, Content, Footer, Siderbar } from '../../components/chapters/chapter.style'
+import { Wrapper, Container, Header, Content, Footer, Sidebar } from '../../components/chapters/chapter.style'
 
 const Chap01 = () => {
     return (
@@ -102,7 +102,7 @@ const Chap01 = () => {
                     <p>Then, Wèi WúXiàn slightly raised his head, and pecked Lán WàngJī on the cheek. He tenderly said, “Lán Zhàn, I formed a golden core*.”</p>
                     <small>*Golden core is the source of the spiritual energy.</small>
                 </Content>
-                <Siderbar>Sidebar</Siderbar>
+                <Sidebar>Sidebar</Sidebar>
                 <Footer>
                     About<br />
                     This website is designed for people who love reading a well plotted story, which is usually a mix of thrill, mystery and a touch of love. I hope you will enjoy reading these stories on this website as much as you do with your own books, without any distractions such as advertisements.
