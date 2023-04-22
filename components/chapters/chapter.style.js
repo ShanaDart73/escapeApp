@@ -11,11 +11,11 @@ export const Wrapper = styled.div`
 export const Container = styled.div`
   display: grid;
   grid-template-columns: 85% 15%;
-  grid-template-rows: .8% 70% 56.5%;
+  grid-template-rows: auto 1fr auto;
   grid-template-areas:
           "header header"
           "content sidebar"
-          "footer footer";
+          "footer";
   text-align: center;
   row-gap: 0.5em;
 `;
@@ -34,6 +34,12 @@ export const Header = styled.header`
 export const Content = styled.div`
   grid-column: 1 / 2;
   grid-row: 2 / 3;
+  padding: 0.5em 0.8em 0.5em 0.5em;
+  text-align: justify;
+  
+  small {
+    opacity: 0.5;
+  }
 `;
 
 export const Sidebar = styled.nav`
@@ -43,18 +49,29 @@ export const Sidebar = styled.nav`
   position: sticky;
   top: 4em;
   align-self: start;
+  padding-top: 1em;
   border-radius: 2px;
   border: 2px solid #0804A9;
-  background: linear-gradient(to right, #845b5b, #CC9696);
+  background: linear-gradient(to right, #4c3434, #CC9696);
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 1em;
 `;
 
 export const Footer = styled.footer`
-  grid-column: 1 / 3;
+  grid-column: 1 / 2;
   grid-row: 3 / 4;
-  font-size: 0.7em;
-  text-align: start;
   align-self: center;
+  text-align: end;
+  padding: 0 1em;
+`;
+
+export const NextBtn = styled.button`
+  color: rgba(255, 255, 255, 0.7);
   padding: 1em;
-  border-radius: 10px;
+  border: 2px solid #0804A9;
+  border-radius: 5px;
   background: linear-gradient(to bottom, #020139, #0804AB);
 `;
