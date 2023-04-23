@@ -1,5 +1,5 @@
-import Image from 'next/image'
 import Link from 'next/link'
+import Icons from '../../data/lostOblivion/sidebarIcons/icons'
 import TranslatorNote from './translatorNote/note'
 import { Wrapper, Container, Header, Content, Footer, NextBtn, Sidebar } from '../../components/chapters/chapter.style'
 
@@ -107,9 +107,7 @@ const Chap01 = () => {
                     <small>*Golden core is the source of the spiritual energy.</small>
                 </Content>
                 <Sidebar>
-                    <Image src="/logos/home.svg" height={30} width={30} />
-                    <Image src="/logos/nav.svg" height={30} width={30} />
-                    <Image src="/logos/coffee.svg" height={40} width={30} />
+                    <Icons />
                 </Sidebar>
                 <Footer>
                     <Link href="/lostOblivion/chapter02">
