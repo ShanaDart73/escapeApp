@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Link from 'next/link'
 import TranslatorNote from './translatorNote/note'
 import { Wrapper, Container, Header, Content, Footer, NextBtn, Sidebar } from '../../components/chapters/chapter.style'
 
@@ -24,7 +25,7 @@ const Chap01 = () => {
                     <p>Wèi WúXiàn smiled, and said, “Okay. But you have to be careful. This pond is a little bit weird.”</p>
                     <p>Yú XiǎoShān was still young, and lacking good judgement. The more he was told to be careful, the less he cared.</p>
                     <p>Lán WàngJī said, “Wèi Yīng*, I will dive with them because the water is too cold. However, Lán Yù and Lán Héng are not good at swimming. So, they will stay with you here, on the bank.”</p>
-                    <p>*Wèi Yīng: Yīng is the “first” name given from birth (same goes for Lán Zhàn), while WúXiàn and WàngJī are given later on.</p>
+                    <small>*Wèi Yīng: Yīng is the “first” name given from birth (same goes for Lán Zhàn), while WúXiàn and WàngJī are given later on.</small>
                     <p>Wèi WúXiàn said, “Okay.”</p>
                     <p>To prevent them from freezing to death, each teenager wrapped their whole body with their spiritual power.</p>
                     <p>Impatient to show off, Yú XiǎoShān went ahead and dove in.</p>
@@ -111,7 +112,9 @@ const Chap01 = () => {
                     <Image src="/logos/coffee.svg" height={40} width={30} />
                 </Sidebar>
                 <Footer>
-                    <NextBtn>Next&#8594;</NextBtn>
+                    <Link href="/lostOblivion/chapter02">
+                        <NextBtn>Next&rarr;</NextBtn>
+                    </Link>
                 </Footer>
             </Container>
         </Wrapper>

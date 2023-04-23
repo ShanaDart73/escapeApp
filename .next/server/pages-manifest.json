@@ -1,6 +1,7 @@
 {
+  "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/_app": "pages/_app.js",
-  "/lostOblivion/chapter01": "pages/lostOblivion/chapter01.js"
+  "/lostOblivion/chapter01": "pages/lostOblivion/chapter01.js",
+  "/lostOblivion/chapter02": "pages/lostOblivion/chapter02.js"
 }

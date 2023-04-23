@@ -66,6 +66,10 @@ export const Footer = styled.footer`
   align-self: center;
   text-align: end;
   padding: 0 1em;
+  
+  display: flex;
+  justify-content: end;
+  column-gap: 1em;
 `;
 
 export const NextBtn = styled.button`
@@ -75,3 +79,5 @@ export const NextBtn = styled.button`
   border-radius: 5px;
   background: linear-gradient(to bottom, #020139, #0804AB);
 `;
+
+export const PrevBtn = styled(NextBtn)``;
