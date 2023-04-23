@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import TranslatorNote from './translatorNote/note'
 import { Wrapper, Container, Header, Content, Footer, NextBtn, Sidebar } from '../../components/chapters/chapter.style'
 
 const Chap01 = () => {
@@ -7,6 +8,7 @@ const Chap01 = () => {
             <Container>
                 <Header>Lost of Oblivion: Chapter One</Header>
                 <Content>
+                    <TranslatorNote />
                     <p>“Wèi qiánbèi*...” called out Yú XiǎoShān, overwhelming with self-reproach.</p>
                     <small>*qiánbèi: a title to show your respect to someone.</small>
                     <p>Three hours ago, Yú XiǎoShān was assigned along with other teenagers to check the performance of the Requiem spell, which was cast on the Red Maple slope.</p>
