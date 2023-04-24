@@ -1,8 +1,16 @@
-//import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { Sidenav, NavLink, CloseNav, Menu } from './nav.style'
 
 const Nav = () => {
     console.log("from Nav function")
+    useEffect(() => {
+        console.log("finished loading")
+    }, [])
+
+    const [active, setActive] = useState(true)
+    const handleSlideIn = () => {}
+    const handleSlideOut = () => {}
+
     const chapList = [
         { name: "Chapter One", link: "", id: 1 },
         { name: "Chapter Two", link: "", id: 2 },
@@ -12,7 +20,7 @@ const Nav = () => {
     return (
         <>
             <Sidenav>
-                <CloseNav><span>&times;</span></CloseNav>
+                <CloseNav onClick={handleSlideOut}><span>&times;</span></CloseNav>
                 <div>
                     {chapList.map(({ name, link, id }) => (
                         <NavLink key={id} href={link}>
@@ -21,7 +29,7 @@ const Nav = () => {
                     ))}
                 </div>
             </Sidenav>
-            <Menu>&#9776;</Menu>
+            <Menu onClick={handleSlideIn}>&#9776;</Menu>
         </>
     )
 }

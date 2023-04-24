@@ -1,11 +1,9 @@
 import styled from 'styled-components'
 import Link from 'next/link'
 
-let Width = "0px";
-
 export const Sidenav = styled.nav`
   height: 100%;
-  width: ${Width};
+  width: 0;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -26,8 +24,9 @@ export const Sidenav = styled.nav`
 `;
 
 export const NavLink = styled(Link)`
-  padding: 8px 32px 8px 8px;
+  padding: 8px 8px 8px 36px;
   text-decoration: none;
+  text-align: left;
   font-size: 25px;
   color: #818181;
   display: block;
@@ -48,5 +47,4 @@ export const CloseNav = styled.div`
 export const Menu = styled.span`
   font-size: 30px;
   cursor: pointer;
-  
 `;
