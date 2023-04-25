@@ -3,23 +3,24 @@ import Link from 'next/link'
 
 export const Sidenav = styled.nav`
   height: 100%;
-  width: 0;
+  width: 250px;
+  max-width: 70%;
   position: fixed;
-  z-index: 1;
-  top: 0;
+  z-index: 99;
+  top: 7px;
   right: 0;
-  
-  background-color: #111111;
+
+  background-color: rgba(8, 9, 54, 0.98);
   overflow-x: hidden;
-  transition: 0.5s;
   padding-top: 60px;
-  
+  translate: ${props => props.display ? "10px" : "250px"};
+  transition: all 0.7s ease-in-out;
+
   div {
     padding: 8px 32px 8px 8px;
     font-size: 25px;
     color: #818181;
     display: block;
-    transition: 0.5s;
   }
 `;
 
@@ -30,7 +31,6 @@ export const NavLink = styled(Link)`
   font-size: 25px;
   color: #818181;
   display: block;
-  transition: 0.5s;
 `;
 
 export const CloseNav = styled.div`
@@ -45,6 +45,5 @@ export const CloseNav = styled.div`
 `;
 
 export const Menu = styled.span`
-  font-size: 30px;
   cursor: pointer;
 `;
