@@ -10,7 +10,7 @@ export const Sidenav = styled.nav`
   top: 7px;
   right: 0;
 
-  background-color: rgba(8, 9, 54, 0.98);
+  background-color: rgba(13, 15, 82, 0.98);
   overflow-x: hidden;
   padding-top: 60px;
   translate: ${props => props.display ? "10px" : "250px"};
@@ -41,6 +41,7 @@ export const CloseNav = styled.div`
   
   span {
     font-size: 36px;
+    cursor: pointer;
   }
 `;
 
