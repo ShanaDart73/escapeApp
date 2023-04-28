@@ -25,10 +25,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/lostOblivion/chapter01": [
+    "/lostOfOblivion/chapter01": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/lostOblivion/chapter01.js"
+      "static/chunks/pages/lostOfOblivion/chapter01.js"
+    ],
+    "/lostOfOblivion/chapter02": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/lostOfOblivion/chapter02.js"
     ]
   },
   "ampFirstPages": []
