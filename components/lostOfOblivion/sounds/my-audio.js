@@ -14,7 +14,7 @@ const Sound = styled.span`
 const MyAudio = ({ sound, name }) => {
     const [play, { stop }] = useSound(
         sound,
-        { volume: 0.7 }
+        { volume: 0.4 }
     )
     const [isHovered, setIsHovered] = useState(false)
 

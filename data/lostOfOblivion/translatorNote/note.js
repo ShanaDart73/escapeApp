@@ -2,7 +2,7 @@ import styled from 'styled-components'
 import MyAudio from '../../../components/lostOfOblivion/sounds/my-audio'
 
 const Note = () => {
-    const sound = '/audio/wangxian.mp3'
+    const sound = '/audio/weiwuxian.mp3'
     return (
         <Container>
             <p><b>Translator Note:</b></p>
