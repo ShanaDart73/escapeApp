@@ -6,7 +6,6 @@ const Wrap = styled.span`
   cursor: pointer;
 `;
 const Sound = styled.span`
-  font-weight: bolder;
   font-size: inherit;
   color: #8eb1bf;
 `;
