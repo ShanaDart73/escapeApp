@@ -6,7 +6,7 @@ import { Wrapper, Container, Header, Content, Footer, NextBtn, Sidebar } from '.
 
 const Chap01 = () => {
     return (
-        <Wrapper>
+        <Wrapper onContextMenu={(e) => e.preventDefault()}>
             <Container>
                 <Header>Lost of Oblivion: Chapter One</Header>
                 <Content>

@@ -1,11 +1,27 @@
 import styled from 'styled-components'
 
 export const Wrapper = styled.div`
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  ::selection {
+    background: none;
+  }
+  ::-moz-selection {
+    background: none;
+  }
+  
   font-size: 1em;
   font-family: "Times New Roman", Arial, serif, Verdana, Tahoma;
   padding: .5em;
   color: rgba(255, 255, 255, 0.7);
   background-color: #171157;
+  
+  @media screen and (min-width: 760px) {
+    font-size: 1.5em;
+  }
 `;
 
 export const Container = styled.div`
