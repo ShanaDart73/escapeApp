@@ -22,6 +22,14 @@ export const Sidenav = styled.nav`
     color: #818181;
     display: block;
   }
+  
+  @media screen and (min-width: 768px) {
+    translate: ${props => props.display ? "-20px" : "250px"};
+    
+    div {
+      padding: 4px 16px 4px 4px;
+    }
+  }
 `;
 
 export const NavLink = styled(Link)`
@@ -31,6 +39,11 @@ export const NavLink = styled(Link)`
   font-size: 25px;
   color: #818181;
   display: block;
+  
+  @media screen and (min-width: 768px) {
+    font-size: 30px;
+    padding: 4px 4px 4px 36px;
+  }
 `;
 
 export const CloseNav = styled.div`
@@ -43,8 +56,19 @@ export const CloseNav = styled.div`
     font-size: 36px;
     cursor: pointer;
   }
+  
+  @media screen and (min-width: 768px) {
+    span {
+      font-size: 46px;
+    }
+  }
 `;
 
-export const Menu = styled.span`
+export const Menu = styled.div`
+  width: 30px;
   cursor: pointer;
+  
+  @media screen and (min-width: 768px) {
+    width: 50px;
+  }
 `;

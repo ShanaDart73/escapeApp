@@ -2,13 +2,14 @@ import Link from 'next/link'
 import Icons from '../sidebarIcons/icons'
 import TranslatorNote from '../translatorNote/note'
 import MyAudio from '../../../components/lostOfOblivion/sounds/my-audio'
-import { Wrapper, Container, Header, Content, Footer, NextBtn, Sidebar } from '../../../components/lostOfOblivion/chapters/chapter.style'
+import { Wrapper, Container, Header, LeftPicture, Content, Footer, NextBtn, Sidebar } from '../../../components/lostOfOblivion/chapters/chapter.style'
 
 const Chap01 = () => {
     return (
         <Wrapper onContextMenu={(e) => e.preventDefault()}>
             <Container>
                 <Header>Lost of Oblivion: Chapter One</Header>
+                <LeftPicture>Left painting</LeftPicture>
                 <Content>
                     <TranslatorNote />
                     <p>“<MyAudio sound="/audio/weiqianbei.mp3" name="Wèi qiánbèi" />*...” called out <MyAudio sound="/audio/yuxiaoshan.mp3" name="Yú XiǎoShān" />, overwhelming with self-reproach.</p>

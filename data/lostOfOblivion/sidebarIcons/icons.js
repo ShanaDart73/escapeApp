@@ -1,13 +1,24 @@
-import Image from 'next/image'
 import Nav from './nav'
+import styled from 'styled-components'
+
+const Logo = styled.div`
+  width: 30px;
+  
+  @media screen and (min-width: 768px) {
+    width: 50px;
+  }
+`
 
 const Icons = () => {
     return (
         <>
-            <Image src="/logos/home.svg" height={30} width={30} alt="" />
+            <Logo>
+                <img src="/logos/home.svg" height="auto" width="100%" alt="" />
+            </Logo>
             <Nav />
-            <Image src="/logos/coffee.svg" height={40} width={30} alt="" />
-
+            <Logo>
+                <img src="/logos/coffee.svg" height="auto" width="100%" alt="" />
+            </Logo>
         </>
     )
 }

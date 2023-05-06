@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import { Sidenav, NavLink, CloseNav, Menu } from './nav.style'
-import Image from "next/image";
 
 const Nav = () => {
     let [display, setDisplay] = useState(false)
@@ -26,7 +25,7 @@ const Nav = () => {
                 </div>
             </Sidenav>
             <Menu display={display} onClick={handleClick}>
-                <Image src="/logos/nav.svg" height={30} width={30} alt="" />
+                <img src="/logos/nav.svg" height="auto" width="100%" alt="" />
             </Menu>
         </>
     )

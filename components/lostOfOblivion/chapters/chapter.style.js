@@ -34,6 +34,14 @@ export const Container = styled.div`
           "footer";
   text-align: center;
   row-gap: 0.5em;
+  
+  @media screen and (min-width: 768px) {
+    grid-template-columns: 25% 65% 10%;
+    grid-template-areas: 
+            "header header header" 
+            "leftPicture content sidebar" 
+            "footer";
+  }
 `;
 
 export const Header = styled.header`
@@ -45,6 +53,22 @@ export const Header = styled.header`
   padding: 1em;
   border: 2px solid #0804A9;
   background: linear-gradient(to bottom, #0804AB, #020139);
+  
+  @media screen and (min-width: 768px) {
+    grid-column: 1 / 4;
+    font-size: 1.3em;
+  }
+`;
+
+export const LeftPicture = styled.div`
+  @media screen and (min-width: 768px) {
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+    height: 90vh;
+    position: sticky;
+    top: 4em;
+    align-self: start;
+  }
 `;
 
 export const Content = styled.div`
@@ -55,6 +79,10 @@ export const Content = styled.div`
   
   small {
     opacity: 0.5;
+  }
+  
+  @media screen and (min-width: 768px) {
+    grid-column: 2 / 3;
   }
 `;
 
@@ -74,6 +102,10 @@ export const Sidebar = styled.nav`
   flex-direction: column;
   align-items: center;
   row-gap: 1em;
+  
+  @media screen and (min-width: 768px) {
+    grid-column: 3 / 4;
+  }
 `;
 
 export const Footer = styled.footer`
@@ -86,6 +118,10 @@ export const Footer = styled.footer`
   display: flex;
   justify-content: end;
   column-gap: 1em;
+  
+  @media screen and (min-width: 768px) {
+    grid-column: 2 / 3;
+  }
 `;
 
 export const NextBtn = styled.button`
@@ -94,6 +130,10 @@ export const NextBtn = styled.button`
   border: 2px solid #0804A9;
   border-radius: 5px;
   background: linear-gradient(to bottom, #020139, #0804AB);
+  
+  @media screen and (min-width: 768px) {
+    font-size: 1em;
+  }
 `;
 
 export const PrevBtn = styled(NextBtn)``;
