@@ -68,6 +68,10 @@ export const LeftPicture = styled.div`
     position: sticky;
     top: 4em;
     align-self: start;
+    
+    img {
+      height: 90vh;
+    }
   }
 `;
 

@@ -9,7 +9,9 @@ const Chap01 = () => {
         <Wrapper onContextMenu={(e) => e.preventDefault()}>
             <Container>
                 <Header>Lost of Oblivion: Chapter One</Header>
-                <LeftPicture>Left painting</LeftPicture>
+                <LeftPicture>
+                    <img src="/photos/lostOfOblivion/chapter01/leftPicture.png" width="100%" alt="" />
+                </LeftPicture>
                 <Content>
                     <TranslatorNote />
                     <p>“<MyAudio sound="/audio/weiqianbei.mp3" name="Wèi qiánbèi" />*...” called out <MyAudio sound="/audio/yuxiaoshan.mp3" name="Yú XiǎoShān" />, overwhelming with self-reproach.</p>

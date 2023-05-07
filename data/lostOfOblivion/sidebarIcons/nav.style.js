@@ -39,7 +39,11 @@ export const NavLink = styled(Link)`
   font-size: 25px;
   color: #818181;
   display: block;
-  
+
+  :hover {
+    color: #b4d4ff;
+  }
+
   @media screen and (min-width: 768px) {
     font-size: 30px;
     padding: 4px 4px 4px 36px;
