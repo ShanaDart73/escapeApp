@@ -16,7 +16,7 @@ export const Wrapper = styled.div`
   font-size: 1em;
   font-family: "Times New Roman", Arial, serif, Verdana, Tahoma;
   padding: .5em;
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.5);
   background-color: #171157;
   
   @media screen and (min-width: 760px) {

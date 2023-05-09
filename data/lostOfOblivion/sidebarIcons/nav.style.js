@@ -55,6 +55,7 @@ export const CloseNav = styled.div`
   top: 0;
   left: 25px;
   margin-right: 50px;
+  cursor: pointer;
   
   span {
     font-size: 36px;
