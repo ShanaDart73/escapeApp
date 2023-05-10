@@ -29,11 +29,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/lostOfOblivion/chapter01.js"
-    ],
-    "/lostOfOblivion/chapter02": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/lostOfOblivion/chapter02.js"
     ]
   },
   "ampFirstPages": []

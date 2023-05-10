@@ -2,7 +2,7 @@ import Link from 'next/link'
 import Icons from '../sidebarIcons/icons'
 import TranslatorNote from '../translatorNote/note'
 import MyAudio from '../../../components/lostOfOblivion/sounds/my-audio'
-import { Wrapper, Container, Header, LeftPicture, Content, Footer, NextBtn, Sidebar } from '../../../components/lostOfOblivion/chapters/chapter.style'
+import { Wrapper, Container, Header, LeftPicture, Content, Footer, NextBtn, Sidebar, RightPicture } from '../../../components/lostOfOblivion/chapters/chapter.style'
 
 const Chap01 = () => {
     return (
@@ -113,6 +113,9 @@ const Chap01 = () => {
                 <Sidebar>
                     <Icons />
                 </Sidebar>
+                <RightPicture>
+                    <img src="/photos/lostOfOblivion/chapter01/rightPicture.png" width="100%" alt="" />
+                </RightPicture>
                 <Footer>
                     <Link href="/lostOfOblivion/chapter02">
                         <NextBtn>Next&rarr;</NextBtn>

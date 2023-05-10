@@ -42,6 +42,14 @@ export const Container = styled.div`
             "leftPicture content sidebar" 
             "footer";
   }
+  
+  @media screen and (min-width: 1024px) {
+    grid-template-columns: 20% 53% 7% 20%;
+    grid-template-areas: 
+            "header header header header" 
+            "leftPicture conteny sidebar rightPicture" 
+            "footer";
+  }
 `;
 
 export const Header = styled.header`
@@ -58,28 +66,41 @@ export const Header = styled.header`
     grid-column: 1 / 4;
     font-size: 1.3em;
   }
+  
+  @media screen and (min-width: 1024px) {
+    grid-column: 1 / 5;
+    font-size: 1.6em;
+    padding: 0.8em;
+  }
 `;
 
 export const LeftPicture = styled.div`
   img {
     width: 0;
   }
+  
   @media screen and (min-width: 768px) {
     grid-column: 1 / 2;
     grid-row: 2 / 3;
-    height: 90vh;
+    height: 88vh;
     position: sticky;
     top: 4em;
     align-self: start;
     
     img {
       width: 100%;
-      height: 90vh;
+      height: 88vh;
+    }
+  }
+
+  @media screen and (min-width: 1024px) {
+    height: 84vh;
+    
+    img {
+      height: 84vh;
     }
   }
 `;
-
-export const RightPicture = styled.div``;
 
 export const Content = styled.div`
   grid-column: 1 / 2;
@@ -99,7 +120,7 @@ export const Content = styled.div`
 export const Sidebar = styled.nav`
   grid-column: 2 / 3;
   grid-row: 2 / 3;
-  height: 90vh;
+  height: 86vh;
   position: sticky;
   top: 4em;
   align-self: start;
@@ -115,6 +136,30 @@ export const Sidebar = styled.nav`
   
   @media screen and (min-width: 768px) {
     grid-column: 3 / 4;
+  }
+  
+  @media screen and (min-width: 1024px) {
+    height: 82vh;
+  }
+`;
+
+export const RightPicture = styled.div`
+  img {
+    width: 0;
+  }
+  
+  @media screen and (min-width: 1024px) {
+    grid-column: 4 /5;
+    grid-row: 2 / 3;
+    height: 84vh;
+    position: sticky;
+    top: 4em;
+    align-self: start;
+
+    img {
+      width: 100%;
+      height: 84vh;
+    }
   }
 `;
 
