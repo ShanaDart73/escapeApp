@@ -5,7 +5,7 @@ import { Wrapper, Container, Header, Content, Sidebar, Footer, NextBtn, PrevBtn 
 const Chap02 = () => {
     return (
         <Wrapper>
-            <Container>
+            <Container onContextMenu={(e) => e.preventDefault()}>
                 <Header>Lost of Oblivion: Chapter Two</Header>
                 <Content>Chapter 2</Content>
                 <Sidebar>
@@ -15,11 +15,9 @@ const Chap02 = () => {
                     <Link href="/lostOfOblivion/chapter01">
                         <PrevBtn>&larr;Prev</PrevBtn>
                     </Link>
-
                     <NextBtn>Next&rarr;</NextBtn>
                 </Footer>
             </Container>
-
         </Wrapper>
     )
 }

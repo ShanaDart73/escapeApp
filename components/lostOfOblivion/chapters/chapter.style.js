@@ -61,6 +61,9 @@ export const Header = styled.header`
 `;
 
 export const LeftPicture = styled.div`
+  img {
+    width: 0;
+  }
   @media screen and (min-width: 768px) {
     grid-column: 1 / 2;
     grid-row: 2 / 3;
@@ -70,10 +73,13 @@ export const LeftPicture = styled.div`
     align-self: start;
     
     img {
+      width: 100%;
       height: 90vh;
     }
   }
 `;
+
+export const RightPicture = styled.div``;
 
 export const Content = styled.div`
   grid-column: 1 / 2;
