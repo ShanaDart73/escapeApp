@@ -4,6 +4,10 @@ import styled from 'styled-components'
 const Logo = styled.div`
   width: 30px;
   
+  @media screen and (min-width: 500px) {
+    width: 40px;
+  }
+  
   @media screen and (min-width: 768px) {
     width: 50px;
   }

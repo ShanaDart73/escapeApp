@@ -72,6 +72,10 @@ export const CloseNav = styled.div`
 export const Menu = styled.div`
   width: 30px;
   cursor: pointer;
+
+  @media screen and (min-width: 500px) {
+    width: 40px;
+  }
   
   @media screen and (min-width: 768px) {
     width: 50px;

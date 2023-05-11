@@ -10,7 +10,7 @@ const Chap01 = () => {
             <Container>
                 <Header>Lost of Oblivion: Chapter One</Header>
                 <LeftPicture>
-                    <img src="/photos/lostOfOblivion/chapter01/leftPicture.png" width="100%" alt="" />
+                    <img src="/photos/lostOfOblivion/chapter01/leftPicture.png" alt="" />
                 </LeftPicture>
                 <Content>
                     <TranslatorNote />
@@ -110,12 +110,12 @@ const Chap01 = () => {
                     <p>Then, Wèi WúXiàn slightly raised his head, and pecked Lán WàngJī on the cheek. He tenderly said, “Lán Zhàn, I formed a golden core*.”</p>
                     <small>*Golden core is the source of the spiritual energy.</small>
                 </Content>
+                <RightPicture>
+                    <img src="/photos/lostOfOblivion/chapter01/rightPicture.png" alt="" />
+                </RightPicture>
                 <Sidebar>
                     <Icons />
                 </Sidebar>
-                <RightPicture>
-                    <img src="/photos/lostOfOblivion/chapter01/rightPicture.png" width="100%" alt="" />
-                </RightPicture>
                 <Footer>
                     <Link href="/lostOfOblivion/chapter02">
                         <NextBtn>Next&rarr;</NextBtn>

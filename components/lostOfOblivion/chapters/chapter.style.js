@@ -19,6 +19,10 @@ export const Wrapper = styled.div`
   color: rgba(255, 255, 255, 0.5);
   background-color: #171157;
   
+  @media screen and (min-width: 500px) {
+    font-size: 1.3em;
+  }
+  
   @media screen and (min-width: 760px) {
     font-size: 1.5em;
   }
@@ -55,12 +59,18 @@ export const Container = styled.div`
 export const Header = styled.header`
   grid-column: 1 / 3;
   grid-row: 1 / 2;
+  font-size: 1.2em;
   position: sticky;
   top: 0;
   align-self: center;
   padding: 1em;
   border: 2px solid #0804A9;
   background: linear-gradient(to bottom, #0804AB, #020139);
+  
+  @media screen and (min-width: 500px) {
+    font-size: 1.2em;
+    padding: 0.8em;
+  }
   
   @media screen and (min-width: 768px) {
     grid-column: 1 / 4;
@@ -90,14 +100,6 @@ export const LeftPicture = styled.div`
     img {
       width: 100%;
       height: 88vh;
-    }
-  }
-
-  @media screen and (min-width: 1024px) {
-    height: 84vh;
-    
-    img {
-      height: 84vh;
     }
   }
 `;
@@ -139,7 +141,7 @@ export const Sidebar = styled.nav`
   }
   
   @media screen and (min-width: 1024px) {
-    height: 82vh;
+    height: 85vh;
   }
 `;
 
@@ -151,14 +153,14 @@ export const RightPicture = styled.div`
   @media screen and (min-width: 1024px) {
     grid-column: 4 /5;
     grid-row: 2 / 3;
-    height: 84vh;
+    height: 88vh;
     position: sticky;
     top: 4em;
     align-self: start;
-
+    
     img {
       width: 100%;
-      height: 84vh;
+      height: 88vh;
     }
   }
 `;
