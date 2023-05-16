@@ -4,11 +4,13 @@ import TranslatorNote from '../translatorNote/note'
 import MyAudio from '../../../components/lostOfOblivion/sounds/my-audio'
 import { Wrapper, Container, Header, LeftPicture, Content, Footer, NextBtn, Sidebar, RightPicture } from '../../../components/lostOfOblivion/chapters/chapter.style'
 
+const pageHeading = "Lost of Oblivion: Chapter One"
+
 const Chap01 = () => {
     return (
         <Wrapper onContextMenu={(e) => e.preventDefault()}>
             <Container>
-                <Header>Lost of Oblivion: Chapter One</Header>
+                <Header>{pageHeading}</Header>
                 <LeftPicture>
                     <img src="/photos/lostOfOblivion/chapter01/leftPicture.png" alt="" />
                 </LeftPicture>

@@ -2,11 +2,13 @@ import Link from 'next/link'
 import Icons from '../sidebarIcons/icons'
 import { Wrapper, Container, Header, Content, Sidebar, Footer, NextBtn, PrevBtn } from '../../../components/lostOfOblivion/chapters/chapter.style'
 
+const pageHeading = "Lost of Oblivion: Chapter Two"
+
 const Chap02 = () => {
     return (
         <Wrapper>
             <Container onContextMenu={(e) => e.preventDefault()}>
-                <Header>Lost of Oblivion: Chapter Two</Header>
+                <Header>{pageHeading}</Header>
                 <Content>
                     <p>“Lán Zhàn, this is not a normal rain.” said Wèi WúXiàn.</p>
                     <p>“Uh-huh.” agreed Lán WàngJī, then he looked far into the distance, and saw the endless dark clouds covering the city, the torrential rain pouring like hell, and the strong wind roaring like a tiger.</p>
@@ -115,7 +117,9 @@ const Chap02 = () => {
                     <Link href="/lostOfOblivion/chapter01">
                         <PrevBtn>&larr;Prev</PrevBtn>
                     </Link>
-                    <NextBtn>Next&rarr;</NextBtn>
+                    <Link href="/lostOfOblivion/chapter03">
+                        <NextBtn>Next&rarr;</NextBtn>
+                    </Link>
                 </Footer>
             </Container>
         </Wrapper>
