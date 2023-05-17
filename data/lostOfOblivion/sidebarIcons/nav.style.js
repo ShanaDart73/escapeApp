@@ -18,7 +18,6 @@ export const Sidenav = styled.nav`
 
   div {
     padding: 8px 32px 8px 8px;
-    font-size: 25px;
     color: #818181;
     display: block;
   }
@@ -36,7 +35,7 @@ export const NavLink = styled(Link)`
   padding: 8px 8px 8px 36px;
   text-decoration: none;
   text-align: left;
-  font-size: 25px;
+  font-size: 20px;
   color: #818181;
   display: block;
 
@@ -45,8 +44,12 @@ export const NavLink = styled(Link)`
   }
 
   @media screen and (min-width: 768px) {
-    font-size: 30px;
+    font-size: 25px;
     padding: 4px 4px 4px 36px;
+  }
+
+  @media screen and (min-width: 1024px) {
+    font-size: 27px;
   }
 `;
 

@@ -26,6 +26,10 @@ export const Wrapper = styled.div`
   @media screen and (min-width: 760px) {
     font-size: 1.5em;
   }
+
+  @media screen and (min-width: 1024px) {
+    font-size: 1.7em;
+  }
 `;
 
 export const Container = styled.div`
@@ -116,6 +120,7 @@ export const Content = styled.div`
   
   @media screen and (min-width: 768px) {
     grid-column: 2 / 3;
+    padding-left: 0.8em;
   }
 `;
 

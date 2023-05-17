@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import Icons from '../sidebarIcons/icons'
+import MyAudio from '../../../components/lostOfOblivion/sounds/my-audio'
 import { Wrapper, Container, Header, Content, Sidebar, Footer, NextBtn, PrevBtn } from '../../../components/lostOfOblivion/chapters/chapter.style'
 
 const pageHeading = "Lost of Oblivion: Chapter Two"
@@ -12,15 +13,15 @@ const Chap02 = () => {
                 <Content>
                     <p>“Lán Zhàn, this is not a normal rain.” said Wèi WúXiàn.</p>
                     <p>“Uh-huh.” agreed Lán WàngJī, then he looked far into the distance, and saw the endless dark clouds covering the city, the torrential rain pouring like hell, and the strong wind roaring like a tiger.</p>
-                    <p>Soon after, a fireworks signal of nine lotus flower petals flickered in the air. The signal belonged to YúnmèngJiāng sect.</p>
+                    <p>Soon after, a fireworks signal of nine lotus flower petals flickered in the air. The signal belonged to <MyAudio sound="/audio/yunmengjiang.mp3" name="YúnmèngJiāng" /> sect.</p>
                     <p>Wèi WúXiàn said, “Let’s wait here for the arrival of YúnmèngJiāng clan’s people, so, together, we can discuss what to do next.”</p>
                     <p>Indeed, this was Yúnmèng, a territory that was under the jurisdiction of the YúnmèngJiāng sect. Therefore, they could not handle this rain issue without their permission.</p>
                     <p>After a while, a purple dressed cultivator arrived on his sword. And, Wèi WúXiàn was inwardly surprised that there was a post tower of Lotus Piers nearby.</p>
                     <p>The newcomer looked young and exhausted. Something must have happened. His name was Jiāng Yuán, and he was stationed at the local post tower.</p>
-                    <p>Jiāng Yuán bowed to Lán WàngJī and Wèi WúXiàn, then said, “This rainstorm is so violent that it has caused flash floods in many places in lower reaches of Han River.</p>
+                    <p><MyAudio sound="/audio/jiangyuan.mp3" name="Jiāng Yuán" /> bowed to Lán WàngJī and Wèi WúXiàn, then said, “This rainstorm is so violent that it has caused flash floods in many places in lower reaches of Han River.</p>
                     <p>“Furthermore, water ghouls have taken advantage of the flooding to attack people.</p>
-                    <p>“The leader has already sent our people to every embankment for help. And, right now, there is a shortage of manpower. So, the dispatch of requesting assistance has already been sent to LánlíngJīn, GūsūLán and QīnghéNiè clans.”</p>
-                    <p>Wèi WúXiàn thought, “Jiāng Chéng* has always been arrogant and aloof. For him to swallow his pride and ask other clans for assistance, that surely proves how serious common people’s lives are threatened by the floods.”</p>
+                    <p>“The leader has already sent our people to every embankment for help. And, right now, there is a shortage of manpower. So, the dispatch of requesting assistance has already been sent to <MyAudio sound="/audio/lanlingjin.mp3" name="LánlíngJīn" />, <MyAudio sound="/audio/gusulan.mp3" name="GūsūLán" /> and <MyAudio sound="/audio/qinghenie.mp3" name="QīnghéNiè" /> clans.”</p>
+                    <p>Wèi WúXiàn thought, “<MyAudio sound="/audio/jiangcheng.mp3" name="Jiāng Chéng" />* has always been arrogant and aloof. For him to swallow his pride and ask other clans for assistance, that surely proves how serious common people’s lives are threatened by the floods.”</p>
                     <small>*Jiāng Chéng is the birth name of the YúnmèngJiāng sect leader.</small>
                     <p>Wèi WúXiàn asked, “Where is Leader Jiāng as we speak?”</p>
                     <p>Jiāng Yuán replied, “The leader is in charge of protecting the Shiyan embankment.”</p>
@@ -35,8 +36,8 @@ const Chap02 = () => {
                     <p>Wèi WúXiàn smiled, then adjusted the collar of Yú XiǎoShān’s school uniform, and said, “It’s all right. Who has ever done a few reckless things when they were young. I was much more of a fool than you back then. Don’t cry.”</p>
                     <p>The other teenagers from YúnmèngJiāng sect gathered around Wèi WúXiàn, then, in a low voice and in a discordant manner, they all called, “Wèi qiánbèi.”</p>
                     <p>One by one, Wèi WúXiàn fondled the top of their heads. Then, he addressed to everyone, “Right now, we can no longer return to Lotus Piers by boat.</p>
-                    <p>“Since this place is where the young dragon cultivated itself, SīZhuī and JǐngYí, you two stay here along with the rest of GūsūLán disciples, in case something else happens.</p>
-                    <p>“As for the disciples of YúnmèngJiāng sect, who are more familiar with this area, come along with HánGuāng-Jūn* and me.</p>
+                    <p>“Since this place is where the young dragon cultivated itself, <MyAudio sound="/audio/sizhui.mp3" name="SīZhuī" /> and <MyAudio sound="/audio/jingyi.mp3" name="JǐngYí" />, you two stay here along with the rest of GūsūLán disciples, in case something else happens.</p>
+                    <p>“As for the disciples of YúnmèngJiāng sect, who are more familiar with this area, come along with <MyAudio sound="/audio/hanguangjun.mp3" name="HánGuāng-Jūn" />* and me.</p>
                     <small>*HánGuāng-Jūn is the honorific title of Lán WàngJī.</small>
                     <p>“We are going to Shiyan embankment to join Leader Jiāng. On our way there, we will fly over Han River in order to inspect the water level of the river.”</p>
                     <p>“Yes, sir!” agreed everyone.</p>
@@ -45,12 +46,12 @@ const Chap02 = () => {
                     <br />
                     <p>Lán WàngJī had taken Wèi WúXiàn to ride on his sword.</p>
                     <p>Wrapping his arms around Lán WàngJī’s waist, Wèi WúXiàn said while fiddling with the waist pendant of Lán WàngJī, “Second Brother*, you will be tired. Let me ride on my own sword.”</p>
-                    <small>*Second Brother (二哥哥, èr gēgē) is referred to the second child (male) of a family.</small>
+                    <small>*Second Brother (<MyAudio sound="/audio/ergege.mp3" name="二哥哥" />, èr gēgē) is referred to the second child (male) of a family.</small>
                     <p>Lán WàngJī said, “You just formed your golden core. For the time being, you should not use your spiritual power.”</p>
                     <p>He then held Wèi WúXiàn’s hand, and added, “When we arrive at Shiyan embankment, you’ll need to meditate in order to adjust your breath.”</p>
                     <p>Flying through the strong storm that caused them to move much slower than usual, all of them had wrapped themselves with a waterproof spell.</p>
                     <p>Beneath, the river was raging. Wèi WúXiàn could observe a sharp increase in the water level. And, in many places, the river had already overflown the embankments.</p>
-                    <p>Suddenly, Lán WàngJī stopped Bìchén*. Pointing towards a location, he asked, “What is that?”</p>
+                    <p>Suddenly, Lán WàngJī stopped <MyAudio sound="/audio/bichen.mp3" name="Bìchén" />*. Pointing towards a location, he asked, “What is that?”</p>
                     <small>*Bìchén is the name of Lán WàngJī’s sword.</small>
                     <p>Everyone looked in the direction he had pointed his finger, and saw a huge hole on the ground. Its depth was very deep, and, around that hole, there was a dense woodland with an abundant vegetation.</p>
                     <p>Jiāng Yuán replied, “That is Ganlin Reservoir of the previous dynasty. It is now abandoned.</p>
@@ -75,7 +76,7 @@ const Chap02 = () => {
                     <br />
                     <p>... ... ...</p>
                     <br />
-                    <p>The name of the village was Wěishàn, and the negotiation had already begun.</p>
+                    <p>The name of the village was <MyAudio sound="/audio/weishan.mp3" name="Wěishàn" />, and the negotiation had already begun.</p>
                     <p>“HánGuāng-Jūn, even though you are highly regarded in the elite society, you should not trouble yourself with our mundane matters.</p>
                     <p>“We have been living in this village for four or five generations. Are you expecting us to move out just because you told us to do so?” said the village chief arrogantly. With his walking stick, he banged on the floor as he finished talking.</p>
                     <p>“No way!” objected the rest of the villagers.</p>
@@ -90,15 +91,15 @@ const Chap02 = () => {
                     <p>The village chief reacted, “I don’t believe in your promise, because you people from privileged sects are the most deceitful mankind. When the time comes, neither your sect nor the authorities will easily accept to compensate us.”</p>
                     <p>Another villager put forward, “We’ve never experienced any disaster despite the heavy rains that pour down every year. So, we won’t leave!”</p>
                     <p>Then, one after another, the villagers started to raise their voice, behaving as though the imminent threat was none of their concern.</p>
-                    <p>Time was running out, and, standing behind Lán WàngJī, Wèi WúXiàn couldn’t take it any longer. He approached the drillmaster, and, in deep voice, he asked, “Drillmaster Zhāng, is it true that the compensation has already been assessed?”</p>
+                    <p>Time was running out, and, standing behind Lán WàngJī, Wèi WúXiàn couldn’t take it any longer. He approached the drillmaster, and, in deep voice, he asked, “Drillmaster <MyAudio sound="/audio/zhang.mp3" name="Zhāng" />, is it true that the compensation has already been assessed?”</p>
                     <p>The drillmaster replied, “Yes, it’s true. The village chief saw it, and sighed it. However, the nine members of the village committee haven’t signed it yet.”</p>
                     <p>He then took out a stack of copies from his sleeve, and handed it over to Lán WàngJī. He added, “As a matter of fact, the villagers are ready to be relocated. They are just waiting for the compensation to be paid.”</p>
                     <p>The drillmaster cast a look at the villagers. After a few moments, he said, “Earlier, when I inspected the village, I noticed that you have already packed your belongings.”</p>
                     <p>The villagers appeared to be indifferent to what the drillmaster just said, wearing a disdainful look on their faces.</p>
                     <p>Wèi WúXiàn said, “Very well.”</p>
-                    <p>Then, he pulled off Chénqíng* from his waist belt, and, using his flute, he carelessly began to tap on the palm of his another hand.</p>
+                    <p>Then, he pulled off <MyAudio sound="/audio/chenqing.mp3" name="Chénqíng" />* from his waist belt, and, using his flute, he carelessly began to tap on the palm of his another hand.</p>
                     <small>*Chénqíng is the name of Wèi WúXiàn’s flute.</small>
-                    <p>A rictus appeared on the corner of his mouth, he asked, “By the way, have you ever heard of Yílíng Lǎozǔ*?”</p>
+                    <p>A rictus appeared on the corner of his mouth, he asked, “By the way, have you ever heard of <MyAudio sound="/audio/yilinglaozu.mp3" name="Yílíng Lǎozǔ" />*?”</p>
                     <small>*Yílíng Lǎozǔ is the honorific title of Wèi WúXiàn.</small>
                     <p>The village chief suddenly turned pale, thinking inwardly, “Rumour has it that Yílíng Lǎozǔ and HánGuāng-Jūn got married, and become an inseparable couple. Could it be that this handsome young man is Yílíng Lǎozǔ?”</p>
                     <p>These villagers had never seen Yílíng Lǎozǔ. However, they had heard about his prowess during the Shooting Sun campaign, his hostility on Qióngqí Path and his atrocities at Nightless Sky City.</p>
