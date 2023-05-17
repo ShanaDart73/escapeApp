@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Icons from '../sidebarIcons/icons'
 import MyAudio from '../../../components/lostOfOblivion/sounds/my-audio'
-import { Wrapper, Container, Header, Content, Sidebar, Footer, NextBtn, PrevBtn } from '../../../components/lostOfOblivion/chapters/chapter.style'
+import { Wrapper, Container, Header, LeftPicture, Content, Sidebar, Footer, NextBtn, PrevBtn } from '../../../components/lostOfOblivion/chapters/chapter.style'
 
 const pageHeading = "Lost of Oblivion: Chapter Two"
 
@@ -10,6 +10,9 @@ const Chap02 = () => {
         <Wrapper>
             <Container onContextMenu={(e) => e.preventDefault()}>
                 <Header>{pageHeading}</Header>
+                <LeftPicture>
+                    <img src="/photos/lostOfOblivion/chapter02/leftPicture.png" alt="" />
+                </LeftPicture>
                 <Content>
                     <p>“Lán Zhàn, this is not a normal rain.” said Wèi WúXiàn.</p>
                     <p>“Uh-huh.” agreed Lán WàngJī, then he looked far into the distance, and saw the endless dark clouds covering the city, the torrential rain pouring like hell, and the strong wind roaring like a tiger.</p>
