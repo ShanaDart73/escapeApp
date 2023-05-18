@@ -103,7 +103,9 @@ export const LeftPicture = styled.div`
     
     img {
       width: 100%;
-      height: 88vh;
+      height: 100%;
+      object-fit: cover;
+      object-position: top;
     }
   }
 `;
@@ -165,7 +167,9 @@ export const RightPicture = styled.div`
     
     img {
       width: 100%;
-      height: 88vh;
+      height: 100%;
+      object-fit: cover;
+      object-position: top;
     }
   }
 `;
