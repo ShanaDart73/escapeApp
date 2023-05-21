@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Icons from '../sidebarIcons/icons'
 import MyAudio from '../../../components/lostOfOblivion/sounds/my-audio'
-import { Wrapper, Container, Header, LeftPicture, Content, Sidebar, Footer, NextBtn, PrevBtn } from '../../../components/lostOfOblivion/chapters/chapter.style'
+import { Wrapper, Container, Header, LeftPicture, Content, RightPicture, Sidebar, Footer, NextBtn, PrevBtn } from '../../../components/lostOfOblivion/chapters/chapter.style'
 
 const pageHeading = "Lost of Oblivion: Chapter Two"
 
@@ -114,6 +114,9 @@ const Chap02 = () => {
                     <p>As one would expect, the villagers got frightened that they were no longer able to make noises.</p>
                     <p>Still, it was hard to believe that the vicious Yílíng Lǎozǔ was this fair-skinned and elegant young man.</p>
                 </Content>
+                <RightPicture>
+                    <img src="/photos/lostOfOblivion/chapter02/rightPicture.png" alt="" />
+                </RightPicture>
                 <Sidebar>
                     <Icons />
                 </Sidebar>

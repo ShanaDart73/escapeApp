@@ -199,6 +199,7 @@ export const NextBtn = styled.button`
   
   @media screen and (min-width: 768px) {
     font-size: 1em;
+    padding: 0.5em;
   }
 `;
 
