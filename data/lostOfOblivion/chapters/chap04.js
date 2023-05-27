@@ -13,7 +13,7 @@ const Chap04 = () => {
                     <img src="/photos/lostOfOblivion/chapter04/leftPicture.png" alt="" />
                 </LeftPicture>
                 <Content>
-                    Content goes here
+                    Content goes here, adding this to set upstream to origin branch
                 </Content>
                 <RightPicture>
                     <img src="/photos/lostOfOblivion/chapter04/rightPicture.png" alt="" />
