@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import Icons from '../sidebarIcons/icons'
+import MyAudio from '../../../components/lostOfOblivion/sounds/my-audio'
 import { Wrapper, Container, Header, LeftPicture, Content, RightPicture, Sidebar, Footer, PrevBtn, NextBtn } from '../../../components/lostOfOblivion/chapters/chapter.style'
 
 const pageHeading = "Lost of Oblivion: Chapter Three"
@@ -13,17 +14,17 @@ const Chap03 = () => {
                     <img src="/photos/lostOfOblivion/chapter03/leftPicture.png" alt="" />
                 </LeftPicture>
                 <Content>
-                    <p>So as to convince whoever might doubt that he was Yílíng Lǎozǔ, Wèi WúXiàn walked to the front of the hall, and slowly sat down on one of the main chairs.</p>
+                    <p>So as to convince whoever might doubt that he was <MyAudio sound="/audio/yilinglaozu.mp3" name="Yílíng Lǎozǔ" />, <MyAudio sound="/audio/weiwuxian.mp3" name="Wèi WúXiàn" /> walked to the front of the hall, and slowly sat down on one of the main chairs.</p>
                     <p>He then snapped his fingers, and, the very next instant, the villagers gasped in horror; a long-haired and faceless female demon in red appeared next to Wèi WúXiàn.</p>
                     <p>Using his flute, Wèi WúXiàn began to stir up the demon’s hair, which had an effect of stimulating the demon’s hostility. The sight of the faceless demon became extremely frightening.</p>
                     <p>Casting a sideways glance at the villagers, and in a gentle tone, yet, a tone full of threats, Wèi WúXiàn said, “I’ve run out of patience. You have until before the nightfall to leave the village. Whoever stays beyond that limit will be turned into a fierce corpse.”</p>
                     <p>The terrifying Yílíng Lǎozǔ, who showed no sympathy to anyone, who just by mentioning his name made children stop crying at night, instantly made those reluctant villagers get going.</p>
                     <p>There were nearly a hundred officers sent in order to assist in relocation of the villagers, and those officers brought along many horses and carts. Moreover, there were enough young adults in the village to give a hand. So, the evacuation would not be a major problem.</p>
-                    <p>“Mr Zhāng, now it’s down to you and your men to deal with the relocation.” said Wèi WúXiàn, “HánGuāng-Jūn and I are going to blow up the dam.”</p>
+                    <p>“Mr <MyAudio sound="/audio/zhang.mp3" name="Zhāng" />, now it’s down to you and your men to deal with the relocation.” said Wèi WúXiàn, “<MyAudio sound="/audio/hanguangjun.mp3" name="HánGuāng-Jūn" /> and I are going to blow up the dam.”</p>
                     <p>The drill instructor repeatedly said ‘yes’, while being on his guard. Apparently, the villagers were not the only ones being scared by Yílíng Lǎozǔ.</p>
-                    <p>Wèi WúXiàn was used to that kind of reaction. He humbly smiled to himself. What he wanted to do right now was to leave as soon as possible along with Lán WàngJī.</p>
+                    <p>Wèi WúXiàn was used to that kind of reaction. He humbly smiled to himself. What he wanted to do right now was to leave as soon as possible along with <MyAudio sound="/audio/lanwangji.mp3" name="Lán WàngJī" />.</p>
                     <p>However, at that precise moment, someone among the last few of the villagers to leave the hall suddenly stepped forward, and rudely said, “Wèi WúXiàn, you evil heretic! You’re still as insolent as ever!”</p>
-                    <p>That person turned out to be Fāng MèngChén*. Furthermore, this village was not only his grandmother’s homeland, but also the place where he had been living in seclusion.</p>
+                    <p>That person turned out to be <MyAudio sound="/audio/fangmengchen.mp3" name="Fāng MèngChén" />*. Furthermore, this village was not only his grandmother’s homeland, but also the place where he had been living in seclusion.</p>
                     <small>*Fāng MèngChén lost his parents during the Nightless Sky City bloodbath. When he got the chance to avenge their deaths, a turn of events happened, and he was instead saved by Wèi WúXiàn.</small>
                     <p>“HánGuāng-Jūn, Wèi WúXiàn’s evil nature has not changed. And yet, you condone his villainy.” carried on Fāng MèngChén in a resentful way.</p>
                     <p>Once there is a feeling of hatred in someone’s heart, lies and slanders are bound to be spread around, and people love to listen to the incredible and sensational rumours. Why should one bother about it? The truth never gets people excited, so it is easily ignored.</p>
@@ -34,16 +35,16 @@ const Chap03 = () => {
                     <p>Outside, the torrential rain kept on pouring. And, right now, it was a race against time to get all the villagers out of the village before the nightfall.</p>
                     <p>The early yelling of the villagers had caused Wèi WúXiàn’s head to spin. He knew that there were people who had their own mindset, and trying to reason with them would be just a waste of time. Therefore, he didn’t feel like justifying himself.</p>
                     <p>Wèi WúXiàn made a gesture to stop Lán WàngJī who was about to intervene, and simply said, “You knew straight away what kind of villain I am. So, why are you still here?”</p>
-                    <p>He then unsheathed Suíbiàn, pointed the sword towards Fāng MèngChén, and asked, “Can you beat me?” Fāng MèngChén immediately froze in fear. Then, he added, “ If you can’t, then shut up, and go help others to move out.”</p>
+                    <p>He then unsheathed <MyAudio sound="/audio/suibian.mp3" name="Suíbiàn" />, pointed the sword towards Fāng MèngChén, and asked, “Can you beat me?” Fāng MèngChén immediately froze in fear. Then, he added, “ If you can’t, then shut up, and go help others to move out.”</p>
                     <p>Fāng MèngChén’s face was filled with indignation. He then pointed his finger at Wèi WúXiàn, “You..., you...”</p>
                     <p>The faceless demon turned its head, and “looked” at Fāng MèngChén, as though she was threatening him.</p>
                     <p>As a result, Fāng MèngChén was no longer able to utter whatever the verbal abuse he was about to. He lifted his robes, walked towards the exit, and slammed the door as he left the hall.</p>
-                    <p>Still holding Chénqíng in his hand, Wèi WúXiàn waved at the female demon, and the latter disappeared. He hen thundered at the rest of villagers, “Why are you still here! Come on, get moving!”</p>
+                    <p>Still holding <MyAudio sound="/audio/chenqing.mp3" name="Chénqíng" /> in his hand, Wèi WúXiàn waved at the female demon, and the latter disappeared. He hen thundered at the rest of villagers, “Why are you still here! Come on, get moving!”</p>
                     <p>The villagers immediately dispersed, returning to their homes to get ready to leave the village.</p>
                     <p>Then, the drill instructor saluted Lán WàngJī and Wèi WúXiàn with his hands brought in of him, making one into a fist while the other covered the fist. He then left the assembly hall with his men.</p>
-                    <p>Wèi WúXiàn sent Jiāng Yuán along with the rest of the YúnmèngJiāng disciples to assist the villagers with their relocation.</p>
+                    <p>Wèi WúXiàn sent <MyAudio sound="/audio/jiangyuan.mp3" name="Jiāng Yuán" /> along with the rest of the <MyAudio sound="/audio/yunmengjiang.mp3" name="YúnmèngJiāng" /> disciples to assist the villagers with their relocation.</p>
                     <p>Right now, the only people remained inside the hall were Lán WàngJī and Wèi WúXiàn.</p>
-                    <p>“Wèi Yīng...” Lán WàngJī held Wèi WúXiàn’s hand, feeling extremely frustrated for not being able to defend him. He wanted to say something, but he felt that his words would not convey his feelings. Besides, he knew that he was not good at expressing himself.</p>
+                    <p>“<MyAudio sound="/audio/weiying.mp3" name="Wèi Yīng" />...” Lán WàngJī held Wèi WúXiàn’s hand, feeling extremely frustrated for not being able to defend him. He wanted to say something, but he felt that his words would not convey his feelings. Besides, he knew that he was not good at expressing himself.</p>
                     <p>Seeing that his sweetheart was longing to say something but unable to utter a single word, Wèi WúXiàn put an end to his struggle by placing Chénqíng over Lán WàngJī’s lips.</p>
                     <p>He then said, while smiling, “HánGuāng-Jūn, you’re such an angel. You always stand by my side. Cheer up! Don’t be so sad. I don’t care what other people think of me. I only care about you, and how you see me.”</p>
                     <p>He wrapped his arms around Lán WàngJī’s waist. His gaze became flirtatious, and his voice coquettish, “So, keep on pampering me, and never leave me.”</p>
@@ -54,7 +55,7 @@ const Chap03 = () => {
                     <br />
                     <p>... ... ...</p>
                     <br />
-                    <p>Located ten miles away from Wěishàn Village, the dam stood tall and majestic, on the top, five carts could drive abreast, and its outer walls were coated with iron, making the dam very resistant and solid.</p>
+                    <p>Located ten miles away from <MyAudio sound="/audio/weishan.mp3" name="Wěishàn" /> Village, the dam stood tall and majestic, on the top, five carts could drive abreast, and its outer walls were coated with iron, making the dam very resistant and solid.</p>
                     <p>Spiritual powers were primarily used to slay evil spirits, demons and monsters. Since all things in this world had their own laws and principles, cultivators’ powers turned out to be very limited in dealing with the mundane things.</p>
                     <p>So, destroying this robust dam in a very short period of time, even for someone with high spiritual power like Lán WàngJī, would take a lot of efforts to succeed.</p>
                     <p>In the pouring rain, Lán WàngJī and Wèi WúXiàn carefully selected the appropriate positions for the detonation. Then, they wrapped each blasting talisman with a waterproof spell, and then, placed them on the selected positions.</p>
@@ -68,8 +69,8 @@ const Chap03 = () => {
                     <p>Lán WàngJī said, “Okay.” Then, sitting on a rock, he extended the layer of his waterproof spell, and then, he carried Wèi WúXiàn on his lap, letting him rest on his arms.</p>
                     <p>The heavy rain was pouring like a towering waterfall, under the dark and gloomy clouds, the blue sky was high and out of sight. However, they cared less about this dreadful weather, since they had each other, and nothing else mattered to them.</p>
                     <p>With the exception of the rainstorm and river sounds, everything was completely silent. It seemed as though they were the only ones left in this vast world.</p>
-                    <p>Wèi WúXiàn formed his golden core at a critical moment. Then, for half a day, he had been rushing around, which made his golden core’s vessel become unstable. Right now, he felt extremely tired, he closed his eyes, and, in a low voice, he said, “Lán Zhàn, sing a song to lull me to sleep.”</p>
-                    <p>Lán WàngJī tenderly kissed Wèi WúXiàn on the forehead, then he softly began to hum WàngXiàn, a song that he composed for both of them. Soon after, Wèi WúXiàn fell into a deep sleep.</p>
+                    <p>Wèi WúXiàn formed his golden core at a critical moment. Then, for half a day, he had been rushing around, which made his golden core’s vessel become unstable. Right now, he felt extremely tired, he closed his eyes, and, in a low voice, he said, “<MyAudio sound="/audio/lanzhan.mp3" name="Lán Zhàn" />, sing a song to lull me to sleep.”</p>
+                    <p>Lán WàngJī tenderly kissed Wèi WúXiàn on the forehead, then he softly began to hum <MyAudio sound="/audio/wangxian.mp3" name="WàngXiàn" />, a song that he composed for both of them. Soon after, Wèi WúXiàn fell into a deep sleep.</p>
                     <br />
                     <p>... ... ...</p>
                     <br />
@@ -101,7 +102,9 @@ const Chap03 = () => {
                     <Link href="/lostOfOblivion/chapter02">
                         <PrevBtn>&larr;Prev</PrevBtn>
                     </Link>
-                    <NextBtn>Next&rarr;</NextBtn>
+                    <Link href="/lostOfOblivion/chapter04">
+                        <NextBtn>Next&rarr;</NextBtn>
+                    </Link>
                 </Footer>
             </Container>
         </Wrapper>
