@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import Icons from '../sidebarIcons/icons'
+import MyAudio from '../../../components/sounds/my-audio'
 import { Wrapper, Container, Header, LeftPicture, Content, RightPicture, Sidebar, Footer, PrevBtn, NextBtn } from '../../../components/lostOfOblivion/chapters/chapter.style'
 
 const pageHeading = "Lost of Oblivion: Chapter Four"
@@ -13,9 +14,9 @@ const Chap04 = () => {
                     <img src="/photos/lostOfOblivion/chapter04/leftPicture.png" alt="" />
                 </LeftPicture>
                 <Content>
-                    <p>First of all, Wèi WúXiàn flew back to Wěishàn Village, and observed that it was completely empty, not even a single farm animal was left behind.</p>
+                    <p>First of all, <MyAudio sound="/audio/weiwuxian.mp3" name="Wèi WúXiàn" /> flew back to <MyAudio sound="/audio/weishan.mp3" name="Wěishàn" /> Village, and observed that it was completely empty, not even a single farm animal was left behind.</p>
                     <p>Like the drill instructor mentioned earlier that the villagers had already packed their belongings, which, fortunately, made the evacuation to be done much faster.</p>
-                    <p>Wèi WúXiàn then proceeded on what brought him here by blowing on Chénqíng so as to summon a large numbers of fierce corpses from the graveyard of the village.</p>
+                    <p>Wèi WúXiàn then proceeded on what brought him here by blowing on <MyAudio sound="/audio/chenqing.mp3" name="Chénqíng" /> so as to summon a large numbers of fierce corpses from the graveyard of the village.</p>
                     <p>Suddenly, he began to hear some cries, which were undoubtedly made by a baby.</p>
                     <p>Guided by the cries, Wèi WúXiàn found a baby girl, around three months old, inside of one of the empty houses.</p>
                     <p>Favouring boys over girls was the only reason that came into Wèi WúXiàn’s mind to explain why the parents of this baby heartlessly abandon their own daughter.</p>
@@ -30,16 +31,16 @@ const Chap04 = () => {
                     <p>Wèi WúXiàn then became concerned with the amount of time that took him to deal with the baby.</p>
                     <p>Without further delay, he took the baby’s blanket and wrapped the little baby, then, holding the baby, he secured the blanket firmly around his torso like a baby wrap carrier, and was ready to go. </p>
                     <p>Before leaving the house, Wèi WúXiàn put back the waterproof spell that he had removed when he entered into the house, then he flew towards Ankang River, giving orders to the fierce corpses to follow along.</p>
-                    <p>Remembering what Jiāng Yuán said about the Ankang embankment, which was burst by the flood under the reign of the previous dynasty, Wèi WúXiàn intended to build the barrier of fierce corpses at that precise location.</p>
+                    <p>Remembering what <MyAudio sound="/audio/jiangyuan.mp3" name="Jiāng Yuán" /> said about the Ankang embankment, which was burst by the flood under the reign of the previous dynasty, Wèi WúXiàn intended to build the barrier of fierce corpses at that precise location.</p>
                     <p>If his assumption was correct, the embankment must have been built where the width of the river was the most narrow, which was what he wanted.</p>
                     <p>The night had fallen in this dreadful rain, so, Wèi WúXiàn took out few fire-talismans from his sleeve, and ignited them so as to light his way to Ankang River.</p>
                     <p>Also illuminated by the talismans, Han River beneath was still turbulent, and the level of the water kept on increasing.</p>
                     <p>Upon reaching Ankang River, Wèi WúXiàn easily spotted the location of his interest, since the embankment had never been repaired, and, furthermore, at that spot, the current ran much faster.</p>
                     <p>He pulled off Chénqíng, brought it to his lips, but, all the sudden, he paused, appeared to have forgotten something.</p>
-                    <p>He put his flute back on his waist belt, unshielded Suíbiàn, and cut two small and clean pieces of his gown, then, carefully, he plugged the baby’s ears with the two pieces of cloth.</p>
+                    <p>He put his flute back on his waist belt, unshielded <MyAudio sound="/audio/suibian.mp3" name="Suíbiàn" />, and cut two small and clean pieces of his gown, then, carefully, he plugged the baby’s ears with the two pieces of cloth.</p>
                     <p>The little baby was still sleeping soundly, putting her tiny little hands on Wèi WúXiàn’s chest.</p>
                     <p>Wèi WúXiàn noticed it, and the whole scene brought a warm smile on his face.</p>
-                    <p>He then prodded her gently on the cheek, and said, “Young girl, wait that I finish my work here, then I will take you to see my HánGuāng-Jūn. He is the most handsome man in the world. You’re definitely going to like him.”</p>
+                    <p>He then prodded her gently on the cheek, and said, “Young girl, wait that I finish my work here, then I will take you to see my <MyAudio sound="/audio/hanguangjun.mp3" name="HánGuāng-Jūn" />. He is the most handsome man in the world. You’re definitely going to like him.”</p>
                     <p>Then, he pulled off Chénqíng, and began to blow some notes. In response to the sound of the flute, the fierce corpses from Wěishàn Village’s graveyard jumped into the river.</p>
                     <p>From the riverbed and across the river, a tall wall of fierce corpses was formed, then, countless of water ghouls emerged from water, and scrambled up to fill the gaps between fierce corpses.</p>
                     <p>Wèi WúXiàn intensified the sound of his flute, which cut through the darkness of the night, spread across the surroundings, and resounded through the sky.</p>
@@ -48,10 +49,10 @@ const Chap04 = () => {
                     <p>In this heavy rain, the barrier of fierce corpses and water ghouls was completed, and the Ankang embankment was temporarily repaired with water ghouls. </p>
                     <p>The downstream flow of water progressively dropped, while, on the other side of the barrier, the coming waves hit violently the newly erected barrier.</p>
                     <p>At this rate, the barrier would not withstand the pressure much longer, so, Wèi WúXiàn summoned more corpses from far to reinforce the barrier.</p>
-                    <p>However, it was not an easy task to overcome the force of nature, even for Yílíng Lǎozǔ, the founder of demonic cultivation.</p>
+                    <p>However, it was not an easy task to overcome the force of nature, even for <MyAudio sound="/audio/yilinglaozu.mp3" name="Yílíng Lǎozǔ" />, the founder of demonic cultivation.</p>
                     <p>At that instance, he felt a violent swing in his golden core vessel, immediately followed by a sharp pain as though his abdomen was ripped open.</p>
                     <p>“Oh gosh!” exclaimed Wèi WúXiàn, “I haven’t had the time to reconcile my newly formed golden core with my demonic power. Right now, the two opposite powers are clashing with each other.”</p>
-                    <p>Ever since he had been living with Lán WàngJī, Wèi WúXiàn had rarely used his demonic power.</p>
+                    <p>Ever since he had been living with <MyAudio sound="/audio/lanwangji.mp3" name="Lán WàngJī" />, Wèi WúXiàn had rarely used his demonic power.</p>
                     <p>However, right now, not only he overused it, but also the existence of the freshly formed golden core made the situation to be more alarming. So, Wèi WúXiàn didn’t dare to be reckless. Besides, he had promised Lán WàngJī that he would be careful.</p>
                     <p>The last thing to be done was to use talismans to stabilise the barrier that he had just finished building, then, with the baby girl, he would rejoin Lán WàngJī.</p>
                     <p>However, all the remains of talismans in his possession were all marked with ‘blasting’ character on them; no more blank talismans left to be used for the barrier.</p>
@@ -60,12 +61,12 @@ const Chap04 = () => {
                     <p>In the meantime, however, the pain in his golden core vessel had progressively increased. Now, it became unbearable.</p>
                     <p>“It’s done.” said to himself. Then, all of a sudden, he got dizzy, and, with the extreme pain in his abdomen, he was no longer able to stand on his sword, and fell on his butt along with his sword on the riverbed presently exhibited.</p>
                     <p>Using Suíbiàn as a support, and not allowing the silt to dirty the baby’s blanket, Wèi WúXiàn managed to stand up.</p>
-                    <p>Then, he said, “This dizziness is caused by my using too much blood. I’m afraid that this time I have to drink the GūsūLán bitter decoction without complaint.”</p>
+                    <p>Then, he said, “This dizziness is caused by my using too much blood. I’m afraid that this time I have to drink the <MyAudio sound="/audio/gusulan.mp3" name="GūsūLán" /> bitter decoction without complaint.”</p>
                     <p>At that precise moment, he felt a murderous aura, and, since he had been on the battlefields, facing death countless times, instinctively, Wèi WúXiàn dodged while protecting the baby.</p>
                     <p>The very next instant of him avoiding the unknown danger, a flash of energy of a sword whizzed past him.</p>
                     <p>A corner of his sleeve was torn off by the energy of that sword. Furthermore, the ripped cloth was sliced into small pieces, flew a few yards away, and landed scattered on the mud of the riverbed.</p>
-                    <p>Wèi WúXiàn then turned his head towards where the attack came from, and, to his astonishment, he saw Fāng MèngChén.</p>
-                    <p>Fāng MèngChén had left Wěishàn Village along with the rest of the villagers. However, soon after they had reached the main road, a quarrel broke out between the villagers and the youngsters of the YúnmèngJiāng sect.</p>
+                    <p>Wèi WúXiàn then turned his head towards where the attack came from, and, to his astonishment, he saw <MyAudio sound="/audio/fangmengchen.mp3" name="Fāng MèngChén" />.</p>
+                    <p>Fāng MèngChén had left Wěishàn Village along with the rest of the villagers. However, soon after they had reached the main road, a quarrel broke out between the villagers and the youngsters of the <MyAudio sound="/audio/yunmengjiang.mp3" name="YúnmèngJiāng" /> sect.</p>
                     <p>Soon, the scene became chaotic, and, taking advantage of the conflict, Fāng MèngChén sneaked away with his sword, and flew back to the village. Just as he approached the village, he saw Wèi WúXiàn, who carried a baby, flew towards Ankang City, followed by fierce corpses.</p>
                     <p>“So, it’s you, who furtively attacked me.” said Wèi WúXiàn.</p>
                     <p>“Yes, it’s me. Are you surprised to see me?” uttered Fāng MèngChén with a face full of hatred. “I’m here to put an end to your despicable existence.” he added.</p>
@@ -98,7 +99,9 @@ const Chap04 = () => {
                     <Link href="/lostOfOblivion/chapter03">
                         <PrevBtn>&larr;Prev</PrevBtn>
                     </Link>
-                    <NextBtn>Next&rarr;</NextBtn>
+                    <Link href="/lostOfOblivion/chapter05">
+                        <NextBtn>Next&rarr;</NextBtn>
+                    </Link>
                 </Footer>
             </Container>
         </Wrapper>
