@@ -1,6 +1,7 @@
 {
-  "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+  "/_app": "pages/_app.js",
+  "/lostOfOblivion/chapter05": "pages/lostOfOblivion/chapter05.js",
   "/lostOfOblivion/chapter04": "pages/lostOfOblivion/chapter04.js"
 }

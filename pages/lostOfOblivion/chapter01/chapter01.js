@@ -1,5 +1,5 @@
-import Chap01 from '../../../data/lostOfOblivion/chapters/chap01'
 import Head from 'next/head'
+import Chap01 from '../../../data/lostOfOblivion/chapters/chap01'
 
 const pageTitle = "Lost Of Oblivion: Chapter One"
 

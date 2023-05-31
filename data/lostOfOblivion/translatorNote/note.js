@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import MyAudio from '../../../components/lostOfOblivion/sounds/my-audio'
+import MyAudio from '../../../components/sounds/my-audio'
 
 const Note = () => {
     const sound = '/audio/weiwuxian.mp3'
