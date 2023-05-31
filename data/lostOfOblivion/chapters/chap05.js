@@ -10,7 +10,7 @@ const Chap05 = () => {
             <Container>
                 <Header>{pageHeading}</Header>
                 <LeftPicture>Left</LeftPicture>
-                <Content>Content goes here</Content>
+                <Content>Content goes here. Adding this text to set upstream to origin branch</Content>
                 <RightPicture>Right</RightPicture>
                 <Sidebar>
                     <Icons />
