@@ -2,8 +2,5 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
-  "/lostOfOblivion/chapter03": "pages/lostOfOblivion/chapter03.js",
-  "/lostOfOblivion/chapter01": "pages/lostOfOblivion/chapter01.js",
-  "/lostOfOblivion/chapter02": "pages/lostOfOblivion/chapter02.js",
   "/lostOfOblivion/chapter05": "pages/lostOfOblivion/chapter05.js"
 }
