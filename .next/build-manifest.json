@@ -25,6 +25,21 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/lostOfOblivion/chapter01": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/lostOfOblivion/chapter01.js"
+    ],
+    "/lostOfOblivion/chapter02": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/lostOfOblivion/chapter02.js"
+    ],
+    "/lostOfOblivion/chapter03": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/lostOfOblivion/chapter03.js"
+    ],
     "/lostOfOblivion/chapter05": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
