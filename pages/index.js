@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Image from 'next/image'
+import HomeContent from '../data/homepage/homeContent'
 import FooterNote from '../data/footerNote/footer'
 import { Container, Header, Content, Footer } from '../components/homepage/home.style'
 
@@ -22,7 +22,9 @@ const Homepage = () => {
                 <Header>
                     <img src="/photos/homepage/home.png" alt="" />
                 </Header>
-                <Content>Homepage Content</Content>
+                <Content>
+                    <HomeContent />
+                </Content>
                 <Footer>
                     <FooterNote />
                 </Footer>
