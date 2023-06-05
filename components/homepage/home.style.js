@@ -9,9 +9,9 @@ export const Container = styled.div`
           "footer";
   text-align: center;
   row-gap: 0.5rem;
-
+  
   font-family: "Times New Roman", serif;
-  background-image: linear-gradient(rgb(248, 232, 235), rgba(154, 92, 102, 0.87));
+  background: linear-gradient(rgb(248, 232, 235), rgba(154, 92, 102, 0.87));
 `;
 export const Header = styled.div`
   grid-row: 1 / 2;
@@ -36,4 +36,32 @@ export const Footer = styled.div`
   color: #ece6d9;
   padding: 1rem 1.5rem;
   text-align: left;
+`;
+
+export const StoryPic = styled.div`
+  padding: 1rem;
+  font-family: cursive;
+  
+  h2 {
+    margin: 0;
+  }
+  
+  img {
+    width: 100%;
+    border-radius: 1% 25%;
+  }
+`;
+
+export const StoryDetail = styled.div`
+  text-align: left;
+  padding: 0 1rem;
+  
+  span {
+    font-weight: bold;
+  }
+  
+  p {
+    margin: 0;
+    padding-bottom: 0.5rem;
+  }
 `;
