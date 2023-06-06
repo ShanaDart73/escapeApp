@@ -2,11 +2,6 @@ import Link from 'next/link'
 import styled from 'styled-components'
 import { StoryPic, StoryDetail } from '../../components/homepage/home.style'
 
-const Container = styled.div`
-  @media screen and (min-height: 1024px) {
-  }
-`;
-
 const StoryLink = styled(Link)`
   text-decoration: none;
 `;
@@ -37,10 +32,21 @@ const HomeContent = () => {
                     </StoryDetail>
                 </Canvas>
             </StoryLink>
-
-            <Canvas />
-            <Canvas />
-            <Canvas />
+            <Canvas>
+                <StoryPic>
+                    <h2>Coming soon</h2>
+                </StoryPic>
+            </Canvas>
+            <Canvas>
+                <StoryPic>
+                    <h2>Coming soon</h2>
+                </StoryPic>
+            </Canvas>
+            <Canvas>
+                <StoryPic>
+                    <h2>Coming soon</h2>
+                </StoryPic>
+            </Canvas>
         </>
     )
 }

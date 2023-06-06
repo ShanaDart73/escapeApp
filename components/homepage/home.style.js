@@ -73,21 +73,41 @@ export const LeftPhoto = styled.div`
 
 export const Content = styled.div`
   grid-row: 2 / 3;
+  
+  @media screen and (min-width: 1024px) {
+    grid-column: 2 / 3;
+    
+    width: 65vw;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr;
+    overflow: scroll;
+  }
 
+  @media screen and (min-width: 1124px) {
+    width: 59vw;
+  }
+
+  @media screen and (min-width: 1224px) {
+    width: 53vw;
+  }
+
+  @media screen and (min-width: 1324px) {
+    width: 49vw;
+  }
+`;
+
+export const CanvasContainer = styled.div`
   display: flex;
   flex-flow: column wrap;
   align-content: center;
   row-gap: 30px;
-  
+
   @media screen and (min-width: 768px) {
     flex-flow: row wrap;
     justify-content: center;
     row-gap: 20px;
     column-gap: 20px;
-  }
-
-  @media screen and (min-width: 1024px) {
-    grid-column: 2 / 3;
   }
 `;
 

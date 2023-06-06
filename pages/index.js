@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import HomeContent from '../data/homepage/homeContent'
 import FooterNote from '../data/footerNote/footer'
-import { Wrapper, Container, Header, LeftPhoto, Content, RightPhoto, Footer } from '../components/homepage/home.style'
+import { Wrapper, Container, Header, LeftPhoto, Content, CanvasContainer, RightPhoto, Footer } from '../components/homepage/home.style'
 
 const pageTitle = "Escape Homepage"
 
@@ -26,7 +26,9 @@ const Homepage = () => {
                     <img src="/photos/homepage/leftPicture.png" alt="" />
                 </LeftPhoto>
                 <Content>
-                    <HomeContent />
+                    <CanvasContainer>
+                        <HomeContent />
+                    </CanvasContainer>
                 </Content>
                 <RightPhoto>
                     <img src="/photos/homepage/rightPicture.png" alt="" />
