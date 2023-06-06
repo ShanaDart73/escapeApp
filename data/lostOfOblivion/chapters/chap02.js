@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import Icons from '../sidebarIcons/icons'
+import Icons from '../../../components/lostOfOblivion/sidebarIcons/icons'
 import MyAudio from '../../../components/sounds/my-audio'
 import { Wrapper, Container, Header, LeftPicture, Content, RightPicture, Sidebar, Footer, NextBtn, PrevBtn } from '../../../components/lostOfOblivion/chapters/chapter.style'
 
