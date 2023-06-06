@@ -1,13 +1,13 @@
 import Head from 'next/head'
 import HomeContent from '../data/homepage/homeContent'
 import FooterNote from '../data/footerNote/footer'
-import { Container, Header, Content, Footer } from '../components/homepage/home.style'
+import { Wrapper, Container, Header, LeftPhoto, Content, RightPhoto, Footer } from '../components/homepage/home.style'
 
 const pageTitle = "Escape Homepage"
 
 const Homepage = () => {
     return (
-        <>
+        <Wrapper>
             <Head>
                 <link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-touch-icon.png" />
                 <link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png" />
@@ -22,14 +22,20 @@ const Homepage = () => {
                 <Header>
                     <img src="/photos/homepage/home.png" alt="" />
                 </Header>
+                <LeftPhoto>
+                    <img src="/photos/homepage/leftPicture.png" alt="" />
+                </LeftPhoto>
                 <Content>
                     <HomeContent />
                 </Content>
+                <RightPhoto>
+                    <img src="/photos/homepage/rightPicture.png" alt="" />
+                </RightPhoto>
                 <Footer>
                     <FooterNote />
                 </Footer>
             </Container>
-        </>
+        </Wrapper>
     )
 }
 
