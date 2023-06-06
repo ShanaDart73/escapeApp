@@ -1,4 +1,5 @@
 import Nav from './nav'
+import Link from 'next/link'
 import styled from 'styled-components'
 
 const Logo = styled.div`
@@ -16,9 +17,11 @@ const Logo = styled.div`
 const Icons = () => {
     return (
         <>
-            <Logo>
-                <img src="/logos/home.svg" height="auto" width="100%" alt="" />
-            </Logo>
+            <Link href="/">
+                <Logo>
+                    <img src="/logos/home.svg" height="auto" width="100%" alt="" />
+                </Logo>
+            </Link>
             <Nav />
             <Logo>
                 <img src="/logos/coffee.svg" height="auto" width="100%" alt="" />
