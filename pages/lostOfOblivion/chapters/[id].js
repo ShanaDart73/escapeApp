@@ -1,6 +1,6 @@
 import { getAllChapters, getAllChapIds } from '../../../lib/lostOfOblivion/allDataArrays'
-import { Wrapper, Container, Header, Content } from '../../../components/homepage/home.style'
 import { deserialize } from 'react-serialize'
+import styles from '../../../styles/chap.module.css'
 
 export async function getStaticPaths() {
     const paths = await getAllChapIds()
@@ -21,20 +21,29 @@ export async function getStaticProps({ params }) {
 
 const DynamicPages = ({ data }) => {
     return (
-        <Wrapper onContextMenu={(e) => e.preventDefault()}>
-            <Container>
-                <Header>
+        <div className={styles.wrapper} onContextMenu={(e) => e.preventDefault()}>
+            <div className={styles.container}>
+                <div className={styles.header}>
                     {data.header}
-                </Header>
+                </div>
                 <div></div>
-                <Content>
+                <div className={styles.content}>
                     {deserialize(data.content)}
-                </Content>
+                </div>
                 <div></div>
-                <div></div>
-                <div></div>
-            </Container>
-        </Wrapper>
+                <div className={styles.sidebar}>
+                    <div></div>
+                </div>
+                <div className={styles.footer}>
+                    <button className={styles.prevBtn}>
+                        &larr;Prev
+                    </button>
+                    <button className={styles.nextBtn}>
+                        Next&rarr;
+                    </button>
+                </div>
+            </div>
+        </div>
     )
 }
 
