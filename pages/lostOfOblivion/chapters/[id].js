@@ -41,11 +41,15 @@ const DynamicPages = ({ data }) => {
                 <div className={styles.header}>
                     {data.header}
                 </div>
-                <div></div>
+                <div className={styles.leftPicture}>
+                    <img src={data.leftImg} alt="Picture" />
+                </div>
                 <div className={styles.content}>
                     {deserialize(data.content)}
                 </div>
-                <div></div>
+                <div className={styles.rightPicture}>
+                    <img src={data.rightImg} alt="Picture" />
+                </div>
                 <div className={styles.sidebar}>
                     <Icons />
                 </div>
