@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import Link from 'next/link'
 
 export const Sidenav = styled.nav`
   height: 100%;
@@ -7,7 +6,7 @@ export const Sidenav = styled.nav`
   max-width: 70%;
   position: fixed;
   z-index: 99;
-  top: 7px;
+  top: 110px;
   right: 0;
 
   background-color: rgba(13, 15, 82, 0.98);
@@ -17,7 +16,7 @@ export const Sidenav = styled.nav`
   transition: all 0.7s ease-in-out;
 
   div {
-    padding: 8px 32px 8px 8px;
+    padding: 8px 8px 8px 30px;
     color: #818181;
     display: block;
   }
@@ -26,7 +25,7 @@ export const Sidenav = styled.nav`
     translate: ${props => props.display ? "-20px" : "250px"};
     
     div {
-      padding: 4px 16px 4px 4px;
+      padding: 4px 4px 4px 27px;
     }
   }
 `;

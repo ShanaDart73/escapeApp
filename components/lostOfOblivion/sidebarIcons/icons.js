@@ -1,5 +1,4 @@
 import Nav from './nav'
-import Navig from '../../../lib/lostOfOblivion/navIcons/nav'
 import Link from 'next/link'
 import styled from 'styled-components'
 
@@ -27,7 +26,6 @@ const Icons = () => {
             <Logo>
                 <img src="/logos/coffee.svg" height="auto" width="100%" alt="" />
             </Logo>
-            <Navig />
         </>
     )
 }
