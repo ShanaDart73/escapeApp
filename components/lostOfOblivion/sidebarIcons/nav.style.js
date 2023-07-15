@@ -31,7 +31,7 @@ export const Sidenav = styled.nav`
   }
 `;
 
-export const NavLink = styled(Link)`
+export const NavLink = styled.div`
   padding: 8px 8px 8px 36px;
   text-decoration: none;
   text-align: left;

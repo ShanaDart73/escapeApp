@@ -36,6 +36,7 @@
 
 /* CONTAINER */
 .container {
+    box-sizing: border-box;
     display: grid;
     grid-template-columns: 85% 15%;
     grid-template-rows: auto 1fr auto;
