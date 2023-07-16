@@ -1,6 +1,6 @@
 import Head from 'next/head'
-import HomeContent from '../data/homepage/homeContent'
-import FooterNote from '../data/footerNote/footer'
+import HomeContent from '../lib/homepage/homeContent'
+import FooterNote from '../lib/homepage/footerNote/footer'
 import { Wrapper, Container, Header, LeftPhoto, Content, CanvasContainer, RightPhoto, Footer } from '../components/homepage/home.style'
 
 const pageTitle = "Escape Homepage"
