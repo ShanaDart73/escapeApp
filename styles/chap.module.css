@@ -10,7 +10,7 @@
     font-family: "Times New Roman", Arial, serif, Verdana, Tahoma;
     padding: .5em;
     color: rgba(255, 255, 255, 0.5);
-    background-color: #171157;
+    background-color: #020139;
 }
 .wrapper::selection {
     background: none;
@@ -116,10 +116,15 @@
     .leftPicture {
         grid-column: 1 / 2;
         grid-row: 2 / 3;
-        height: 88vh;
+        height: 82vh;
         position: sticky;
         top: 4em;
         align-self: start;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .leftPicture {
+        height: 80vh;
     }
 }
 
@@ -144,7 +149,7 @@
 .sidebar {
     grid-column: 2 / 3;
     grid-row: 2 / 3;
-    height: 86vh;
+    height: 80vh;
     position: sticky;
     top: 4em;
     align-self: start;
@@ -161,11 +166,12 @@
 @media screen and (min-width: 768px) {
     .sidebar {
         grid-column: 3 / 4;
+        height: 77vh;
     }
 }
 @media screen and (min-width: 1024px) {
     .sidebar {
-        height: 85vh;
+        height: 75vh;
     }
 }
 
@@ -179,7 +185,7 @@
     .rightPicture {
         grid-column: 4 /5;
         grid-row: 2 / 3;
-        height: 88vh;
+        height: 80vh;
         position: sticky;
         top: 4em;
         align-self: start;
