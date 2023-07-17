@@ -3,7 +3,7 @@ import HomeContent from '../lib/homepage/homeContent'
 import FooterNote from '../lib/homepage/footerNote/footer'
 import { Wrapper, Container, Header, LeftPhoto, Content, CanvasContainer, RightPhoto, Footer } from '../components/homepage/home.style'
 
-const pageTitle = "Escape Homepage"
+const pageTitle = "escape homepage"
 
 const Homepage = () => {
     return (

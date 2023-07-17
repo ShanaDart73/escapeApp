@@ -6,13 +6,13 @@ export const Sidenav = styled.nav`
   max-width: 70%;
   position: fixed;
   z-index: 99;
-  top: 110px;
+  top: 80px;
   right: 0;
 
   background-color: rgba(13, 15, 82, 0.98);
   overflow-x: hidden;
   padding-top: 60px;
-  translate: ${props => props.display ? "10px" : "250px"};
+  translate: ${props => props.display ? "-10px" : "250px"};
   transition: all 0.7s ease-in-out;
 
   div {
@@ -23,10 +23,15 @@ export const Sidenav = styled.nav`
   
   @media screen and (min-width: 768px) {
     translate: ${props => props.display ? "-20px" : "250px"};
+    top: 110px;
     
     div {
       padding: 4px 4px 4px 27px;
     }
+  }
+  
+  @media screen and (min-width: 1024px) {
+    top: 150px;
   }
 `;
 
