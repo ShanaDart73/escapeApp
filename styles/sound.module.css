@@ -1,6 +1,8 @@
 
 .sidebar section div img {
     width: 30px;
+    position: fixed;
+
 }
 @media screen and (min-width: 500px) {
     .sidebar section div img {
@@ -10,7 +12,7 @@
 
 .sidebar section {
     position: fixed;
-    top: 3px;
+    top: 2px;
     left: 17px;
     width: 30px;
     height: 30px;
@@ -19,7 +21,7 @@
     border-color: #020139;
     overflow: hidden;
     background: #020139;
-    transition: 0.05s;
+    transition: all 0.7s ease-in-out;
 }
 @media screen and (min-width: 500px) {
     .sidebar section {
@@ -31,23 +33,19 @@
 
 .sidebar section:hover {
     width: 190px;
-    height: 90vh;
+    height: 50vh;
+    overflow-y: scroll;
 }
 @media screen and (min-width: 500px) {
     .sidebar section:hover {
         width: 230px;
     }
 }
-@media screen and (min-width: 1024px) {
-    .sidebar section:hover {
-        height: 75vh;
-    }
-}
 
 .sidebar section ul {
     position: relative;
     width: 410px;
-    height: 100vh;
+    height: auto;
 }
 @media screen and (min-width: 500px) {
     .sidebar section ul {
