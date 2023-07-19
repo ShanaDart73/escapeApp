@@ -1,0 +1,43 @@
+
+.sidebar section div img {
+    width: 40px;
+}
+
+.sidebar section {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    background: #020139;
+    transition: 0.05s;
+}
+
+.sidebar section:hover {
+    width: 200px;
+    height: 100vh;
+}
+
+.sidebar section ul {
+    position: relative;
+    width: 410px;
+    height: 100vh;
+}
+
+.sidebar section ul li {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+
+.sidebar section ul li span {
+    position: relative;
+    height: 30px;
+}
+
+.sidebar section ul li audio {
+     height: 15px;
+    position: relative;
+ }
