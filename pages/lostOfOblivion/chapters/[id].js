@@ -46,9 +46,6 @@ const DynamicPages = ({ data }) => {
                     <img src={data.leftImg} alt="Picture" />
                 </div>
                 <div className={styles.content}>
-                    <div className={soundStyles.sidebar}>
-                        {deserialize(data.audio)}
-                    </div>
                     {deserialize(data.content)}
                 </div>
                 <div className={styles.rightPicture}>

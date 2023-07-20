@@ -1,4 +1,5 @@
 import Nav from './nav'
+import Sound from './sound'
 import Link from 'next/link'
 import styled from 'styled-components'
 
@@ -25,6 +26,9 @@ const Icons = () => {
             <Nav />
             <Logo>
                 <img src="/logos/coffee.svg" height="auto" width="100%" alt="" />
+            </Logo>
+            <Logo>
+                <Sound />
             </Logo>
         </>
     )
