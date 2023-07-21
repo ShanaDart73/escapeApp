@@ -1,6 +1,8 @@
 import { useState } from 'react'
-import { chapter01, chapter02 } from '../../../lib/lostOfOblivion/allSounds'
-import { Sidebar, AudioIcon } from './sound.style'
+import MyAudio from '../../sounds/my-audio'
+import { allChapters } from '../../../lib/lostOfOblivion/allSounds'
+import { Sidebar, CloseSidebar, SoundContainer, SoundList, AudioIcon } from './sound.style'
+import {displayContent} from "next/dist/client/dev/fouc";
 
 const Sound = () => {
     const [audio, setAudio] = useState(false)
@@ -8,21 +10,21 @@ const Sound = () => {
         setAudio(!audio)
     }
     const soundChapList = [
-        { name: chapter01, id: 1 },
-        { name: chapter02, id: 2 }
+        { name: <MyAudio sound="/audio/weiqianbei.mp3" name="Wèi qiánbèi" />, id: 1 },
+        { name: <MyAudio sound="/audio/yuxiaoshan.mp3" name="Yú XiǎoShān" />, id: 2}
     ]
 
     return (
         <>
             <Sidebar audio={audio}>
-                <div onClick={handleClick}><span>&times;</span></div>
-                <div>
+                <CloseSidebar onClick={handleClick}><span>&times;</span></CloseSidebar>
+                <SoundContainer>
                     {soundChapList.map(({ name, id }) => (
-                        <div key={id}>
+                        <SoundList key={id}>
                             {name}
-                        </div>
+                        </SoundList>
                     ))}
-                </div>
+                </SoundContainer>
             </Sidebar>
             <AudioIcon audio={audio} onClick={handleClick}>
                 <img  src="/logos/audio.svg" height="auto" width="100%" alt="" />
