@@ -7,7 +7,11 @@ const Wrap = styled.span`
 `;
 const Sound = styled.span`
   font-size: inherit;
-  color: #8eb1bf;
+  color: rgba(250, 250, 250, 0.5);
+  
+  :hover {
+    color:lightblue;
+  }
 `;
 
 const MyAudio = ({ sound, name }) => {
