@@ -3,7 +3,6 @@ import Head from 'next/head'
 import { getAllChapters, getAllChapIds } from '../../../lib/lostOfOblivion/allDataArrays'
 import { deserialize } from 'react-serialize'
 import styles from '../../../styles/chap.module.css'
-import soundStyles from '../../../styles/sound.module.css'
 import Icons from '../../../components/lostOfOblivion/sidebarIcons/icons'
 
 const pageTitle = "escape"

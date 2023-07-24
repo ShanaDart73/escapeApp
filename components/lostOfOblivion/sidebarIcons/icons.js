@@ -25,10 +25,10 @@ const Icons = () => {
             </Link>
             <Nav />
             <Logo>
-                <img src="/logos/coffee.svg" height="auto" width="100%" alt="" />
+                <Sound />
             </Logo>
             <Logo>
-                <Sound />
+                <img src="/logos/coffee.svg" height="auto" width="100%" alt="" />
             </Logo>
         </>
     )
