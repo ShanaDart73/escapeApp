@@ -5,7 +5,7 @@ import { deserialize } from 'react-serialize'
 import styles from '../../../styles/chap.module.css'
 import Icons from '../../../components/lostOfOblivion/sidebarIcons/icons'
 
-const pageTitle = "Escape"
+const pageTitle = "escape"
 
 export async function getStaticPaths() {
     const paths = await getAllChapIds()

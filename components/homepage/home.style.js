@@ -11,6 +11,7 @@ export const Wrapper = styled.div`
 `;
 
 export const Container = styled.div`
+  box-sizing: border-box;
   display: grid;
   grid-template-rows: auto 1fr auto;
   grid-template-areas: 
