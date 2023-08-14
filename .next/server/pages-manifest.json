@@ -1,10 +1,6 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-<<<<<<< HEAD
-  "/_document": "pages/_document.js"
-=======
   "/_document": "pages/_document.js",
   "/lostOfOblivion/chapters/[id]": "pages/lostOfOblivion/chapters/[id].js"
->>>>>>> 3cc39547ac226d6019d1b2fa719450eb39e4cbd2
 }
