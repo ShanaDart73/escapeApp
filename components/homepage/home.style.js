@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Wrapper = styled.div`
   font-size: 1rem;
   font-family: "Times New Roman", serif;
-  background: linear-gradient(rgb(248, 232, 235), rgba(154, 92, 102, 0.87));
+  background: #000017;
 
   @media screen and (min-width: 768px) {
     font-size: 1.2rem;
@@ -133,7 +133,7 @@ export const RightPhoto = styled.div`
 export const Footer = styled.div`
   grid-row: 3 / 4;
 
-  color: #ece6d9;
+  color: rgba(255, 255, 255, 0.49);
   padding: 1rem 1.5rem 0;
   text-align: left;
   
