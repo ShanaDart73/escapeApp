@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Router from 'next/router'
-import { Sidenav, NavLink, CloseNav, Menu } from './nav.style'
+import { Sidenav, NavList, NavLink, CloseNav, Menu } from './nav.style'
 
 const Nav = () => {
     let [display, setDisplay] = useState(false)
@@ -22,13 +22,13 @@ const Nav = () => {
         <>
             <Sidenav display={display}>
                 <CloseNav onClick={handleClick}><span>&times;</span></CloseNav>
-                <div>
+                <NavList>
                     {chapList.map(({ name, link, id }) => (
                         <NavLink key={id} onClick={() => Router.push(link)}>
                             {name}
                         </NavLink>
                     ))}
-                </div>
+                </NavList>
             </Sidenav>
             <Menu display={display} onClick={handleClick}>
                 <img src="/logos/nav.svg" height="auto" width="100%" alt="" />

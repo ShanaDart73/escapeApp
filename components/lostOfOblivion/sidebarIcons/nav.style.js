@@ -15,12 +15,6 @@ export const Sidenav = styled.nav`
   padding-top: 60px;
   translate: ${props => props.display ? "-10px" : "250px"};
   transition: all 0.7s ease-in-out;
-
-  div {
-    padding: 8px 8px 8px 30px;
-    color: #818181;
-    display: block;
-  }
   
   @media screen and (min-width: 768px) {
     translate: ${props => props.display ? "-20px" : "250px"};
@@ -35,6 +29,15 @@ export const Sidenav = styled.nav`
     translate: ${props => props.display ? "-25px" : "250px"};
     top: 110px;
   }
+`;
+
+export const NavList = styled.div`
+  padding: 8px 8px 8px 30px;
+  color: #818181;
+  height: 60vh;
+  display: flex;
+  flex-flow: nowrap column;
+  overflow-y: scroll;
 `;
 
 export const NavLink = styled.div`
@@ -79,14 +82,14 @@ export const CloseNav = styled.div`
 `;
 
 export const Menu = styled.div`
-  width: 30px;
+  width: 40px;
   cursor: pointer;
 
   @media screen and (min-width: 500px) {
-    width: 40px;
+    width: 50px;
   }
   
-  @media screen and (min-width: 768px) {
-    width: 50px;
+  @media screen and (min-width: 600px) {
+    width: 60px;
   }
 `;

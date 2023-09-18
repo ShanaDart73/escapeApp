@@ -66,14 +66,14 @@ export const SoundList = styled.div`
 `;
 
 export const AudioIcon = styled.div`
-  width: 30px;
+  width: 40px;
   cursor: pointer;
 
   @media screen and (min-width: 500px) {
-    width: 40px;
+    width: 50px;
   }
 
-  @media screen and (min-width: 768px) {
-    width: 50px;
+  @media screen and (min-width: 600px) {
+    width: 60px;
   }
 `;
