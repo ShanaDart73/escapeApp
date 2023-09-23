@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import { NextSeo } from 'next-seo'
 import HomeContent from '../lib/homepage/homeContent'
 import FooterNote from '../lib/homepage/footerNote/footer'
 import { Wrapper, Container, Header, LeftPhoto, Content, CanvasContainer, RightPhoto, Footer } from '../components/homepage/home.style'
@@ -8,6 +9,10 @@ const pageTitle = "escape homepage"
 const Homepage = () => {
     return (
         <Wrapper>
+            <NextSeo
+                title="escape"
+                description="Enjoy reading side stories of Lan WangJi and Wei WuXian, the popular characters of Modaozushi."
+            />
             <Head>
                 <link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-touch-icon.png" />
                 <link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png" />
