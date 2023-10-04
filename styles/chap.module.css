@@ -93,7 +93,6 @@
 @media screen and (min-width: 1024px) {
     .header {
         grid-column: 1 / 5;
-        font-size: 1.6em;
         padding: 0.8em;
     }
 }

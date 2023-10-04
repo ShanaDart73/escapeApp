@@ -50,6 +50,7 @@ export const NavLink = styled.div`
 
   :hover {
     color: #b4d4ff;
+    cursor: pointer;
   }
 
   @media screen and (min-width: 768px) {
