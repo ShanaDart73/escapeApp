@@ -2,7 +2,7 @@ import Head from 'next/head'
 import { NextSeo } from 'next-seo'
 import HomeContent from '../lib/homepage/homeContent'
 import FooterNote from '../lib/homepage/footerNote/footer'
-import { Wrapper, Container, Header, LeftPhoto, Content, CanvasContainer, RightPhoto, Footer } from '../components/homepage/home.style'
+import { Wrapper, Container, Header, HeaderCanvas, ContentCanvas, Footer } from '../components/homepage/home.style'
 
 const pageTitle = "escape homepage"
 
@@ -25,19 +25,13 @@ const Homepage = () => {
             </Head>
             <Container>
                 <Header>
-                    <img src="/photos/homepage/home.png" alt="" />
+                    <HeaderCanvas>
+                        <img src="/photos/homepage/home.png" alt="" />
+                    </HeaderCanvas>
                 </Header>
-                <LeftPhoto>
-                    <img src="/photos/homepage/leftPicture.png" alt="" />
-                </LeftPhoto>
-                <Content>
-                    <CanvasContainer>
-                        <HomeContent />
-                    </CanvasContainer>
-                </Content>
-                <RightPhoto>
-                    <img src="/photos/homepage/rightPicture.png" alt="" />
-                </RightPhoto>
+                <ContentCanvas>
+                    <HomeContent />
+                </ContentCanvas>
                 <Footer>
                     <FooterNote />
                 </Footer>

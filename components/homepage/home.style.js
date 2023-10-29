@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Wrapper = styled.div`
   font-size: 1rem;
   font-family: "Times New Roman", serif;
-  background: #000017;
+  background: #000617;
 
   @media screen and (min-width: 768px) {
     font-size: 1.2rem;
@@ -11,127 +11,109 @@ export const Wrapper = styled.div`
 `;
 
 export const Container = styled.div`
-  box-sizing: border-box;
-  display: grid;
-  grid-template-rows: auto 1fr auto;
-  grid-template-areas: 
-          "header"
-          "content"
-          "footer";
-  text-align: center;
-  row-gap: 0.5rem;
+  padding-bottom: 30px;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  row-gap: 30px;
   
   @media screen and (min-width: 1024px) {
-    grid-template-columns: 17% 66% 17%;
-    grid-template-areas: 
-            "header header header"
-            "lelfPhoto content rightPhoto"
-            "footer footer footer";
-  }
-
-  @media screen and (min-width: 1124px) {
-    grid-template-columns: 20% 60% 20%;
-  }
-
-  @media screen and (min-width: 1224px) {
-    grid-template-columns: 23% 54% 23%;
-  }
-
-  @media screen and (min-width: 1324px) {
-    grid-template-columns: 25% 50% 25%;
+    row-gap: 50px;
   }
 `;
 
 export const Header = styled.div`
-  grid-row: 1 / 2;
-  
+  position: relative;
+  width: 315px;
+  height: 90px;
+
+  @media screen and (min-width: 500px) {
+    width: 450px;
+    height: 90px;
+  }
+
+  @media screen and (min-width: 650px) {
+    width: 600px;
+    height: 90px;
+  }
+
+  @media screen and (min-width: 760px) {
+    width: 713px;
+    height: 120px;
+  }
+
+  @media screen and (min-width: 1024px) {
+    width: 900px;
+    height: 400px;
+  }
+`;
+
+export const HeaderCanvas = styled.div`
+  position: absolute;
+  transform-style: preserve-3d;
+  transform: rotate3d(0.3, 0.12, -0.06, 0.15turn);
+  width: 315px;
+  height: 90px;
+  border-radius: 20px;
+
   img {
     width: 100%;
-  }
-  
-  @media screen and (min-width: 1024px) {
-    grid-column: 1 / 4;
-  }
-`;
-
-export const LeftPhoto = styled.div`
-  img {
-    width: 0;
-  }
-  
-  @media screen and (min-width: 1024px) {
-    grid-column: 1 / 2;
-    grid-row: 2 / 3;
+    border-radius: 20px;
     
-    img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: top;
+    @media screen and (min-width: 1024px) {
+      width: 900px;
+      height: 400px;
+      border-radius: 30px;
     }
-  }  
-`;
+  }
 
-export const Content = styled.div`
-  grid-row: 2 / 3;
+  @media screen and (min-width: 500px) {
+    width: 450px;
+    height: 90px;
+  }
+
+  @media screen and (min-width: 650px) {
+    width: 600px;
+    height: 90px;
+  }
   
+  @media screen and (min-width: 768px) {
+    transform: rotate3d(0.3, 0.12, -0.08, 0.2turn);
+    width: 713px;
+    height: 120px;
+  }
+
   @media screen and (min-width: 1024px) {
-    grid-column: 2 / 3;
-    
-    width: 65vw;
-    height: 100vh;
-    display: grid;
-    grid-template-columns: 1fr;
-    overflow: scroll;
-  }
-
-  @media screen and (min-width: 1124px) {
-    width: 59vw;
-  }
-
-  @media screen and (min-width: 1224px) {
-    width: 53vw;
-  }
-
-  @media screen and (min-width: 1324px) {
-    width: 49vw;
+    width: 900px;
+    height: 400px;
   }
 `;
 
-export const CanvasContainer = styled.div`
+export const ContentCanvas = styled.div`
   display: flex;
-  flex-flow: column wrap;
+  flex-flow: column nowrap;
   align-content: center;
   row-gap: 30px;
 
   @media screen and (min-width: 768px) {
-    flex-flow: row wrap;
+    display: flex;
+    flex-flow: wrap row;
     justify-content: center;
-    row-gap: 20px;
-    column-gap: 20px;
-  }
-`;
+    row-gap: 30px;
+    column-gap: 30px;
 
-export const RightPhoto = styled.div`
-  img {
-    width: 0;
+    width: 640px;
+    height: auto;
   }
-  
+
   @media screen and (min-width: 1024px) {
-    grid-column: 3 / 4;
-    grid-row: 2 /3;
-    
-    img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: top;
-    }
+    row-gap: 50px;
+    column-gap: 50px;
+    width: 660px;
   }
 `;
 
 export const Footer = styled.div`
-  grid-row: 3 / 4;
 
   color: rgba(255, 255, 255, 0.49);
   padding: 1rem 1.5rem 0;
@@ -141,14 +123,23 @@ export const Footer = styled.div`
     margin: 0;
   }
   
+  @media screen and (min-width: 500px) {
+    width: 450px;
+    height: auto;
+  }
+
+  @media screen and (min-width: 650px) {
+    width: 600px;
+  }
+  
   @media screen and (min-width: 768px) {
+    width: 713px;
     padding: 1rem 2rem 0;
   }
 
   @media screen and (min-width: 1024px) {
-    grid-column: 1 /4;
-    
-   font-size: 1.5rem;
+    width: 900px;
+    font-size: 1.5rem;
     padding: 1rem 3rem 3rem;
   }
 `;
