@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Wrapper = styled.div`
   font-size: 1rem;
   font-family: "Times New Roman", serif;
-  background: #000617;
+  background: #000007;
 
   @media screen and (min-width: 768px) {
     font-size: 1.2rem;
@@ -25,21 +25,21 @@ export const Container = styled.div`
 export const Header = styled.div`
   position: relative;
   width: 315px;
-  height: 90px;
+  height: 120px;
 
   @media screen and (min-width: 500px) {
     width: 450px;
-    height: 90px;
+    height: 200px;
   }
 
   @media screen and (min-width: 650px) {
     width: 600px;
-    height: 90px;
+    height: 250px;
   }
 
   @media screen and (min-width: 760px) {
-    width: 713px;
-    height: 120px;
+    width: 703px;
+    height: 300px;
   }
 
   @media screen and (min-width: 1024px) {
@@ -51,14 +51,30 @@ export const Header = styled.div`
 export const HeaderCanvas = styled.div`
   position: absolute;
   transform-style: preserve-3d;
-  transform: rotate3d(0.3, 0.12, -0.06, 0.15turn);
+  transform: rotate3d(0.3, 0.12, -0.08, 0.2turn);
   width: 315px;
-  height: 90px;
+  height: 120px;
   border-radius: 20px;
 
   img {
-    width: 100%;
+    width: 315px;
+    height: 120px;
     border-radius: 20px;
+
+    @media screen and (min-width: 500px) {
+      width: 450px;
+      height: 200px;
+    }
+
+    @media screen and (min-width: 650px) {
+      width: 600px;
+      height: 250px;
+    }
+
+    @media screen and (min-width: 760px) {
+      width: 703px;
+      height: 300px;
+    }
     
     @media screen and (min-width: 1024px) {
       width: 900px;
@@ -69,18 +85,17 @@ export const HeaderCanvas = styled.div`
 
   @media screen and (min-width: 500px) {
     width: 450px;
-    height: 90px;
+    height: 200px;
   }
 
   @media screen and (min-width: 650px) {
     width: 600px;
-    height: 90px;
+    height: 250px;
   }
   
-  @media screen and (min-width: 768px) {
-    transform: rotate3d(0.3, 0.12, -0.08, 0.2turn);
-    width: 713px;
-    height: 120px;
+  @media screen and (min-width: 760px) {
+    width: 703px;
+    height: 300px;
   }
 
   @media screen and (min-width: 1024px) {
