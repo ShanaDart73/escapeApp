@@ -10,9 +10,11 @@ export default function App({ Component, pageProps }) {
                 description="Enjoy reading side stories of Lan WangJi and Wei WuXian, the popular characters of Modaozushi."
                 openGraph={{
                     type: 'website',
+                    title: 'escape',
                     locale: 'en_IE',
-                    url: 'https://www.url.ie/',
+                    url: 'https://www.escape.co.net',
                     siteName: 'escape',
+                    description: 'Lan WangJi and Wei WuXian side stories, the popular characters of The Founder of Demonic Cultivation.',
                 }}
                 twitter={{
                     handle: '@handle',
