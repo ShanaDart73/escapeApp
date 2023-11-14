@@ -11,7 +11,7 @@ export default function App({ Component, pageProps }) {
                 openGraph={{
                     type: 'website',
                     title: 'escape',
-                    locale: 'en_IE',
+                    locale: 'en_GB',
                     url: 'https://www.escape.co.net',
                     siteName: 'escape',
                     description: 'Lan WangJi and Wei WuXian side stories, the popular characters of The Founder of Demonic Cultivation.',
