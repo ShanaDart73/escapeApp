@@ -11,7 +11,7 @@ const Homepage = () => {
         <Wrapper>
             <NextSeo
                 title="escape"
-                description="Enjoy reading side stories of Lan WangJi and Wei WuXian, the popular characters of Modaozushi."
+                description="Lan WangJi and Wei WuXian side stories, the popular characters of The Founder of Demonic Cultivation."
             />
             <Head>
                 <link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-touch-icon.png" />
