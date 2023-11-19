@@ -12,7 +12,7 @@ export default function App({ Component, pageProps }) {
                     type: 'website',
                     title: 'escape',
                     locale: 'en_GB',
-                    url: 'https://www.escape.co.net',
+                    url: 'https://www.escape.net.co',
                     siteName: 'escape',
                 }}
                 twitter={{
