@@ -10,7 +10,7 @@ const Homepage = () => {
     return (
         <Wrapper>
             <NextSeo
-                title="escape"
+                title="Lan WangJi & Wei WuXian"
                 description="Lan WangJi and Wei WuXian side stories, the popular characters of The Founder of Demonic Cultivation."
             />
             <Head>
