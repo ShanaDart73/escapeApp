@@ -21,6 +21,8 @@ const Homepage = () => {
                 <link rel="mask-icon" href="/icon/safari-pinned-tab.svg" color="#5bbad5" />
                 <meta name="msapplication-TileColor" content="#603cba" />
                 <meta name="theme-color" content="#ffffff" />
+                <meta name="keywords" content="Lan WangJi, Wei WuXian, Modaozushi, Demonic Cultivation" />
+                <meta name="description" content="Lan WangJi and Wei WuXian side stories." />
                 <title>{pageTitle}</title>
             </Head>
             <Container>
