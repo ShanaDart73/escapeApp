@@ -4,7 +4,7 @@ import HomeContent from '../lib/homepage/homeContent'
 import FooterNote from '../lib/homepage/footerNote/footer'
 import { Wrapper, Container, Header, HeaderCanvas, ContentCanvas, Footer } from '../components/homepage/home.style'
 
-const pageTitle = "escape homepage"
+const pageTitle = "WangXian"
 
 const Homepage = () => {
     return (
@@ -19,9 +19,12 @@ const Homepage = () => {
                 <link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png" />
                 <link rel="manifest" href="/icon/site.webmanifest" />
                 <link rel="mask-icon" href="/icon/safari-pinned-tab.svg" color="#5bbad5" />
+                <link rel="canonical" href="https://www.escape.net.co" />
                 <meta name="msapplication-TileColor" content="#603cba" />
                 <meta name="theme-color" content="#ffffff" />
-                <meta name="keywords" content="Lan WangJi, Wei WuXian, Modaozushi, Demonic Cultivation" />
+                <meta name="robots" content="noindex" />
+                <meta name="googlebot" content="noindex" />
+                <meta name="keywords" content="WangXian, Lan WangJi, Wei WuXian, Modaozushi, Demonic Cultivation" />
                 <meta name="description" content="Lan WangJi and Wei WuXian side stories." />
                 <title>{pageTitle}</title>
             </Head>
