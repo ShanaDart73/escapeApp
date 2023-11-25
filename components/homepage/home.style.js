@@ -163,7 +163,7 @@ export const StoryPic = styled.div`
   padding: 1rem;
   font-family: cursive;
   
-  h2 {
+  h1 {
     margin: 0;
   }
   

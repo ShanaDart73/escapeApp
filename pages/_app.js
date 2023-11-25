@@ -12,7 +12,7 @@ export default function App({ Component, pageProps }) {
                     type: 'website',
                     title: 'Lan WangJi & Wei WuXian',
                     locale: 'en_GB',
-                    url: 'https://www.escape.net.co',
+                    url: 'https://escape.net.co',
                     siteName: 'Lan WangJi & Wei WuXian',
                 }}
                 twitter={{

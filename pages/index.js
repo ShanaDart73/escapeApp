@@ -4,7 +4,7 @@ import HomeContent from '../lib/homepage/homeContent'
 import FooterNote from '../lib/homepage/footerNote/footer'
 import { Wrapper, Container, Header, HeaderCanvas, ContentCanvas, Footer } from '../components/homepage/home.style'
 
-const pageTitle = "WangXian"
+const pageTitle = "WangXian, Lan WangJi and Wei WuXian Side Stories"
 
 const Homepage = () => {
     return (
@@ -19,19 +19,18 @@ const Homepage = () => {
                 <link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png" />
                 <link rel="manifest" href="/icon/site.webmanifest" />
                 <link rel="mask-icon" href="/icon/safari-pinned-tab.svg" color="#5bbad5" />
-                <link rel="canonical" href="https://www.escape.net.co" />
+                <link rel="canonical" href="https://escape.net.co" />
                 <meta name="msapplication-TileColor" content="#603cba" />
                 <meta name="theme-color" content="#ffffff" />
-                <meta name="robots" content="noindex" />
-                <meta name="googlebot" content="noindex" />
+                <meta name="robots" content="index" />
+                <meta name="googlebot" content="index" />
                 <meta name="keywords" content="WangXian, Lan WangJi, Wei WuXian, Modaozushi, Demonic Cultivation" />
-                <meta name="description" content="Lan WangJi and Wei WuXian side stories." />
                 <title>{pageTitle}</title>
             </Head>
             <Container>
                 <Header>
                     <HeaderCanvas>
-                        <img src="/photos/homepage/home.png" alt="" />
+                        <img src="/photos/homepage/home.png" alt="head-image" />
                     </HeaderCanvas>
                 </Header>
                 <ContentCanvas>
