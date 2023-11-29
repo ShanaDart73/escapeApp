@@ -60,6 +60,9 @@ export const HeaderCanvas = styled.div`
     width: 315px;
     height: 120px;
     border-radius: 20px;
+    filter: drop-shadow(-5px 10px 5px #4a30ad);
+    box-shadow: 1px 2px 81px 0px rgba(124, 116, 234, 0.75);
+
 
     @media screen and (min-width: 500px) {
       width: 450px;
@@ -75,7 +78,7 @@ export const HeaderCanvas = styled.div`
       width: 703px;
       height: 300px;
     }
-    
+
     @media screen and (min-width: 1024px) {
       width: 900px;
       height: 400px;
@@ -92,7 +95,7 @@ export const HeaderCanvas = styled.div`
     width: 600px;
     height: 250px;
   }
-  
+
   @media screen and (min-width: 760px) {
     width: 703px;
     height: 300px;
