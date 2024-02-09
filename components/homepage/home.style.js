@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Wrapper = styled.div`
   font-size: 1rem;
   font-family: "Times New Roman", serif;
-  background: #000007;
+  background-image: url("/photos/homepage/stars.png");
 
   @media screen and (min-width: 768px) {
     font-size: 1.2rem;
@@ -55,13 +55,14 @@ export const HeaderCanvas = styled.div`
   width: 315px;
   height: 120px;
   border-radius: 20px;
+  filter: brightness(50%);
 
   img {
     width: 315px;
     height: 120px;
     border-radius: 20px;
     filter: drop-shadow(-5px 10px 5px #4a30ad);
-    box-shadow: 1px 2px 81px 0px rgba(124, 116, 234, 0.75);
+    box-shadow: 1px 2px 81px 0 rgba(124, 116, 234, 0.75);
 
 
     @media screen and (min-width: 500px) {
