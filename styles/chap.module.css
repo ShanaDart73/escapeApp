@@ -9,8 +9,8 @@
     font-size: 1em;
     font-family: "Times New Roman", Arial, serif, Verdana, Tahoma;
     padding: .5em;
-    color: rgba(255, 255, 255, 0.5);
-    background-color: #020139;
+    color: rgba(255, 255, 255, 0.4);
+    background-color: #01012a;
 }
 .wrapper::selection {
     background: none;
@@ -75,8 +75,8 @@
     top: 0;
     align-self: center;
     padding: 1em;
-    border: 2px solid #0804A9;
-    background: linear-gradient(to bottom, #0804AB, #020139);
+    border: 2px solid rgba(8, 4, 169, 0.5);
+    background: linear-gradient(to bottom, #111160, #000010);
 }
 @media screen and (min-width: 500px) {
     .header {
@@ -157,7 +157,7 @@
     align-self: start;
     padding-top: 1em;
     border-radius: 2px;
-    border: 2px solid #0804A9;
+    border: 2px solid rgba(8, 4, 169, 0.5);
     background: #020139;
 
     display: flex;
@@ -225,9 +225,9 @@
 .prevBtn {
     color: rgba(255, 255, 255, 0.7);
     padding: 1em;
-    border: 2px solid #0804A9;
+    border: 2px solid rgba(8, 4, 169, 0.5);
     border-radius: 5px;
-    background: linear-gradient(to bottom, #020139, #0804AB);
+    background: linear-gradient(to bottom, #000010, #111160);
 }
 @media screen and (min-width: 768px) {
     .prevBtn {
@@ -240,9 +240,9 @@
 .nextBtn {
     color: rgba(255, 255, 255, 0.7);
     padding: 1em;
-    border: 2px solid #0804A9;
+    border: 2px solid rgba(8, 4, 169, 0.5);
     border-radius: 5px;
-    background: linear-gradient(to bottom, #020139, #0804AB);
+    background: linear-gradient(to bottom, #000010, #111160);
 }
 @media screen and (min-width: 768px) {
     .nextBtn {

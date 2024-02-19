@@ -9,7 +9,7 @@ export const Sidenav = styled.nav`
   top: 70px;
   right: 0;
 
-  background-color: rgba(13, 15, 82, 0.98);
+  background-color: #01012a;
   overflow-x: hidden;
   overflow-y: scroll;
   padding-top: 60px;
