@@ -27,9 +27,11 @@ const Icons = () => {
             <Logo>
                 <Sound />
             </Logo>
-            <Logo>
-                <img src="/logos/coffee.svg" height="auto" width="100%" alt="" />
-            </Logo>
+            <a href="/cupOfCoffee/coffee" target="_blank">
+                <Logo>
+                    <img src="/logos/coffee.svg" height="auto" width="100%" alt="" />
+                </Logo>
+            </a>
         </>
     )
 }
