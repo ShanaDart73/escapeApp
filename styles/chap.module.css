@@ -228,6 +228,7 @@
     border: 2px solid rgba(8, 4, 169, 0.5);
     border-radius: 5px;
     background: linear-gradient(to bottom, #000010, #111160);
+    cursor: pointer;
 }
 @media screen and (min-width: 768px) {
     .prevBtn {
@@ -243,6 +244,7 @@
     border: 2px solid rgba(8, 4, 169, 0.5);
     border-radius: 5px;
     background: linear-gradient(to bottom, #000010, #111160);
+    cursor: pointer;
 }
 @media screen and (min-width: 768px) {
     .nextBtn {
