@@ -22,5 +22,10 @@
     "react-serialize": "^0.2.1",
     "styled-components": "^5.3.9",
     "use-sound": "^4.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.40",
+    "tailwindcss": "^3.4.7"
   }
 }
