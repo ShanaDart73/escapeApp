@@ -19,18 +19,18 @@ const Icons = () => {
     return (
         <>
             <Link href="/">
-                <Logo>
+                <div className="sm:w-10 md:w-16 lg:w-18">
                     <img src="/logos/home.svg" height="auto" width="100%" alt="" />
-                </Logo>
+                </div>
             </Link>
             <Nav />
-            <Logo>
+            <div className="sm:w-10 md:w-16 lg:w-18">
                 <Sound />
-            </Logo>
+            </div>
             <a href="/cupOfCoffee/coffee" target="_blank">
-                <Logo>
+                <div className="sm:w-10 md:w-16 lg:w-18">
                     <img src="/logos/coffee.svg" height="auto" width="100%" alt="" />
-                </Logo>
+                </div>
             </a>
         </>
     )

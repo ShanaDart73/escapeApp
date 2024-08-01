@@ -66,9 +66,10 @@ export const NavLink = styled.div`
 export const CloseNav = styled.div`
   position: absolute;
   top: 0;
-  left: 25px;
+  left: 0;
   margin-right: 50px;
   cursor: pointer;
+  z-index: 5;
   
   span {
     font-size: 36px;
