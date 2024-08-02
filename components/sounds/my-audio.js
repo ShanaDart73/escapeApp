@@ -1,18 +1,5 @@
 import useSound from 'use-sound'
 import { useState } from 'react'
-import styled from 'styled-components'
-
-const Wrap = styled.span`
-  cursor: pointer;
-`;
-const Sound = styled.span`
-  font-size: inherit;
-  color: rgba(250, 250, 250, 0.5);
-  
-  :hover {
-    color:lightblue;
-  }
-`;
 
 const MyAudio = ({ sound, name }) => {
     const [play, { stop }] = useSound(
@@ -22,8 +9,8 @@ const MyAudio = ({ sound, name }) => {
     const [isHovered, setIsHovered] = useState(false)
 
     return (
-        <Wrap key={isHovered}>
-            <Sound
+        <span className="cursor-pointer" key={isHovered}>
+            <span className="text-gray-500 text-xl md:text-2xl hover:text-blue-300"
                 onMouseEnter={() => {
                     setIsHovered(true)
                     play()
@@ -34,8 +21,8 @@ const MyAudio = ({ sound, name }) => {
                 }}
             >
                 { name }
-            </Sound>
-        </Wrap>
+            </span>
+        </span>
     )
 }
 
