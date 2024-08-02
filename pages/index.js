@@ -2,13 +2,12 @@ import Head from 'next/head'
 import { NextSeo } from 'next-seo'
 import HomeContent from '../lib/homepage/homeContent'
 import FooterNote from '../lib/homepage/footerNote/footer'
-import { Wrapper, Container, Header, HeaderCanvas, ContentCanvas, Footer } from '../components/homepage/home.style'
 
 const pageTitle = "WangXian, Lan WangJi and Wei WuXian Side Stories"
 
 const Homepage = () => {
     return (
-        <Wrapper>
+        <div className="bg-homepage-BG">
             <NextSeo
                 title="Lan WangJi & Wei WuXian"
                 description="Lan WangJi and Wei WuXian side stories, the popular characters of The Founder of Demonic Cultivation."
@@ -27,20 +26,18 @@ const Homepage = () => {
                 <meta name="keywords" content="WangXian, Lan WangJi, Wei WuXian, Modaozushi, Demonic Cultivation" />
                 <title>{pageTitle}</title>
             </Head>
-            <Container>
-                <Header>
-                    <HeaderCanvas>
-                        <img src="/photos/homepage/home.png" alt="head-image" />
-                    </HeaderCanvas>
-                </Header>
-                <ContentCanvas>
+            <div className="flex flex-col items-center gap-y-8">
+                <div className="m-10">
+                    <img className="rounded-2xl brightness-50" src="/photos/homepage/home.png" alt="head-image" />
+                </div>
+                <div className="flex flex-col md:flex-row md:flex-wrap justify-center gap-y-8 gap-x-8 lg:gap-16 max-w-4xl">
                     <HomeContent />
-                </ContentCanvas>
-                <Footer>
+                </div>
+                <div className="">
                     <FooterNote />
-                </Footer>
-            </Container>
-        </Wrapper>
+                </div>
+            </div>
+        </div>
     )
 }
 

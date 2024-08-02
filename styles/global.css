@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 @layer base {
+    @font-face {
+        font-family: "Times New Roman", Arial, serif, Verdana, Tahoma;
+    }
     p {
         @apply my-4;
     }
