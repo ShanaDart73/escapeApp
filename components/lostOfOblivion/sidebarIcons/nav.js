@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import Router from 'next/router'
-import { Sidenav, NavList, NavLink, CloseNav, Menu } from './nav.style'
 
 const Nav = () => {
     let [display, setDisplay] = useState(false)
@@ -54,13 +53,13 @@ const Nav = () => {
                 )
             }
             <div className={`h-full w-72 top-0 right-0 fixed bg-blueBG ${isDisplayed ? 'translate-x-0': 'translate-x-full'} ease-in-out duration-1000`}>
-                <NavList>
+                <div className="flex flex-col h-4/5 pt-12 px-10 overflow-y-scroll">
                     {chapList.map(({ name, link, id }) => (
-                        <NavLink key={id} onClick={() => Router.push(link)}>
+                        <div className="block text-left pl-12 mt-6 text-gray-500 text-xl md:text-2xl hover:cursor-pointer hover:text-blue-300" key={id} onClick={() => Router.push(link)}>
                             {name}
-                        </NavLink>
+                        </div>
                     ))}
-                </NavList>
+                </div>
             </div>
         </>
     )
