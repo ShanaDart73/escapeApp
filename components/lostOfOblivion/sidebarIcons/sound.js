@@ -41,14 +41,15 @@ const Sound = () => {
         { name: <MyAudio sound="/audio/weiwuxian.mp3" name="Wèi WúXiàn" />, id: 34 },
         { name: <MyAudio sound="/audio/weixiong.mp3" name="Wèi-xiōng" />, id: 35 },
         { name: <MyAudio sound="/audio/weiying.mp3" name="Wèi Yīng" />, id: 36 },
-        { name: <MyAudio sound="/audio/xiongzhang.mp3" name="Xiōng-zhǎng" />, id: 37 },
-        { name: <MyAudio sound="/audio/yilinglaozu.mp3" name="Yílíng Lǎozǔ" />, id: 38 },
-        { name: <MyAudio sound="/audio/yuandao.mp3" name="YuanDao" />, id: 39 },
-        { name: <MyAudio sound="/audio/yunmengjiang.mp3" name="YúnmèngJiāng" />, id: 40 },
-        { name: <MyAudio sound="/audio/yunshenbuzhichu.mp3" name="Yúnshēn Bùzhīchù" />, id: 41 },
-        { name: <MyAudio sound="/audio/yuxiaoshan.mp3" name="Yú XiǎoShān" />, id: 42},
-        { name: <MyAudio sound="/audio/zewujun.mp3" name="Zéwú-Jūn" />, id: 43 },
-        { name: <MyAudio sound="/audio/zhang.mp3" name="Zhāng" />, id: 44 }
+        { name: <MyAudio sound="/audio/xianzi.mp3" name="Xianzi" />, id: 37 },
+        { name: <MyAudio sound="/audio/xiongzhang.mp3" name="Xiōng-zhǎng" />, id: 38 },
+        { name: <MyAudio sound="/audio/yilinglaozu.mp3" name="Yílíng Lǎozǔ" />, id: 39 },
+        { name: <MyAudio sound="/audio/yuandao.mp3" name="YuanDao" />, id: 40 },
+        { name: <MyAudio sound="/audio/yunmengjiang.mp3" name="YúnmèngJiāng" />, id: 41 },
+        { name: <MyAudio sound="/audio/yunshenbuzhichu.mp3" name="Yúnshēn Bùzhīchù" />, id: 42 },
+        { name: <MyAudio sound="/audio/yuxiaoshan.mp3" name="Yú XiǎoShān" />, id: 43},
+        { name: <MyAudio sound="/audio/zewujun.mp3" name="Zéwú-Jūn" />, id: 44 },
+        { name: <MyAudio sound="/audio/zhang.mp3" name="Zhāng" />, id: 45 }
     ]
 
     return (

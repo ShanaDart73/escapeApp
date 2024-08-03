@@ -27,7 +27,7 @@ module.exports = {
         'canvas-radius': '6rem',
       },
       fontFamily: {
-        'canvas-font-title': ['Times New Roman'],
+        'canvas-font-title': ['Times New Roman', 'Arial', 'serif', 'Verdana', 'Tahoma'],
       },
       fontSize: {
         'canvas-md-size': '1.1rem'
