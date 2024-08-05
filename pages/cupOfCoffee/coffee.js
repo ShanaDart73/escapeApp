@@ -1,36 +1,10 @@
-import styles from '../../styles/coffee.module.css'
-import Image from 'next/image'
 
 const Coffee = () => {
     return (
-        <div>
-            <div style={{
-                zIndex: -1,
-                position: "fixed",
-                width: "100vw",
-                height: "100vh"
-            }}>
-                <Image
-                    src="/photos/cupOfCoffee/heart.png"
-                    alt=""
-                    layout="fill"
-                    objectFit="cover"
-                />
-            </div>
-            <div className={styles.scan}>
-                <Image
-                    src="/photos/cupOfCoffee/revolutMe.png"
-                    width="300"
-                    height="300"
-                />
-                <a href="http://revolut.me/carolekay"
-                   style={{
-                       position: "relative",
-                       textDecoration: "none",
-                       fontSize: "1.2rem",
-                       color: "bisque"
-                }}
-                >
+        <div className="h-screen bg-coffee-BG bg-cover bg-center">
+            <div className="h-screen flex flex-col items-center justify-center">
+                <img className="h-auto w-80 md:w-2/4 max-w-96 rounded-3xl drop-shadow-xl" src="/photos/cupOfCoffee/revolutMe.png" alt="rev" />
+                <a className="py-2 text-stone-50 text-lg md:text-2xl" href="http://revolut.me/carolekay">
                     revolut.me/carolekay
                 </a>
             </div>

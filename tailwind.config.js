@@ -12,6 +12,7 @@ module.exports = {
       },
       backgroundImage: {
         'homepage-BG': "url('/photos/homepage/stars.png')",
+        'coffee-BG': "url('/photos/cupOfCoffee/heart.png')",
       },
       boxShadow: {
         'homePic-shadow': '0 8px 16px -8px lightblue',
