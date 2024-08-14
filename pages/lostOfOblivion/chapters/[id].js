@@ -26,7 +26,9 @@ export async function getStaticProps({ params }) {
 
 const DynamicPages = ({ data }) => {
     return (
-        <div className={styles.wrapper} onContextMenu={(e) => e.preventDefault()}>
+        <div className="select-none text-base md:text-lg lg:text-xl xl:text-2xl p-2 text-textColor bg-blueBG"
+             onContextMenu={(e) => e.preventDefault()}
+        >
             <Head>
                 <link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-touch-icon.png" />
                 <link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png" />

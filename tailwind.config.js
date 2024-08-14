@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       colors: {
         blueBG: "#01012a",
+        textColor: "rgba(255, 255, 255, 0.4)",
       },
       backgroundImage: {
         'homepage-BG': "url('/photos/homepage/stars.png')",
