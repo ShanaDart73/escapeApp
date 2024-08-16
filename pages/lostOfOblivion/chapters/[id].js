@@ -52,10 +52,10 @@ const DynamicPages = ({ data }) => {
                     <div className="hidden lg:flex col-span-3 row-span-11 sticky top-14">
                         <img className="object-cover w-full" src={data.rightImg} alt="Picture" />
                     </div>
-                    <div className="flex flex-col items-center col-span-2 md:col-span-1 row-span-11 sticky top-14 border-l-2 border-l-borderColor">
+                    <div className="flex flex-col items-center col-span-2 md:col-span-1 row-span-11 sticky top-14">
                         <Icons />
                     </div>
-                    <div className="flex justify-between col-span-10 md:col-span-7 lg:col-span-5 row-span-1 sticky bottom-0">
+                    <div className="flex justify-between col-span-10 md:col-span-7 lg:col-span-5 row-span-1 sticky bottom-0 bg-blueBG">
                         <button className="text-textColor p-4 bg-gradient-to-t from-gradientTop to-gradientBottom cursor-pointer">
                             <span onClick={() => Router.push(data.leftBtn)}>&larr;Prev</span>
                         </button>
