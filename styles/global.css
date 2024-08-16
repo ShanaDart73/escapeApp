@@ -9,7 +9,19 @@
     p {
         @apply my-4;
     }
+    small {
+        @apply opacity-70;
+    }
+    section {
+        @apply text-left;
+        @apply border-b-2;
+        @apply border-gray-700;
+        @apply border-dashed;
+    }
+    a {
+        @apply hover:text-blue-400;
+    }
     html {
-        @apply bg-black
+        @apply bg-black;
     }
 }

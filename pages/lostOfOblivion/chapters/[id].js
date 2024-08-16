@@ -2,7 +2,6 @@ import Router from 'next/router'
 import Head from 'next/head'
 import { getAllChapters, getAllChapIds } from '../../../lib/lostOfOblivion/allDataArrays'
 import { deserialize } from 'react-serialize'
-import styles from '../../../styles/chap.module.css'
 import Icons from '../../../components/lostOfOblivion/sidebarIcons/icons'
 
 const pageTitle = "escape"
@@ -26,7 +25,7 @@ export async function getStaticProps({ params }) {
 
 const DynamicPages = ({ data }) => {
     return (
-        <div className="select-none text-base md:text-lg lg:text-xl xl:text-2xl p-2 text-textColor bg-blueBG"
+        <div className="select-none text-base md:text-lg lg:text-xl xl:text-2xl text-textColor bg-blueBG"
              onContextMenu={(e) => e.preventDefault()}
         >
             <Head>
@@ -39,29 +38,31 @@ const DynamicPages = ({ data }) => {
                 <meta name="theme-color" content="#ffffff" />
                 <title>{pageTitle}</title>
             </Head>
-            <div className={styles.container}>
-                <div className={styles.header}>
-                    {data.header}
-                </div>
-                <div className={styles.leftPicture}>
-                    <img src={data.leftImg} alt="Picture" />
-                </div>
-                <div className={styles.content}>
-                    {deserialize(data.content)}
-                </div>
-                <div className={styles.rightPicture}>
-                    <img src={data.rightImg} alt="Picture" />
-                </div>
-                <div className={styles.sidebar}>
-                    <Icons />
-                </div>
-                <div className={styles.footer}>
-                    <button className={styles.prevBtn}>
-                        <span onClick={() => Router.push(data.leftBtn)}>&larr;Prev</span>
-                    </button>
-                    <button className={styles.nextBtn}>
-                        <span onClick={() => Router.push(data.rightBtn)}>Next&rarr;</span>
-                    </button>
+            <div className="flex h-screen w-full items-center justify-center">
+                <div className="grid h-screen w-full grid-cols-12 grid-rows-12 gap-1">
+                    <div className="col-span-12 row-span-1 sticky top-0 right-0 left-0 flex items-center justify-center font-canvas-font-title text-xl md:text-2xl lg:text-3xl p-4 bg-gradient-to-b from-gradientTop to-gradientBottom">
+                        {data.header}
+                    </div>
+                    <div className="hidden md:flex col-span-4 lg:col-span-3 row-span-11 sticky top-14">
+                        <img className="object-cover w-full" src={data.leftImg} alt="Picture" />
+                    </div>
+                    <div className="col-span-10 md:col-span-7 lg:col-span-5 row-span-10 font-canvas-font-title text-justify pl-4 pr-2 lg:pr-4 overflow-y-scroll">
+                        {deserialize(data.content)}
+                    </div>
+                    <div className="hidden lg:flex col-span-3 row-span-11 sticky top-14">
+                        <img className="object-cover w-full" src={data.rightImg} alt="Picture" />
+                    </div>
+                    <div className="flex flex-col items-center col-span-2 md:col-span-1 row-span-11 sticky top-14 border-l-2 border-l-borderColor">
+                        <Icons />
+                    </div>
+                    <div className="flex justify-between col-span-10 md:col-span-7 lg:col-span-5 row-span-1 sticky bottom-0">
+                        <button className="text-textColor p-4 bg-gradient-to-t from-gradientTop to-gradientBottom cursor-pointer">
+                            <span onClick={() => Router.push(data.leftBtn)}>&larr;Prev</span>
+                        </button>
+                        <button className="text-textColor p-4 bg-gradient-to-t from-gradientTop to-gradientBottom cursor-pointer">
+                            <span><a href={data.rightBtn}>Next&rarr;</a></span>
+                        </button>
+                    </div>
                 </div>
             </div>
         </div>

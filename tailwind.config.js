@@ -10,6 +10,9 @@ module.exports = {
       colors: {
         blueBG: "#01012a",
         textColor: "rgba(255, 255, 255, 0.4)",
+        borderColor: "#000010",
+        gradientTop: "#111160",
+        gradientBottom: "#000010",
       },
       backgroundImage: {
         'homepage-BG': "url('/photos/homepage/stars.png')",

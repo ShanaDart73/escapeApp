@@ -53,8 +53,8 @@ const Nav = () => {
             <div className={`h-full w-72 top-0 right-0 fixed bg-blueBG z-10 ${isDisplayed ? 'translate-x-0': 'translate-x-full'} ease-in-out duration-1000`}>
                 <div className="flex flex-col h-4/5 pt-12 px-10 overflow-y-scroll">
                     {chapList.map(({ name, link, id }) => (
-                        <div className="block text-left pl-12 mt-6 text-gray-500 text-xl md:text-2xl hover:cursor-pointer hover:text-blue-300" key={id} onClick={() => Router.push(link)}>
-                            {name}
+                        <div className="block text-left pl-12 mt-6 text-gray-500 text-xl md:text-2xl hover:cursor-pointer hover:text-blue-300" key={id}>
+                            <a href={link}>{name}</a>
                         </div>
                     ))}
                 </div>
