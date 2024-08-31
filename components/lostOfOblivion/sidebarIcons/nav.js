@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import Router from 'next/router'
 
 const Nav = () => {
     const [isDisplayed, setIsDisplayed] = useState(false)
