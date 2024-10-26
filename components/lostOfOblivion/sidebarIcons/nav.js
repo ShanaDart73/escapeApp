@@ -36,6 +36,7 @@ const Nav = () => {
         { name: "Chapter 30", link: "/lostOfOblivion/chapters/30", id: 30 },
         { name: "Chapter 31", link: "/lostOfOblivion/chapters/31", id: 31 },
         { name: "Chapter 32", link: "/lostOfOblivion/chapters/32", id: 32 },
+        { name: "Chapter 33", link: "/lostOfOblivion/chapters/33", id: 33 },
     ]
 
     return (

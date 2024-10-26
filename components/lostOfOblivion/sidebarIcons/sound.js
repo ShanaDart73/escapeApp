@@ -55,7 +55,8 @@ const Sound = () => {
         { name: <MyAudio sound="/audio/yunshenbuzhichu.mp3" name="Yúnshēn Bùzhīchù" />, id: 48 },
         { name: <MyAudio sound="/audio/yuxiaoshan.mp3" name="Yú XiǎoShān" />, id: 49},
         { name: <MyAudio sound="/audio/zewujun.mp3" name="Zéwú-Jūn" />, id: 50 },
-        { name: <MyAudio sound="/audio/zhang.mp3" name="Zhāng" />, id: 51 }
+        { name: <MyAudio sound="/audio/zhang.mp3" name="Zhāng" />, id: 51 },
+        { name: <MyAudio sound="/audio/zongzhu.mp3" name="Zōng-zhǔ" />, id: 52 }
     ]
 
     return (
