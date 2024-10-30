@@ -56,10 +56,10 @@ const DynamicPages = ({ data }) => {
                         <Icons />
                     </div>
                     <div className="flex justify-between col-span-10 md:col-span-7 lg:col-span-5 row-span-1 sticky bottom-0 bg-blueBG">
-                        <button className="text-textColor p-4 bg-gradient-to-t from-gradientTop to-gradientBottom cursor-pointer">
+                        <button className="text-textColor p-4 bg-gradient-to-t from-gradientTop to-gradientBottom cursor-pointer hover:text-blue-400">
                             <span onClick={() => Router.push(data.leftBtn)}>&larr;Prev</span>
                         </button>
-                        <button className="text-textColor p-4 bg-gradient-to-t from-gradientTop to-gradientBottom cursor-pointer">
+                        <button className="text-textColor p-4 bg-gradient-to-t from-gradientTop to-gradientBottom cursor-pointer hover:text-blue-400">
                             <span><a href={data.rightBtn}>Next&rarr;</a></span>
                         </button>
                     </div>
