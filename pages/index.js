@@ -25,10 +25,11 @@ const Homepage = () => {
                 <meta name="googlebot" content="index"/>
                 <meta name="keywords" content="WangXian, Lan WangJi, Wei WuXian, Modaozushi, Demonic Cultivation"/>
                 <meta name="google-site-verification" content="TVOVCcFD3IV2PvrfoMr0aeVGqYdgzJEsOAmJa99GMIE"/>
+                <meta name="msvalidate.01" content="A46A1C618304A54DD854D110B5591F24"/>
                 <title>{pageTitle}</title>
             </Head>
             <div className="flex flex-col items-center gap-y-8">
-                <div className="m-10">
+            <div className="m-10">
                     <img className="rounded-2xl brightness-100" src="/photos/homepage/home.png" alt="head-image" />
                 </div>
                 <div className="flex flex-col md:flex-row md:flex-wrap justify-center gap-y-8 gap-x-8 lg:gap-16 max-w-4xl">
