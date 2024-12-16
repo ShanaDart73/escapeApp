@@ -31,7 +31,7 @@ const Homepage = () => {
             </Head>
             <div className="flex flex-col items-center gap-y-8">
             <div className="m-10">
-                    <img className="rounded-2xl brightness-100" src="/photos/homepage/home.png" alt="head-image" />
+                    <img className="rounded-2xl brightness-50" src="/photos/homepage/christmas.png" alt="head-image" />
                 </div>
                 <div className="flex flex-col md:flex-row md:flex-wrap justify-center gap-y-8 gap-x-8 lg:gap-16 max-w-4xl">
                     <HomeContent />
