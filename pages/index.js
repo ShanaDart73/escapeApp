@@ -13,18 +13,18 @@ const Homepage = () => {
                 description="Lan WangJi and Wei WuXian side stories, the popular characters of The Founder of Demonic Cultivation."
             />
             <Head>
-                <link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-touch-icon.png" />
-                <link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png" />
-                <link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png" />
-                <link rel="manifest" href="/icon/site.webmanifest" />
-                <link rel="mask-icon" href="/icon/safari-pinned-tab.svg" color="#5bbad5" />
-                <link rel="canonical" href="https://escape.net.co" />
-                <meta name="msapplication-TileColor" content="#603cba" />
-                <meta name="theme-color" content="#ffffff" />
-                <meta name="robots" content="index" />
-                <meta name="googlebot" content="index" />
-                <meta name="keywords" content="WangXian, Lan WangJi, Wei WuXian, Modaozushi, Demonic Cultivation" />
-                <meta name="google-site-verification" content="ygigt7CFXyUyeMm3KZI8o1-8gnOrV9WMTkLEAha33c4" />
+                <link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-touch-icon.png"/>
+                <link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png"/>
+                <link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png"/>
+                <link rel="manifest" href="/icon/site.webmanifest"/>
+                <link rel="mask-icon" href="/icon/safari-pinned-tab.svg" color="#5bbad5"/>
+                <link rel="canonical" href="https://escape.net.co"/>
+                <meta name="msapplication-TileColor" content="#603cba"/>
+                <meta name="theme-color" content="#ffffff"/>
+                <meta name="robots" content="index"/>
+                <meta name="googlebot" content="index"/>
+                <meta name="keywords" content="WangXian, Lan WangJi, Wei WuXian, Modaozushi, Demonic Cultivation"/>
+                <meta name="google-site-verification" content="TVOVCcFD3IV2PvrfoMr0aeVGqYdgzJEsOAmJa99GMIE"/>
                 <title>{pageTitle}</title>
             </Head>
             <div className="flex flex-col items-center gap-y-8">
