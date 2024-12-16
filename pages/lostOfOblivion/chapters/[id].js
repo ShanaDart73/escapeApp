@@ -40,9 +40,9 @@ const DynamicPages = ({ data }) => {
             </Head>
             <div className="flex h-screen w-full items-center justify-center">
                 <div className="grid h-screen w-full grid-cols-12 grid-rows-12 gap-1">
-                    <div className="col-span-12 row-span-1 sticky top-0 right-0 left-0 flex items-center justify-center font-canvas-font-title text-xl md:text-2xl lg:text-3xl p-4 bg-gradient-to-b from-gradientTop to-gradientBottom">
+                    <h1 className="col-span-12 row-span-1 sticky top-0 right-0 left-0 flex items-center justify-center font-canvas-font-title text-xl md:text-2xl lg:text-3xl p-4 bg-gradient-to-b from-gradientTop to-gradientBottom">
                         {data.header}
-                    </div>
+                    </h1>
                     <div className="hidden md:flex col-span-4 lg:col-span-3 row-span-11 sticky top-14">
                         <img className="object-cover w-full" src={data.leftImg} alt="Picture" />
                     </div>

@@ -19,6 +19,7 @@ const Homepage = () => {
                 <link rel="manifest" href="/icon/site.webmanifest"/>
                 <link rel="mask-icon" href="/icon/safari-pinned-tab.svg" color="#5bbad5"/>
                 <link rel="canonical" href="https://escape.net.co"/>
+                <meta httpEquiv='content-language' content='en-gb'/>
                 <meta name="msapplication-TileColor" content="#603cba"/>
                 <meta name="theme-color" content="#ffffff"/>
                 <meta name="robots" content="index"/>
