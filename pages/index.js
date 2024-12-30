@@ -25,8 +25,7 @@ const Homepage = () => {
                 <meta name="robots" content="index"/>
                 <meta name="googlebot" content="index"/>
                 <meta name="keywords" content="WangXian, Lan WangJi, Wei WuXian, Modaozushi, Demonic Cultivation"/>
-                <meta name="google-site-verification" content="TVOVCcFD3IV2PvrfoMr0aeVGqYdgzJEsOAmJa99GMIE"/>
-                <meta name="msvalidate.01" content="A46A1C618304A54DD854D110B5591F24"/>
+                <meta name="msvalidate.01" content="6AAB940142707795076943EDBAD8FB19"/>
                 <title>{pageTitle}</title>
             </Head>
             <div className="flex flex-col items-center gap-y-8">
