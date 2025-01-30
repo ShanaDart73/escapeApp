@@ -65,7 +65,7 @@ const Sound = () => {
             {!audio ?
                 (
                     <div className="sm:w-10 md:w-16 lg:w-18 cursor-pointer" onClick={() => setAudio(!audio)}>
-                        <img  src="/logos/audio.svg" height="auto" width="100%" alt="" />
+                        <img src="/logos/audio.svg" height="auto" width="100%" alt="" />
                     </div>
                 ) : (
                     <button className="fixed top-2 right-4 w-5 md:w-7 fill-current z-10" onClick={() => setAudio(!audio)}>

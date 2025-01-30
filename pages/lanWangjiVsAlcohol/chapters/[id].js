@@ -1,7 +1,8 @@
-//import Router from 'next/router'
+import Router from 'next/router'
 import Head from 'next/head'
 import { getAllChapters, getAllChapIds } from '../../../lib/lanWangJiVsAlcohol/allDataArrays'
 import { deserialize } from 'react-serialize'
+import Icons from '../../../components/lanWangjiVsAlcohol/sidebarIcons/icons'
 
 const pageTitle = "escape"
 
@@ -43,26 +44,24 @@ const DynamicsPages = ({ data }) => {
 						{data.header}
 					</div>
 					<div className="hidden md:flex col-span-4 lg:col-span-3 row-span-11 sticky top-14">
-						Left image
+						<img className="object-cover w-full" src={data.leftImg} alt="Picture" />
 					</div>
 					<div className="col-span-10 md:col-span-7 lg:col-span-5 row-span-10 font-canvas-font-title text-justify pl-4 pr-2 lg:pr-4 overflow-y-scroll">
 						{deserialize(data.content)}
 					</div>
 					<div className="hidden lg:flex col-span-3 row-span-11 sticky top-14">
-						Right image
+						<img className="object-cover w-full" src={data.rightImg} alt="Picture" />
 					</div>
 					<div className="flex flex-col items-center col-span-2 md:col-span-1 row-span-11 sticky top-14">
-						Icons
+						<Icons />
 					</div>
 					<div
 						className="flex justify-between col-span-10 md:col-span-7 lg:col-span-5 row-span-1 sticky bottom-0 bg-blueBG">
-						<button
-							className="text-textColor p-4 bg-gradient-to-t from-gradientTop to-gradientBottom cursor-pointer hover:text-blue-400">
-							<span>&larr;Prev</span>
+						<button className="text-textColor p-4 bg-gradient-to-t from-gradientTop to-gradientBottom cursor-pointer hover:text-blue-400">
+							<span onClick={() => Router.push(data.leftBtn)}>&larr;Prev</span>
 						</button>
-						<button
-							className="text-textColor p-4 bg-gradient-to-t from-gradientTop to-gradientBottom cursor-pointer hover:text-blue-400">
-							<span>Next&rarr;</span>
+						<button className="text-textColor p-4 bg-gradient-to-t from-gradientTop to-gradientBottom cursor-pointer hover:text-blue-400">
+							<span><a href={data.rightBtn}>Next&rarr;</a></span>
 						</button>
 					</div>
 				</div>
