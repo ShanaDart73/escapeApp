@@ -18,10 +18,9 @@ const Homepage = () => {
                 <link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png"/>
                 <link rel="manifest" href="/icon/site.webmanifest"/>
                 <link rel="mask-icon" href="/icon/safari-pinned-tab.svg" color="#5bbad5"/>
-                <link rel="canonical" href="https://escape.net.co"/>
-                <meta httpEquiv='content-language' content='en-gb'/>
                 <meta name="msapplication-TileColor" content="#603cba"/>
                 <meta name="theme-color" content="#ffffff"/>
+                <meta httpEquiv='content-language' content='en-gb'/>
                 <meta name="robots" content="index"/>
                 <meta name="googlebot" content="index"/>
                 <meta name="keywords" content="WangXian, Lan WangJi, Wei WuXian, Modaozushi, Demonic Cultivation"/>
