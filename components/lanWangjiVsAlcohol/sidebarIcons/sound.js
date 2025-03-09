@@ -7,24 +7,30 @@ const Sound = () => {
 	const soundList = [
 		{ name: <MyAudio sound="/audio/chenqing.mp3" name="Chénqíng" />, id: 1 },
 		{ name: <MyAudio sound="/audio/dage.mp3" name="Dà-gē" />, id: 2 },
-		{ name: <MyAudio sound="/audio/gusulan.mp3" name="GūsūLán" />, id: 3 },
-		{ name: <MyAudio sound="/audio/hanguangjun.mp3" name="HánGuāng-Jūn" />, id: 4 },
-		{ name: <MyAudio sound="/audio/jingshi.mp3" name="Jingshi" />, id: 5 },
-		{ name: <MyAudio sound="/audio/jingyi.mp3" name="JǐngYí" />, id: 6 },
-		{ name: <MyAudio sound="/audio/jinling.mp3" name="Jīn Líng" />, id: 7 },
-		{ name: <MyAudio sound="/audio/lanjingyi.mp3" name="Lán JǐngYí" />, id: 8 },
-		{ name: <MyAudio sound="/audio/lanqiren.mp3" name="Lán Qǐrén" />, id: 9 },
-		{ name: <MyAudio sound="/audio/lansizhui.mp3" name="Lán SīZhuī" />, id: 10 },
-		{ name: <MyAudio sound="/audio/lanwangji.mp3" name="Lán WàngJī" />, id: 11 },
-		{ name: <MyAudio sound="/audio/lanxichen.mp3" name="Lán XīChén" />, id: 12 },
-		{ name: <MyAudio sound="/audio/lanzhan.mp3" name="Lán Zhàn" />, id: 13 },
-		{ name: <MyAudio sound="/audio/sizhui.mp3" name="SīZhuī" />, id: 14 },
-		{ name: <MyAudio sound="/audio/suihua.mp3" name="Suìhuá" />, id: 15 },
-		{ name: <MyAudio sound="/audio/weiqianbei.mp3" name="Wèi-qiánbèi" />, id: 16 },
-		{ name: <MyAudio sound="/audio/weiwuxian.mp3" name="Wèi WúXiàn" />, id: 17 },
-		{ name: <MyAudio sound="/audio/weiying.mp3" name="Wèi Yīng" />, id: 18 },
-		{ name: <MyAudio sound="/audio/yunshenbuzhichu.mp3" name="Yúnshēn Bùzhīchù" />, id: 19 },
-		{ name: <MyAudio sound="/audio/zewujun.mp3" name="Zéwú-Jūn" />, id: 20 },
+		{ name: <MyAudio sound="/audio/ergege.mp3" name="Ér-gēge" />, id: 3 },
+		{ name: <MyAudio sound="/audio/gusulan.mp3" name="GūsūLán" />, id: 4 },
+		{ name: <MyAudio sound="/audio/hanguangjun.mp3" name="HánGuāng-Jūn" />, id: 5 },
+		{ name: <MyAudio sound="/audio/jiangcheng.mp3" name="Jiāng Chéng" />, id: 6 },
+		{ name: <MyAudio sound="/audio/jingshi.mp3" name="Jingshi" />, id: 7 },
+		{ name: <MyAudio sound="/audio/jingyi.mp3" name="JǐngYí" />, id: 8 },
+		{ name: <MyAudio sound="/audio/jinling.mp3" name="Jīn Líng" />, id: 9 },
+		{ name: <MyAudio sound="/audio/lanjingyi.mp3" name="Lán JǐngYí" />, id: 10 },
+		{ name: <MyAudio sound="/audio/lanling.mp3" name="Lánlíng" />, id: 11 },
+		{ name: <MyAudio sound="/audio/lanqiren.mp3" name="Lán Qǐrén" />, id: 12 },
+		{ name: <MyAudio sound="/audio/lansizhui.mp3" name="Lán SīZhuī" />, id: 13 },
+		{ name: <MyAudio sound="/audio/lanwangji.mp3" name="Lán WàngJī" />, id: 14 },
+		{ name: <MyAudio sound="/audio/lanxichen.mp3" name="Lán XīChén" />, id: 15 },
+		{ name: <MyAudio sound="/audio/lanzhan.mp3" name="Lán Zhàn" />, id: 16 },
+		{ name: <MyAudio sound="/audio/qingxinling.mp3" name="Qīngxīn-líng" />, id: 17 },
+		{ name: <MyAudio sound="/audio/sizhui.mp3" name="SīZhuī" />, id: 18 },
+		{ name: <MyAudio sound="/audio/suihua.mp3" name="Suìhuá" />, id: 19 },
+		{ name: <MyAudio sound="/audio/weiqianbei.mp3" name="Wèi-qiánbèi" />, id: 20 },
+		{ name: <MyAudio sound="/audio/weiwuxian.mp3" name="Wèi WúXiàn" />, id: 21 },
+		{ name: <MyAudio sound="/audio/weiying.mp3" name="Wèi Yīng" />, id: 22 },
+		{ name: <MyAudio sound="/audio/xiongzhang.mp3" name="Xiōng-zhǎng" />, id: 23 },
+		{ name: <MyAudio sound="/audio/yunshenbuzhichu.mp3" name="Yúnshēn Bùzhīchù" />, id: 24 },
+		{ name: <MyAudio sound="/audio/zewujun.mp3" name="Zéwú-Jūn" />, id: 25 },
+		{ name: <MyAudio sound="/audio/zongzhu.mp3" name="Zōng-zhǔ" />, id: 26 },
 	]
 
 	return (
@@ -43,7 +49,7 @@ const Sound = () => {
 			}
 			<div
 				className={`fixed top-0 right-0 h-4/5 w-72 bg-blueBG ${audio ? 'translate-x-0' : 'translate-x-full'} ease-in-out duration-1000`}>
-				<div className="flex flex-col pt-8 px-10 md:px-4 overflow-y-scroll h-full">
+				<div className="flex flex-col pt-8 pb-4 px-10 md:px-4 overflow-y-scroll h-full">
 					{soundList.map(({name, id}) => (
 						<div className="block text-left mt-4 pl-10" key={id}>
 							{name}

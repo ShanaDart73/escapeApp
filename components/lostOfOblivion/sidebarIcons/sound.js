@@ -74,7 +74,7 @@ const Sound = () => {
                 )
             }
             <div className={`fixed top-0 right-0 h-4/5 w-72 bg-blueBG ${audio ? 'translate-x-0': 'translate-x-full'} ease-in-out duration-1000`}>
-                <div className="flex flex-col pt-8 px-10 md:px-4 overflow-y-scroll h-full">
+                <div className="flex flex-col pt-8 pb-4 px-10 md:px-4 overflow-y-scroll h-full">
                     {soundChapList.map(({ name, id }) => (
                         <div className="block text-left mt-4 pl-10" key={id}>
                             {name}
