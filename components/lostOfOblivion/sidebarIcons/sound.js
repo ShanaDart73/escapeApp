@@ -10,7 +10,7 @@ const Sound = () => {
         { name: <MyAudio sound="/audio/bichen.mp3" name="Bìchén" />, id: 3 },
         { name: <MyAudio sound="/audio/chenqing.mp3" name="Chénqíng" />, id: 4 },
         { name: <MyAudio sound="/audio/chifengzun.mp3" name="Chìfēng-zūn" />, id: 5 },
-        { name: <MyAudio sound="/audio/ergege.mp3" name="Ér-gēge, 二哥哥" />, id: 6 },
+        { name: <MyAudio sound="/audio/ergege.mp3" name="Èr-gēge, 二哥哥" />, id: 6 },
         { name: <MyAudio sound="/audio/fangmengchen.mp3" name="Fāng MèngChén" />, id: 7 },
         { name: <MyAudio sound="/audio/guanyin.mp3" name="Guānyīn" />, id: 8 },
         { name: <MyAudio sound="/audio/gusulan.mp3" name="GūsūLán" />, id: 9 },
