@@ -6,14 +6,14 @@ export default function App({ Component, pageProps }) {
     return(
         <>
             <DefaultSeo
-                title="Lan WangJi & Wei WuXian"
+                title="Escape from your daily life and dive into a fantasy world"
                 description="Lan WangJi and Wei WuXian side stories, the popular characters of The Founder of Demonic Cultivation."
                 openGraph={{
                     type: 'website',
-                    title: 'Lan WangJi & Wei WuXian',
+                    title: 'Escape from your daily life and dive into a fantasy world',
                     locale: 'en_GB',
                     url: 'https://escape.net.co',
-                    siteName: 'Lan WangJi & Wei WuXian',
+                    siteName: 'escape',
                 }}
                 twitter={{
                     handle: '@handle',
