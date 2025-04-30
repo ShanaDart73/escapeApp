@@ -26,6 +26,7 @@ const Homepage = () => {
                 <meta name="keywords" content="WangXian, Lan WangJi, Wei WuXian, Modaozushi, Demonic Cultivation"/>
                 <meta name="msvalidate.01" content="6AAB940142707795076943EDBAD8FB19"/>
                 <meta name="google-site-verification" content="ygigt7CFXyUyeMm3KZI8o1-8gnOrV9WMTkLEAha33c4"/>
+                <meta name="p:domain_verify" content="6b5a72759d763c791263fd92f986a1f4"/>
                 <title>{pageTitle}</title>
             </Head>
             <div className="flex flex-col items-center gap-y-8">
