@@ -13,21 +13,21 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@vercel/analytics": "^1.0.2",
-    "next": "^15.0.4",
+    "@vercel/analytics": "^1.5.0",
+    "next": "^15.4.3",
     "next-seo": "^6.8.0",
-    "node": "^20.5.0",
+    "node": "^20.19.4",
     "npm": "^11.4.2",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-serialize": "^0.2.1",
-    "styled-components": "^5.3.9",
-    "use-sound": "^4.0.1"
+    "styled-components": "^6.1.19",
+    "use-sound": "^5.0.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.19",
-    "eslint-plugin-react-hooks": "^5.1.0",
-    "postcss": "^8.4.40",
-    "tailwindcss": "^3.4.7"
+    "autoprefixer": "^10.4.21",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17"
   }
 }

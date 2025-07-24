@@ -22,7 +22,7 @@ export default function App({ Component, pageProps }) {
                 }}
             />
             <Component {...pageProps} />
-            <Analytics />
+            <Analytics mode="production" />
         </>
     )
 }
