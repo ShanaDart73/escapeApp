@@ -1,7 +1,7 @@
 {
   "name": "escapeapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Enjoy reading online",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -20,14 +20,28 @@
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-serialize": "^0.2.1",
-    "stable": "^0.1.8",
     "styled-components": "^6.1.19",
     "use-sound": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=v22.17.1",
+    "npm": "<=10.9.2"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "eslint-plugin-react-hooks": "^5.2.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.11"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShanaDart73/escapeApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShanaDart73/escapeApp/issues"
+  },
+  "homepage": "https://github.com/ShanaDart73/escapeApp#readme"
 }
