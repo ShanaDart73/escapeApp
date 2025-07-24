@@ -7,7 +7,7 @@ const pageTitle = "Escape from your daily life and dive into a fantasy world"
 
 const Homepage = () => {
     return (
-        <div className="bg-homepage-BG">
+        <div className="bg-[url('/photos/homepage/stars.png')]">
             <NextSeo
                 title="Lan WangJi & Wei WuXian"
                 description="Lan WangJi and Wei WuXian side stories, the popular characters of The Founder of Demonic Cultivation."

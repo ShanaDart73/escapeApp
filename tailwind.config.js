@@ -7,18 +7,18 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors: {
+      /*colors: {
         blueBG: "#01012a",
         textColor: "rgba(255, 255, 255, 0.4)",
         borderColor: "#000010",
         gradientTop: "#111160",
         gradientBottom: "#000010",
-      },
-      backgroundImage: {
+      },*/
+      /*backgroundImage: {
         'homepage-BG': "url('/photos/homepage/stars.png')",
         'coffee-BG': "url('/photos/cupOfCoffee/heart.png')",
-      },
-      boxShadow: {
+      },*/
+      /*boxShadow: {
         'homePic-shadow': '0 8px 16px -8px lightblue',
         'homePic-hover': '0 10px 20px 2px rgba(111, 81, 218, 0.7)',
       },
@@ -36,7 +36,7 @@ module.exports = {
       },
       fontSize: {
         'canvas-md-size': '1.1rem'
-      }
+      }*/
     },
   },
   plugins: [],
