@@ -23,6 +23,7 @@
     "use-sound": "^5.0.0"
   },
   "devDependencies": {
+    "@types/react": "^19.1.8",
     "autoprefixer": "^10.4.21",
     "eslint-plugin-react-hooks": "^5.2.0",
     "postcss": "^8.5.6",
