@@ -22,10 +22,6 @@
     "styled-components": "^6.1.19",
     "use-sound": "^5.0.0"
   },
-  "engines": {
-    "node": ">=22.17.1",
-    "npm": "<=10.9.2"
-  },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "eslint-plugin-react-hooks": "^5.2.0",
