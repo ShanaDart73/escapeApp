@@ -1,5 +1,5 @@
 import '../styles/global.css'
-//import { Analytics } from '@vercel/analytics/react'
+import { Analytics } from '@vercel/analytics/next'
 import { DefaultSeo } from 'next-seo'
 
 export default function App({ Component, pageProps }) {
@@ -22,6 +22,7 @@ export default function App({ Component, pageProps }) {
                 }}
             />
             <Component {...pageProps} />
+            <Analytics />
         </>
     )
 }
