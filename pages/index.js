@@ -33,7 +33,7 @@ const Homepage = () => {
                 <div className="m-10">
                     <img className="rounded-2xl brightness-50" src="/photos/homepage/home.png" alt="head-image" />
                 </div>
-                <h1 className="italic font-canvas-font-title text-purple-500 text-center px-5 mb-3 text-2xl lg:text-3xl">Escape from your daily life and dive into a fantasy world</h1>
+                <h1 className="brightness-50 italic font-canvas-font-title text-purple-500 text-center px-5 mb-3 text-2xl lg:text-3xl">{pageTitle}</h1>
                 <div className="flex flex-col md:flex-row md:flex-wrap justify-center gap-y-8 gap-x-8 lg:gap-16 max-w-4xl">
                     <HomeContent />
                 </div>
