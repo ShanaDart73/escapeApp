@@ -39,39 +39,44 @@ const Comment = () => {
 				)
 			}
 			<div className={`h-full w-10/12 top-0 right-0 fixed bg-blueBG z-10 p-6 overflow-y-scroll ${display ? "translate-x-0" : "translate-x-full"} ease-in-out duration-1000`}>
-				<h2 className="p-2">Comments</h2>
-				<form onSubmit={handleSubmit} className="max-w-xl mx-auto space-y-4 mb-6">
-					<input
-						type="text"
-						placeholder="Your Name"
-						value={name}
-						onChange={(e) => setName(e.target.value)}
-						className="w-full border rounded-lg px-4 py-2 mt-2 focus:outline-none focus:ring-2 focus:ring-blue-300"
-					/>
-					<textarea
-						placeholder="Your Comments"
-						value={text}
-						onChange={(e) => setText(e.target.value)}
-						rows={4}
-						className="w-full border rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-300"
-					/>
-					<button className="bg-blue-900 text-gray-400 px-6 py-2 rounded-lg hover:bg-blue-800 transition">
-						Post Comment
-					</button>
-				</form>
+				<div className="max-w-xl mx-auto pb-10">
+					<div className="p-2">
+						<p>Despite my effort and dedication to provide a good quality work to my readers, however, no one is perfect. <br />So, if you find any mistakes, please, let me know. I will be delighted to correct them.</p>
+						<p><small>Psst! Don't forget to indicate the chapter.</small></p>
+					</div>
+					<form onSubmit={handleSubmit} className="space-y-4 mb-6">
+						<input
+							type="text"
+							placeholder="Your Name"
+							value={name}
+							onChange={(e) => setName(e.target.value)}
+							className="w-full border rounded-lg px-4 py-2 mt-2 focus:outline-none focus:ring-2 focus:ring-blue-300"
+						/>
+						<textarea
+							placeholder="Your Comments"
+							value={text}
+							onChange={(e) => setText(e.target.value)}
+							rows={4}
+							className="w-full border rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-300"
+						/>
+						<button className="text-gray-500 px-6 py-2 rounded-lg bg-gradient-to-b from-gradientTop to-gradientBottom hover:cursor-pointer hover:text-blue-400">
+							Post Comment
+						</button>
+					</form>
 
-				<div className="space-y-4">
-					{comment.length === 0 ? (
-						<p className="text-gray-500 text-center">No comments yet. Be the first!</p>
-					) : (
-						comment.map((chat) => (
-							<div key={chat.id} className="border-t pt-4 border-gray-400 space-y-1">
-								<p className="font-semibold">{chat.name}</p>
-								<p className="text-gray-300">{chat.text}</p>
-								<p className="text-xs text-gray-400">{text.date}</p>
-							</div>
-						))
-					)}
+					<div className="space-y-4">
+						{comment.length === 0 ? (
+							<p className="text-gray-500 text-center">No comments yet. Be the first!</p>
+						) : (
+							comment.map((chat) => (
+								<div key={chat.id} className="border-t pt-4 border-gray-400 space-y-1">
+									<p className="font-semibold">{chat.name}</p>
+									<p className="text-gray-400">{chat.text}</p>
+									<p className="text-xs text-gray-400">{chat.date}</p>
+								</div>
+							))
+						)}
+					</div>
 				</div>
 			</div>
 		</div>
