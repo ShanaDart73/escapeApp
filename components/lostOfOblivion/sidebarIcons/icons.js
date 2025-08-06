@@ -1,6 +1,9 @@
 import Nav from './nav'
 import Sound from './sound'
+import dynamic from "next/dynamic"
 import Link from 'next/link'
+
+const UserComment = dynamic(() => import("./comment"), { ssr: false });
 
 const Icons = () => {
     return (
@@ -19,6 +22,7 @@ const Icons = () => {
                     <img src="/logos/coffee.svg" height="auto" width="100%" alt="" />
                 </div>
             </a>
+	        <UserComment />
         </>
     )
 }
