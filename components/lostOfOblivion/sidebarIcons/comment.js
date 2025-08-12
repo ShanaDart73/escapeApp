@@ -38,8 +38,8 @@ const Comment = () => {
 					</button>
 				)
 			}
-			<div className={`h-full w-10/12 top-0 right-0 fixed bg-blueBG z-10 p-6 overflow-y-scroll ${display ? "translate-x-0" : "translate-x-full"} ease-in-out duration-1000`}>
-				<div className="max-w-xl mx-auto pb-10">
+			<div className={`h-5/6 w-10/12 top-0 right-0 fixed bg-blueBG z-10 p-6 overflow-y-scroll ${display ? "translate-x-0" : "translate-x-full"} ease-in-out duration-1000`}>
+				<div className="max-w-xl mx-auto">
 					<div className="p-2">
 						<p>Despite my effort and dedication to provide a good quality work to my readers, however, no one is perfect. <br />So, if you find any mistakes, please, let me know. I will be delighted to correct them.</p>
 						<p><small>Psst! Don't forget to indicate the chapter.</small></p>
