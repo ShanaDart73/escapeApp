@@ -3,7 +3,7 @@ import Sound from './sound'
 import dynamic from "next/dynamic"
 import Link from 'next/link'
 
-const UserComment = dynamic(() => import("./comment"), { ssr: false });
+const UserComment = dynamic(() => import('./comment'), { ssr: false })
 
 const Icons = () => {
     return (

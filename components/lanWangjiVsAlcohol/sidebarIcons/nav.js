@@ -11,6 +11,7 @@ const Nav = () => {
 		{ name: "Chapter Five", link: "/lanWangjiVsAlcohol/chapters/5", id: 5 },
 		{ name: "Chapter Six", link: "/lanWangjiVsAlcohol/chapters/6", id: 6 },
 		{ name: "Chapter Seven", link: "/lanWangjiVsAlcohol/chapters/7", id: 7 },
+		{ name: "Chapter Eight", link: "/lanWangjiVsAlcohol/chapters/8", id: 8 },
 	]
 
 	return (
