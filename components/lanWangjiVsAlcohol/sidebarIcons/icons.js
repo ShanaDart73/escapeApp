@@ -10,16 +10,16 @@ const Icons = () => {
 		<>
 			<Link href="/">
 				<div className="sm:w-10 md:w-16 lg:w-18">
-					<img src="/logos/home.svg" height="auto" width="100%" alt=""/>
+					<img src="/logos/home.svg" height="auto" width="100%" alt="" />
 				</div>
 			</Link>
-			<Nav/>
+			<Nav />
 			<div className="sm:w-10 md:w-16 lg:w-18">
-				<Sound/>
+				<Sound />
 			</div>
 			<a href="/cupOfCoffee/coffee" target="_blank">
 				<div className="sm:w-10 md:w-16 lg:w-18">
-					<img src="/logos/coffee.svg" height="auto" width="100%" alt=""/>
+					<img src="/logos/coffee.svg" height="auto" width="100%" alt="" />
 				</div>
 			</a>
 			<UserComment />

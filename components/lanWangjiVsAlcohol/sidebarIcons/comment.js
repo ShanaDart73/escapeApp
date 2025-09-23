@@ -3,8 +3,8 @@ import { useState, useEffect } from 'react'
 const Comment = () => {
 	const [display, setDisplay] = useState(false)
 	const [comment, setComment] = useState(JSON.parse(localStorage.getItem("commentList")) || [])
-	const [name, setName] = useState('')
-	const [text, setText] = useState('')
+	const [name, setName] = useState("")
+	const [text, setText] = useState("")
 
 	useEffect(() => {
 		localStorage.setItem("commentList", JSON.stringify(comment))
