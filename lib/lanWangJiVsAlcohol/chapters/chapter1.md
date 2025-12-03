@@ -5,6 +5,8 @@
          <p>So, for not to confuse my readers, I've named this story: ‘Lán WàngJī versus Alcohol’.</p>
 </section>
 
+<br />
+
 It was the season for celebrating the Mid-Autumn Festival*; the Osmanthus shrubs were in full bloom, and their golden flowers released their sweet fragrance.
 
 <small>*Mid-Autumn Festival is a harvest festival celebrated in Chinese culture.</small>
