@@ -8,31 +8,31 @@ Wèi WúXiàn looked at Lán WàngJī, and noted that the latter was feverishly 
 
 With a smile on his face, he said, “Èr-gēge, get into the bathtub, I’ll help you clean off the dust on your body.”
 
-However, Lán WàngJī spread his arms instead, letting Wèi WúXiàn know that he wanted him to remove the last inner robe, as well.
+However, Lán WàngJī spread his arms instead, letting Wèi WúXiàn know that he wanted him to remove the last inner robe as well.
 
 Wèi WúXiàn was amused, and, of course, he was delighted to do whatever his beloved husband wanted him to do.
 
 While helping him remove his robe, Wèi WúXiàn said inwardly, “Lán Zhàn likes being clean all the time. After the incident that happened in the monster’s lair, we have been covered with dust.”
 
-“However,” he went on, “since I was really concerned about his condition, it didn’t cross my mind to even change clothes, let alone taking a bath.”
+“However,” he went on, “since I was really concerned about his condition, it didn’t cross my mind to even change clothes, let alone take a bath.”
 
 After Lán WàngJī got into the bathtub, Wèi WúXiàn brush back his long and silky hair, took a soft cloth, soaked it with the bathwater, and then, he began gently to wash the beautiful face of his hubby.
 
-In order to make Wèi WúXiàn’s task easier, Lán WàngJī raised his head while he kept his eyes closed.
+To make Wèi WúXiàn’s task easier, Lán WàngJī raised his head while he kept his eyes closed.
 
 Since he was looking younger than his age, Lán WàngJī’s skin was white and smooth. This was due to the immortality cultivation that enabled cultivators to maintain their youthful appearance.
 
-Not only he looked younger, but also his arched eyebrows were perfectly shaped, his long eyelashes were beautifully curled, with some thin droplets of water were hanging on them, the eyelashes appeared to be even more gorgeous.
+Not only did he look younger, but also his arched eyebrows were perfectly shaped, and his long eyelashes were beautifully curled, with some thin droplets of water hanging on them; the eyelashes appeared to be even more gorgeous.
 
 When his eyes were opened, one could see that they were as clear and pure as a crystal ball, just like those of Wèi WúXiàn, unclouded by even a speck of dust.
 
-Maybe because the mood at that precise moment was so calm and pleasant, that his body was relaxed, and that his mind was at ease, that, all of a sudden, Wèi WúXiàn yearned to get as close as one could be to Lán WàngJī.
+Maybe because the mood at that precise moment was so calm and pleasant, because his body was relaxed, and because his mind was at ease, that, all of a sudden, Wèi WúXiàn yearned to get as close as one could be to Lán WàngJī.
 
 Gazing at the face that was pleasing to eye, Wèi WúXiàn became a little bit aroused. Unaware of the cloth that had slipped from his hand, he began slowly to run his fingers on Lán WàngJī’s flawless face.
 
 On the other hand, as he was getting closer to Lán WàngJī, he put his left hand on the edge of the bathtub to support himself.
 
-As his face gradually approaching his, their breaths intertwined. Then, Wèi WúXiàn tenderly kissed Lán WàngJī on the forehead.
+As his face gradually approached his, their breaths intertwined. Then, Wèi WúXiàn tenderly kissed Lán WàngJī on the forehead.
 
 Suddenly, there was a ripple in the bathwater, caused by Lán WàngJī’s heartbeat. He then opened his eyes.
 
@@ -46,7 +46,7 @@ Wèi WúXiàn looked at Lán WàngJī in a coquettish way, parted his red lips a
 
 This time, there was a wave that surged in the bathwater; Lán WàngJī’s heart was racing.
 
-Unable to bear it any longer, he suddenly pulled Wèi WúXiàn into the bathtub, and held him in his arms.
+Unable to bear it any longer, he suddenly pulled Wèi WúXiàn into the bathtub and held him in his arms.
 
 His breathing had quickened, and, without losing any time, he buried his face on Wèi WúXiàn’s neck and began to suck it, leaving love bites here and there on the graceful neck.
 
@@ -70,7 +70,7 @@ As Lán WàngJī ran his fingers on his back, Wèi WúXiàn sensed the slightly 
 
 He then thought, “This should be his right hand. He uses these fingers to pluck at the strings of his guqin.”
 
-Wèi WúXiàn then felt Lán WàngJī’s hands gradually moving towards his chest, and gently rubbing his nipples, and then, his hands slid down and explored his manhood.
+Wèi WúXiàn then felt Lán WàngJī’s hands gradually sliding to his chest and gently rubbing his nipples before they slid down to explore his manhood.
 
 Soon after, Wèi WúXiàn’s breathing quickened, his chest began to move up and down rapidly. He then lowered his head and looked down.
 
@@ -84,7 +84,7 @@ The urgent hunger for invading and possessing him completely was written all ove
 
 Exhausted and fully satisfied, Wèi WúXiàn couldn’t move a muscle, resting languorously on Lán WàngJī’s arms.
 
-Lán WàngJī then did everything for him, from thoroughly washing him and wiping his body to putting clothes on him; the clothes that Wèi WúXiàn had earlier prepared for both of them to wear after bath.
+Lán WàngJī then did everything for him, from thoroughly washing him and wiping his body to putting clothes on him; the clothes that Wèi WúXiàn had earlier prepared for both of them to wear after the bath.
 
 Then, he carried Wèi WúXiàn to the bed, carefully laid him down and covered him with a duvet.
 
@@ -106,7 +106,7 @@ Lán WàngJī, however, didn’t answer but said, “You haven’t eaten yet.”
 
 “Don't be afraid.” Wèi WúXiàn whispered, “I won't leave you. I won’t go anywhere.”
 
-Lán WàngJī’s eyes suddenly widened in surprise, and, at the same time, he couldn’t help but clench his fists tight. Then, he looked at Wèi WúXiàn, his gaze was filled with love and tenderness.
+Lán WàngJī’s eyes suddenly widened in surprise, and, at the same time, he couldn’t help but clench his fists tight. Then, he looked at Wèi WúXiàn; his gaze was filled with love and tenderness.
 
 At that moment, Wèi WúXiàn had already fallen asleep.
 
@@ -116,7 +116,7 @@ Lán WàngJī gently kissed him on the forehead, then he smiled. He got into the
 ... ... ...
 <br />&nbsp;
 
-Even though there were not too many cases reported so far in Yúnmèng and Lánlíng territories, however, these regions were densely populated and very prosperous with countless of merchants travelling back and forth.
+Even though there were not too many cases reported so far in the Yúnmèng and Lánlíng territories, these regions were densely populated and very prosperous, with countless merchants travelling back and forth.
 
 If the monster’s wine was still circulated, the matter would get worse.
 
@@ -126,7 +126,7 @@ As soon as he landed at Jīnlíntái*, Jīn Líng went straight to his room, sat
 
 After he had finished, Jīn Líng poured himself a cup of tea, then took a sip.
 
-At that moment, a disciple came forward to report to him, he said, “Zōng-zhǔ, Jiāng Zōng-zhǔ is already here waiting for you in the guest room.”
+At that moment, a disciple came forward to report to him; he said, “Zōng-zhǔ, Jiāng Zōng-zhǔ is already here waiting for you in the guest room.”
 
 Jīn Líng was astonished. “Didn’t he ask me to meet him in Yúnmèng in two hours?” he thought, “His lack of patience is really getting worse.”
 
@@ -138,9 +138,9 @@ Jiāng Chéng was tapping his fingers on the table, his almond-shaped eyes seeme
 
 On the table, there was an open ledger, and in front of him, there were two men kneeling with their heads close to the floor, and slightly trembling in fear. These two were accountants of the LánlíngJīn sect.
 
-Without seeing it directly, Jīn Líng knew that the ledger had the emblem of his sect, and immediately understood the situation in front of him.
+Without seeing it directly, Jīn Líng knew that the ledger had the emblem of his sect and immediately understood the situation in front of him.
 
-He gestured to his underling to close the door, then, he angrily said, “You two, raise your heads!”
+He gestured to his underling to close the door, then he angrily said, “You two, raise your heads!”
 
 Those words were previously uttered by Jiāng Chéng, but the two accountants didn’t dare to look up at him. However, when they noticed that it was Jīn Líng, they hurriedly looked at him and began to beg for mercy, “Zōng-zhǔ, please spare us. We——”
 
@@ -150,7 +150,7 @@ Jīn Líng was angry, as well as displeased, because he felt that he was not rut
 
 And also, since he was still a young and inexperienced leader, it was hard for him to gain support from other members of his sect.
 
-He knew very well that he could not keep on relying on his uncle, otherwise, he might not able to become independent.
+He knew very well that he could not keep on relying on his uncle; otherwise, he might not be able to become independent.
 
 Jīn Líng composed himself, took a few steps forward, his eyes ran through the open ledger, then, in a stern tone, he said, “Tell me the truth, how much did you spend? Where did you get the wine from? And where have you been circulating that wine?”
 
@@ -158,7 +158,7 @@ He then added, “Don’t think that you’ll get away with it. I will punish yo
 
 Jīn Líng instantly pulled out Suìhuá and slashed the hair buns of the two accountants.
 
-The sword light swept across the room with great strength, striking the wall and leaving a deep cut, then, the two men’s hair fell on the floor.
+The sword light swept across the room with tremendous power, striking and carving a deep cut into the wall, and then, the two men’s hair fell on the floor.
 
 The hair was cut in a neat and skilful way that it caused Jiāng Chéng to frown in thought, while the two men were so frightened that they collapsed on the floor.
 
@@ -170,13 +170,13 @@ Back then when they were very young, his cousins used to bully him. And, later o
 
 Luckily for Jīn Líng, Jiāng Chéng often came to visit under the pretence of seeing his nephew, while constantly probing and keeping an eye on everything.
 
-Wèi WúXiàn also occasionally came over along with the young disciples of GūsūLán. On the surface, it seemed like a simple visit, however, under the hood, he checked for any looming shadow.
+Wèi WúXiàn also occasionally came over along with the young disciples of GūsūLán. On the surface, it seemed like a simple visit; however, under the hood, he checked for any looming shadow.
 
 After the confession of the two accountants, it turned out that the monster, that had caused trouble for common people, was cultivated by humans.
 
 It was not an easy task to keep a monster under control. So, at some point, it had escaped and began to harm people.
 
-And also, Jīn Líng was very furious after he learned that the wine that could confuse people’s mind was specially brought here for Jiāng Chéng and him to drink.
+And also, Jīn Líng was very furious after he learned that the wine that could confuse people’s minds was specially brought here for Jiāng Chéng and him to drink.
 
 Then, he thought that since they had learned the truth, if Jīn Chǎn was closely monitoring his every move, chances were that he was likely to go into hiding by now.
 
