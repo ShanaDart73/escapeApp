@@ -18,13 +18,13 @@ export async function getStaticProps({ params }) {
 	const data = await getAllChapters(params.id)
 	return {
 		props: {
-			data, params
+			data
 		}
 	}
 }
 
-const DynamicsPages = ({ data, params }) => {
-	console.log(params);
+const DynamicsPages = ({ data }) => {
+
 	return (
 		<div className="select-none text-base md:text-lg lg:text-xl xl:text-2xl text-textColor bg-blueBG"
 		     onContextMenu={(e) => e.preventDefault()}
@@ -48,7 +48,7 @@ const DynamicsPages = ({ data, params }) => {
 						<img className="object-cover w-full" src={data.leftImg} alt="Picture" />
 					</div>
 					<div className="col-span-10 md:col-span-7 lg:col-span-5 row-span-10 font-canvas-font-title text-justify pl-4 pr-2 lg:pr-4 overflow-y-scroll">
-						<div dangerouslySetInnerHTML={{__html: data.content}}/>
+						<div dangerouslySetInnerHTML={{__html: data.content}} />
 					</div>
 					<div className="hidden lg:flex col-span-3 row-span-11 sticky top-14">
 						<img className="object-cover w-full" src={data.rightImg} alt="Picture" />

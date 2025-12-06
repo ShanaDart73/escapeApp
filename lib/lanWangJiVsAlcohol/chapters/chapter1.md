@@ -1,8 +1,8 @@
 <section>
          <b>Translator Note:</b>
          <p>This is another side story of Lán WàngJī and Wèi WúXiàn that has picked my interest.</p>
-         <p>The original title, ‘Drunk HánGuāng-Jūn (醉叽含光君)’, for an English reader’s perspective, sounds like: 'He got drunk because he had drunk too much alcohol', which is not what the story is about.</p>
-         <p>So, for not to confuse my readers, I've named this story: ‘Lán WàngJī versus Alcohol’.</p>
+         <p>The original title, ‘Drunk HánGuāng-Jūn (醉叽含光君)’, for an English reader’s perspective, sounds like, 'He got drunk because he had drunk too much alcohol,' which is not what the story is about.</p>
+         <p>So as not to confuse my readers, I've named this story ‘Lán WàngJī versus Alcohol’.</p>
 </section>
 
 <br />
