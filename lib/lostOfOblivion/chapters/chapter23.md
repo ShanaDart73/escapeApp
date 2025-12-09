@@ -12,19 +12,19 @@ Lán WàngJī then said, “There is a fourth method. It’s what you replied, a
 
 “My method is precarious,” said Wèi WúXiàn, “Demonic power is very complex. There are some features that are good to be used, and others that are not, and must to be discarded.”
 
-He went on, “Lán Zhàn, you have already helped me restore my golden core. From now on, I’ll be using mostly my spiritual power, and less of my demonic power.”
+He went on, “Lán Zhàn, you have already helped me restore my Golden Core. From now on, I’ll be using mostly my spiritual power, and less of my demonic power.”
 
 He then leaned his head on Lán WàngJī’s shoulder, and gently stroked Lán WàngJī’s back. With a sweet smile on his face, he said, “Ér Gege, I’ll behave.”
 
-Lán WàngJī remained silent, his well-behave Wèi Yīng once cut off his own golden core, then was trapped in the pit of burial ground. Back then, he used to stare at his back figure, feeling powerless for being unable to change the course of events.
+Lán WàngJī remained silent, his well-behave Wèi Yīng once cut off his own Golden Core, then was trapped in the pit of burial ground. Back then, he used to stare at his back figure, feeling powerless for being unable to change the course of events.
 
 He also used to listen to Wèi WúXiàn saying that he didn’t had other choices than walking on the wrong side of the road.
 
-Now that he had a golden core, he no longer needed to walk on that side.
+Now that he had a Golden Core, he no longer needed to walk on that side.
 
-They had worked together to form a new golden core, however, Wèi WúXiàn chose to give up on his golden core for him. Fortunately, he was able to help him restore his golden core.
+They had worked together to form a new Golden Core, however, Wèi WúXiàn chose to give up on his Golden Core for him. Fortunately, he was able to help him restore his Golden Core.
 
-Right now, a dazzling golden core was residing in his golden core vessel. And, this time, he would protect him.
+Right now, a dazzling Golden Core was residing in his Golden Core vessel. And, this time, he would protect him.
 
 Wèi WúXiàn had gone back to the mirror to look at himself again. He then saw in the mirror that Lán WàngJī had followed him.
 
@@ -138,7 +138,7 @@ Wèi WúXiàn couldn’t help but kept on moaning for being extremely overwhelme
 
 “For the last few days, he has undergone an extreme anxiety; worried that he would not find me, then worried that I have forgotten about us, worried that I’m no longer used to our physical intimacy, worried that he would fail to satisfy me.
 
-“Then, he’s worried about my golden core, worried about my health.
+“Then, he’s worried about my Golden Core, worried about my health.
 
 “All these times, we have made love, Lán Zhàn has only one goal; make me feel fully satisfied.
 

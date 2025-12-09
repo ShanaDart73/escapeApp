@@ -6,9 +6,9 @@ Wèi WúXiàn wandered his fingers on Lán WàngJī’s bare skin continuously. 
 
 He suddenly gained self-confidence, and said, “Earlier, while I was waiting for you, I was also thinking of a way that will help me regain my memories.
 
-“Since I have now a golden core, and if I can remember some fragment of my lost memories, I can use that fragment as an anchor to penetrate into the realm of my unconscious mind.
+“Since I have now a Golden Core, and if I can remember some fragment of my lost memories, I can use that fragment as an anchor to penetrate into the realm of my unconscious mind.
 
-“Once I enter, with the support of my golden core, I will be able to gather other fragments of my memories, which reside in the unconscious mind.
+“Once I enter, with the support of my Golden Core, I will be able to gather other fragments of my memories, which reside in the unconscious mind.
 
 “Since memories are connected to each other, the more I recollect things the faster I will recover all my memories.”
 
@@ -16,9 +16,9 @@ He suddenly gained self-confidence, and said, “Earlier, while I was waiting fo
 
 “To be honest, I haven’t completely thought it over,” Wèi WúXiàn replied, “And, I still need to prepare myself first. Nonetheless, I have to face what had happened in the past.”
 
-He went on after a short pause, “This morning, you helped me again strengthen my golden core via the dual cultivation. I have now begun to feel the result.
+He went on after a short pause, “This morning, you helped me again strengthen my Golden Core via the dual cultivation. I have now begun to feel the result.
 
-“For instance, about your scars, although I didn’t recall anything, however, I was able to sense something. Still, it will take long for my golden core to become more powerful.
+“For instance, about your scars, although I didn’t recall anything, however, I was able to sense something. Still, it will take long for my Golden Core to become more powerful.
 
 “So, rather than waiting for my memories to return suddenly, or maybe they will return only partially, I prefer to use a method that will help me to recover them gradually.”
 

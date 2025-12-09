@@ -16,7 +16,7 @@ He went on, “Why is Lán Zhàn so awesome? Not only is he very good-looking, b
 
 <small>*But also he is good in bed.</small>
 
-Then, he realised, “Wait! Something feels different inside me. It’s a golden core! How strange is that, at my waking up, to find that I have a golden core!”
+Then, he realised, “Wait! Something feels different inside me. It’s a Golden Core! How strange is that, at my waking up, to find that I have a Golden Core!”
 
 “I’ll let it be for now,” he decided. “Eventually, things will clear up. Right now, I have something else in mind.”
 
@@ -84,11 +84,11 @@ Then, while devouring his breakfast, Wèi WúXiàn was praising Lán WàngJī fo
 
 Lán WàngJī didn’t answer any of Wèi WúXiàn’s questions; instead, he asked, “Wèi Yīng, do you feel any change in your body?”
 
-Wèi WúXiàn then said, “Ah! That’s right! Lán Zhàn, I formed a golden core.”
+Wèi WúXiàn then said, “Ah! That’s right! Lán Zhàn, I formed a Golden Core.”
 
 Then, while smiling, he took the end part of Lán WàngJī’s forehead ribbon and began to fidget with it.
 
-“Just by playing with me only once, I was able to form a golden core,” he said. “Lán Zhàn, why are you so amazing? How about playing with me once more?”
+“Just by playing with me only once, I was able to form a Golden Core,” he said. “Lán Zhàn, why are you so amazing? How about playing with me once more?”
 
 Lán WàngJī, however, introduced another topic: “Wèi Yīng, is your body all right? Do you feel any discomfort?”
 
@@ -96,33 +96,33 @@ Lán WàngJī, however, introduced another topic: “Wèi Yīng, is your body al
 
 Then, he added, “To be honest, your techniques are really good. I was fully satisfied.”
 
-“When I woke up this morning, I examined your golden core vessel and noted that everything was perfectly fine, including your golden core,” said Lán WàngJī.
+“When I woke up this morning, I examined your Golden Core vessel and noted that everything was perfectly fine, including your Golden Core,” said Lán WàngJī.
 
-He went on, “Since you had not mentioned it earlier, I thought that you had not sensed the golden core at all. So, I was worried that something was wrong with the golden core.”
+He went on, “Since you had not mentioned it earlier, I thought that you had not sensed the Golden Core at all. So, I was worried that something was wrong with the Golden Core.”
 
-With a warm smile, Wèi WúXiàn said, “The golden core is not more important than you are to me. I first of all care about you, well, about us, I should say.”
+With a warm smile, Wèi WúXiàn said, “The Golden Core is not more important than you are to me. I first of all care about you, well, about us, I should say.”
 
-Lán WàngJī was stunned and slowly repeating Wèi WúXiàn’s words in his head, “The golden core...is not more important...than you are to me.”
+Lán WàngJī was stunned and slowly repeating Wèi WúXiàn’s words in his head, “The Golden Core...is not more important...than you are to me.”
 
-Then, he recalled what the doctor said after he had examined Wèi WúXiàn: “Wèi-gōngzǐ* triggered the self-explosion of the golden core in order to use the energy of the explosion to form a protection around his body.
+Then, he recalled what the doctor said after he had examined Wèi WúXiàn: “Wèi-gōngzǐ* triggered the self-explosion of the Golden Core in order to use the energy of the explosion to form a protection around his body.
 
 <small>*gōngzǐ is an honorific title addressed to a son of a noble family.</small>
 
 “Thus, Wèi-gōngzǐ survived the violent turmoil of the waves without major injuries.
 
-“If a golden core breaks, no matter how big or small the fragments are, there’s still a possibility to repair it.
+“If a Golden Core breaks, no matter how big or small the fragments are, there’s still a possibility to repair it.
 
-“However, a golden core that is shattered by activating its self-explosion might be impossible to repair, and also, it is unlikely that another golden core can be formed.
+“However, a Golden Core that is shattered by activating its self-explosion might be impossible to repair, and also, it is unlikely that another Golden Core can be formed.
 
 “An ordinary cultivator would never opt for such decisive measures. Wèi-gōngzǐ’s strong will to survive, his decision on the spot and his ability to endure pain are really remarkable and very different from ordinary people.”
 
-Lán WàngJī thought, “I know what a golden core means to Wèi Yīng. However, he chose to give up on it with the risk of no longer being able to form another one.
+Lán WàngJī thought, “I know what a Golden Core means to Wèi Yīng. However, he chose to give up on it with the risk of no longer being able to form another one.
 
-"And, above all, knowing how painful you could feel if you activate the self-explosion of your golden core, still, Wèi Yīng decided to bear such extreme pain in order to survive and return by my side.
+"And, above all, knowing how painful you could feel if you activate the self-explosion of your Golden Core, still, Wèi Yīng decided to bear such extreme pain in order to survive and return by my side.
 
-“In his decision, Wèi Yīng was certainly sure that I would find him, as well as find a way to restore his golden core.
+“In his decision, Wèi Yīng was certainly sure that I would find him, as well as find a way to restore his Golden Core.
 
-“If I had failed to find him within seven days, then there would be no way of forming another golden core.”
+“If I had failed to find him within seven days, then there would be no way of forming another Golden Core.”
 
 Lán WàngJī then imagined what Wèi WúXiàn might have said while taking his decision, “Lán Zhàn, I won’t die. I won’t let you down and make you wait like last time.”
 

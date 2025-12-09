@@ -6,17 +6,17 @@ Wèi WúXiàn smiled, then said, “So, you came here for me, waiting until I wo
 
 Instantly, a dead silence fell into the room.
 
-However, before Lán WàngJī could step in, Jīn Líng had already collected himself, and, like a shooting star, he replied, “She has gone to the eastern regions along with father.
+However, before Lán WàngJī could step in, Jīn Líng had already collected himself, and, like a shooting star, he replied, “She has gone to the eastern regions along with Father.
 
-“Since you wanted absolutely to protect the last Wēn clan, mother wanted to protect you. Therefore, father decided to send them to the eastern regions, where he found a new place for them to settle.
+“Since you wanted absolutely to protect the last Wēn clan, Mother wanted to protect you. Therefore, Father decided to send them to the eastern regions, where he found a new place for them to settle.
 
-“From time to time, mother and father go there to pay them a visit on your behalf.”
+“From time to time, Mother and Father go there to pay them a visit on your behalf.”
 
-“A few years ago, father was tired of whole clan’s affairs,” Jīn Líng went on, “He wanted to spend more time with mother, so he designated me to become the leader our clan, then, along with mother, they have set off on journey, sightseeing the eastern regions.”
+“A few years ago, Father was tired of the whole clan’s affairs,” Jīn Líng went on. “He wanted to spend more time with Mother, so he designated me to become the leader of our clan, and then, along with Mother, they set off on a journey, sightseeing the eastern regions.”
 
 Out of the blue, Jīn Líng said all those lies, causing Lán SīZhuī and Lán JǐngYí to be so dumbfounded that they didn’t even dare to move a muscle.
 
-“Is Jīn ZiXuān* that amazing?” Wèi WúXiàn seemed to talk to himself rather asking. Then, after a short pause of thinking, he added, “That’s right! Occasionally, he shows some courage.”
+“Is Jīn ZiXuān* that amazing?” Wèi WúXiàn seemed to talk to himself rather than ask. Then, after a short pause of thinking, he added, “That’s right! Occasionally, he shows some courage.”
 
 <small>*Jīn ZiXuān is Jīn Líng’s father.</small>
 
@@ -40,25 +40,25 @@ While he carried on eating, Wèi WúXiàn said, “This congee is really tasty. 
 
 Wèi WúXiàn said, “It’s so tender and delicious. Has this dish always been part of GūsūLán cooking?”
 
-Then, suddenly something crossed his mind, he said, “Eh! Lán Zhàn, you haven't said 'Don't speak while eating' yet!”
+Then, suddenly, something crossed his mind; he said, “Eh! Lán Zhàn, you haven't said 'Don't speak while eating' yet!”
 
 Jīn Líng spoke before Lán WàngJī could reply, “Hey! If you can walk, let’s go to the Elegant Room after you finish eating. My uncle is there. He has been waiting for you to wake up.”
 
-Wèi WúXiàn said, “Your uncle? Oh, you mean Jiāng Chéng.”, then he realised, “Wait a minute! Why did you use ‘hey’ to call me, while you called Jiāng Chéng ‘uncle’? Am I not also your uncle?”
+Wèi WúXiàn said, “Your uncle? Oh, you mean Jiāng Chéng?” Then he realised, “Wait a minute! Why did you use ‘hey’ to call me, while you called Jiāng Chéng ‘uncle’? Am I not also your uncle?”
 
 Lán WàngJī cast a look at Jīn Líng.
 
-Jīn Líng reluctantly said, “All right! I’ll call you ‘uncle Wèi’, and keep calling him ‘uncle’.”
+Jīn Líng reluctantly said, “All right! I’ll call you ‘Uncle Wèi’ and keep calling him ‘Uncle’.”
 
-Wèi WúXiàn said, “It sounds like you are more closer to Jiāng Chéng than me. A-Líng*, I had made a powerful charm just for you. Why don’t you also form a strong attachment to me?”
+Wèi WúXiàn said, “It sounds like you are closer to Jiāng Chéng than me. A-Líng*, I had made a powerful charm just for you. Why don’t you also form a strong attachment to me?”
 
-<small>*A in A-Líng is prefix used before the “first name”, it indicates a close relationship. (It’s pronounced like the letter ‘a’ in the word ‘cat’.)</small>
+<small>*A in A-Líng is a prefix used before the “first name”; it indicates a close relationship. (It’s pronounced like the letter ‘a’ in the word ‘cat’.) </small>
 
-“Uncle gave me a spiritual dog.” replied Jīn Líng.
+“Uncle gave me a spiritual dog,” replied Jīn Líng.
 
 Wèi WúXiàn said, “A spiritual dog.”
 
-“That’s right!” said Jīn Líng, “I’ve already had a male spiritual dog. Uncle said that I could mate it with another dog, so he gave me a female spiritual dog.”
+“That’s right!” said Jīn Líng. “I’ve already had a male spiritual dog. Uncle said that I could mate it with another dog, so he gave me a female spiritual dog.”
 
 Jīn Líng carried on, “Maybe, next year, I will have a litter of puppies.”
 
@@ -70,31 +70,31 @@ Wèi WúXiàn replied, “Okay.”
 
 Then, Lán WàngJī signed to Lán JǐngYí and Jīn Líng to follow him outside.
 
-As they three left the room, Wèi WúXiàn began to chat with Lán SīZhuī, while eating his bowl of congee.
+As the three of them left the room, Wèi WúXiàn began to chat with Lán SīZhuī while eating his bowl of congee.
 
-In the meantime, as they reached the gate of Jingshi courtyard, Lán WàngJī said to Lán JǐngYí not to tell anyone about Wèi WúXiàn’s amnesia, then sent him to the convent.
+In the meantime, as they reached the gate of Jingshi courtyard, Lán WàngJī told Lán JǐngYí not to tell anyone about Wèi WúXiàn’s amnesia, then sent him to the convent.
 
-He then waited until Lán JǐngYí was out of earshot, and then asked Jīn Líng, “How did you come up with that made-up story?”
+He then waited until Lán JǐngYí was out of earshot and then asked Jīn Líng, “How did you come up with that made-up story?”
 
-Lowering his head, Jīn Líng replied, “For the past few years, I have been thinking that if, that day, uncle Yáo* had succeeded in escaping to eastern regions that would be good.”
+Lowering his head, Jīn Líng replied, “For the past few years, I have been thinking that if, that day, Uncle Yáo* had succeeded in escaping to eastern regions, that would be good.”
 
 <small>*Jīn Líng refers to his father’s brother, Jīn GuāngYáo, who failed to get away from his countless crimes.</small>
 
-Jīn Líng cast a quick look at Lán WàngJī, and, as he noticed that the latter was not displeased with what he just said, he carried on, “Last year, on my birthday banquet, Wèi WúXiàn and you told me that my parents were the most kind-hearted people, that my father was wonderful and reliable person.
+Jīn Líng cast a quick look at Lán WàngJī, and, as he noticed that the latter was not displeased with what he just said, he carried on, “Last year, on my birthday banquet, Wèi WúXiàn and you told me that my parents were the most kind-hearted people and that my father was a wonderful and reliable person.
 
-“That night of my birthday, I dreamt of my father. In my dream, father saved SīZhuī, he also saved Wèi WúXiàn and mother. Many other people were also saved by him. In that dream, my father became a great hero.
+“That night of my birthday, I dreamt of my father. In my dream, Father saved SīZhuī; he also saved Wèi WúXiàn and Mother. Many other people were also saved by him. In that dream, my father became a great hero.
 
-“Ever since, I have that dream going on and on in my head. So, earlier, somehow, all those words spontaneously came out of my mouth.”
+“Ever since, I have had that dream going on and on in my head. So, earlier, somehow, all those words spontaneously came out of my mouth.”
 
-Then, he hesitantly asked, “Will..., will he be able to recover his memories?”
+Then, he hesitantly asked, “Will... will he be able to recover his memories?”
 
 “I don’t know,” replied Lán WàngJī.
 
 “Is it not a good thing that he doesn’t remember all those painful memories?” remarked Jīn Líng.
 
-Lán WàngJī said, “One must face the facts, even though those facts are hard to surmount.” then, he added, “Go ahead to the Elegant Room, and inform Leader Jiāng about the current state of Wèi Yīng.”
+Lán WàngJī said, “One must face the facts, even though those facts are hard to surmount.” Then, he added, “Go ahead to the Elegant Room, and inform Leader Jiāng about the current state of Wèi Yīng.”
 
-“All right,” said Jīn Líng, “I’ll also tell him to keep it secret.” 
+“All right,” said Jīn Líng, “I’ll also tell him to keep it secret.”
 
 <br />&nbsp;
 ... ... ...
@@ -102,7 +102,7 @@ Lán WàngJī said, “One must face the facts, even though those facts are hard
 
 An irregular yet charming mountain landscape, which, throughout the year, was surrounded by the white clouds, was the spectacular view offered by the GūsūLán residence. Being part of it was like living in a fairyland.
 
-The early-morning mist had not cleared yet, and, with the exception of the chimes, the surroundings was still and quiet, making one feel completely at ease.
+The early-morning mist had not cleared yet, and, with the exception of the chimes, the surroundings were still and quiet, making one feel completely at ease.
 
 Even though the place was not a Buddhist temple, still it had the serenity of one.
 
@@ -110,11 +110,11 @@ On their way to the Elegant Room, Wèi WúXiàn remarked, “Lán Zhàn, Yúnsh�
 
 “Uh,” agreed Lán WàngJī.
 
-With his memories lost, the amnesia Wèi WúXiàn was happy to see Jīn Líng at last.
+With his memories lost, the amnesiac Wèi WúXiàn was happy to see Jīn Líng at last.
 
-Also, it was a weight off his shoulders learning that the last Wēn clan was safe and sound. He felt relieved and more relaxed, as though he was rescued from a shipwreck.
+Also, it was a weight off his shoulders learning that the last Wēn clan was safe and sound. He felt relieved and more relaxed, as though he had been rescued from a shipwreck.
 
-A short time ago, he saw the little baby girl. Although he still didn’t remember anything, but just looking at the baby, who was sleeping soundly, with tints of pink on her cheeks, and whom he saved as he learned, made him extremely happy.
+A short time ago, he saw the little baby girl. Although he still didn’t remember anything, just looking at the baby, who was sleeping soundly, with tints of pink on her cheeks, and whom he saved as he learned, made him extremely happy.
 
 He also saw the doctor, who examined him for a while in an attempt to find the cause of his amnesia but failed.
 
@@ -122,9 +122,9 @@ By nature, Wèi WúXiàn had always been easy-going. Right now, he had a carefre
 
 “Lán Zhàn, have you found the parents of that little baby?” asked Wèi WúXiàn.
 
-“I haven’t,” replied Lán WàngJī, “I asked everyone from Wěishàn Village, they all answered that none of their children are missing.”
+“I haven’t,” replied Lán WàngJī. “I asked everyone from Wěishàn Village; they all answered that none of their children are missing.”
 
-“Oh! In other words, she was abandoned,” said Wèi WúXiàn, “This is so pitiful. When I was a child, and before uncle Jiāng found me, I also was all alone, not because I was abandoned, it was because my parents had passed away.”
+“Oh! In other words, she was abandoned,” said Wèi WúXiàn. “This is so pitiful. When I was a child, and before Uncle Jiāng found me, I also was all alone, not because I was abandoned; it was because my parents had passed away.”
 
 He then asked, “Lán Zhàn, will GūsūLán carry on looking after her?”
 
@@ -132,7 +132,7 @@ He then asked, “Lán Zhàn, will GūsūLán carry on looking after her?”
 
 “To have been given the opportunity to grow up at Yúnshēn Bùzhīchù was a blessing,” thought Wèi WúXiàn. Deep down, he appreciated GūsūLán’s kindness towards the little baby.
 
-When he started to live at Lotus Piers, Wèi WúXiàn grew up among many young brothers and a big sister. So, being an orphan did not affected his childhood at all.
+When he started to live at Lotus Piers, Wèi WúXiàn grew up among many young brothers and a big sister. So, being an orphan did not affect his childhood at all.
 
 He was sure that the baby would grow up happily among GūsūLán disciples. There was no need to worry about it.
 
@@ -140,7 +140,7 @@ He then asked, “Has GūsūLán given her a name?”
 
 Lán WàngJī replied, “Not yet.”
 
-“In that case, I’ll give her a nickname,” said Wèi WúXiàn, “After all, I was the one who saved her. Everyone can call her by her nickname.”
+“In that case, I’ll give her a nickname,” said Wèi WúXiàn. “After all, I was the one who saved her. Everyone can call her by her nickname.”
 
 “All right,” said Lán WàngJī.
 
@@ -154,7 +154,7 @@ Observing Lán WàngJī’s reaction, Wèi WúXiàn said, “You don’t like it
 
 Collecting himself, Lán WàngJī replied, “It’s perfect.”
 
-“Lán Zhàn, after twenty years, your personality becomes more gentle. You even said ‘perfect’ to my suggestion. As far as I can remember you’ve never praised me before,” remarked Wèi WúXiàn.
+“Lán Zhàn, after twenty years, your personality becomes more gentle. You even said ‘perfect’ to my suggestion. As far as I can remember, you’ve never praised me before,” remarked Wèi WúXiàn.
 
 He then went on, “I was washed away by the flood. Was it you who found me?”
 
@@ -164,9 +164,9 @@ Confused, Wèi WúXiàn asked, “Why did he notify you instead of Jiāng Chéng
 
 Ignoring Wèi WúXiàn’s question, Lán WàngJī asked, “Wèi Yīng, do you feel any discomfort anywhere in your body?”
 
-The sudden change of the topic puzzled Wèi WúXiàn. However, he did not insist on the matter, he simply replied, “Not at all. I had a headache when I woke up. However, right now, I’m feeling completely fine.”
+The sudden change of the topic puzzled Wèi WúXiàn. However, he did not insist on the matter; he simply replied, “Not at all. I had a headache when I woke up. However, right now, I’m feeling completely fine.”
 
-Lán WàngJī said, “According to what the doctor said, your amnesia is temporary, that you will soon recover your memories.”
+Lán WàngJī said, “According to what the doctor said, your amnesia is temporary; you will soon recover your memories.”
 
 With a complete trust in Lán WàngJī, Wèi WúXiàn said, “All right, then. I won’t ask any more questions. I’ll wait until I regain all my lost memories. And when that time comes, everything that I don’t understand now will become clear to me.”
 
@@ -174,15 +174,14 @@ With a complete trust in Lán WàngJī, Wèi WúXiàn said, “All right, then. 
 
 Raising his head, Wèi WúXiàn saw the ‘Elegant Room’ characters written on the top of the entrance. However, he seemed to hesitate to enter the room.
 
-After they had pretended to severe their relationship, Wèi WúXiàn didn’t know if he was currently on good or bad terms with Jiāng Chéng.
+After they had pretended to sever their relationship, Wèi WúXiàn didn’t know if he was currently on good or bad terms with Jiāng Chéng.
 
-Earlier, he found it awkward to inquire about it in front of Lán SīZhuī and Lán JǐngYí. Unfortunately, Jīn Líng left before he could find the opportunity to told to him alone.
+Earlier, he found it awkward to enquire about it in front of Lán SīZhuī and Lán JǐngYí. Unfortunately, Jīn Líng left before he could find the opportunity to tell him alone.
 
 Noticing Wèi WúXiàn’s hesitation, Lán WàngJī said, “Wèi Yīng, your relationship with Jiāng WǎnYín* has already improved considerably.”
 
 <small>*Jiāng WǎnYín is Jiāng Chéng’s given name.</small>
 
-“The issue of the last Wēn clan has already been solved,” thoughy Wèi WúXiàn, “So, that probably means that Jiāng Chéng and I have been reconciled with each other.”
+“The issue of the last Wēn clan has already been solved,” thought Wèi WúXiàn. “So, that probably means that Jiāng Chéng and I have been reconciled with each other.”
 
 He carried on thinking, “To think that Lán Zhàn is so good at observing people really surprised me. He actually knew that I was thinking.”
-
