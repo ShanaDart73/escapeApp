@@ -16,16 +16,16 @@
     "@tailwindcss/postcss": "^4.1.11",
     "@vercel/analytics": "^1.5.0",
     "markdown-it": "^14.1.0",
-    "next": "^15.4.8",
+    "next": "16.0.8",
     "next-seo": "^6.8.0",
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
+    "react": "19.2.1",
+    "react-dom": "19.2.1",
     "react-serialize": "^0.2.1",
     "styled-components": "^6.1.19",
     "use-sound": "^5.0.0"
   },
   "devDependencies": {
-    "@types/react": "^19.1.8",
+    "@types/react": "19.2.7",
     "autoprefixer": "^10.4.21",
     "eslint-plugin-react-hooks": "^5.2.0",
     "postcss": "^8.5.6",
@@ -41,5 +41,8 @@
   "bugs": {
     "url": "https://github.com/ShanaDart73/escapeApp/issues"
   },
-  "homepage": "https://github.com/ShanaDart73/escapeApp#readme"
+  "homepage": "https://github.com/ShanaDart73/escapeApp#readme",
+  "overrides": {
+    "@types/react": "19.2.7"
+  }
 }
