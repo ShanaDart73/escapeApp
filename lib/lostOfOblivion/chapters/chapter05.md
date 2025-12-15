@@ -1,16 +1,16 @@
 <br />
 
-As a matter of fact, Fāng MèngChén’s spiritual power was not great, nor was his swordsmanship; however, his moves were quick.
+As a matter of fact, Fāng MèngChén’s spiritual power was not excellent, nor was his swordsmanship; however, his moves were quick.
 
-He knew that Wèi WúXiàn was running out of spiritual power and noted that Wèi WúXiàn was not in a hurry to put an end to this fight; he only spent as little as possible of his physical strength.
+He knew that Wèi WúXiàn was running out of spiritual power but wasn't in a hurry to put an end to the fight. So, he used his physical strength as little as possible.
 
 Fāng MèngChén also observed that Wèi WúXiàn was doing his best to protect the baby, so he began to direct his attacks towards Wèi WúXiàn’s chest, aiming at the little baby.
 
-Sadly, Wèi WúXiàn began to feel dizzy again, and, moreover, it was getting harder for him to handle his sword. Also, the more he used his spiritual power, the more the agonising pain in his abdomen increased.
+Sadly, Wèi WúXiàn began to feel dizzy again, and, moreover, it was getting harder for him to handle his sword. Also, the more he used his spiritual power, the worse his pain in his abdomen got.
 
 Furthermore, he could not get close to and attack Fāng MèngChén because he feared that he would put the little baby in danger of being harmed by Fāng MèngChén.
 
-Wèi WúXiàn knew that he could not hold on forever, so he decided to take a risk. He moved one step backwards, and his foot sank into the mud of the riverbed, and deceitfully, revealing a flaw.
+Wèi WúXiàn knew that he could not hold on forever, so he decided to take a risk. He moved one step backwards, and his foot sank into the mud of the riverbed, deceitfully revealing a flaw.
 
 As Fāng MèngChén charged once more, Wèi WúXiàn shielded the baby with the energy of his sword.
 
@@ -20,13 +20,13 @@ This new pain in his leg helped Wèi WúXiàn to clear his head of the dizziness
 
 A stream of blood rushed in the air, and, in severe pain, Fāng MèngChén passed out instantly.
 
-Wèi WúXiàn then said, “The trick to cutting off arms - I must confess that I learned it from Lán Zhàn.”
+Wèi WúXiàn then said, “The trick to cutting off arms – I must confess that I learned it from Lán Zhàn.”
 
 Then, there was a little sound, like the noise of an extinguished fire, coming from Suíbiàn; it had exhausted all its energy.
 
 The next instance, Wèi WúXiàn sensed the cracks in his Golden Core widened, then, once more, his head began to spin, and, once again, he fell on his butt on the riverbed.
 
-At the moment he ended up sitting on the mud, the signal-transfer talisman that he had placed on his chest lit up. The ice-blue light of the talisman began to throb like a heartbeat.
+Currently he ended up sitting on the mud, the signal-transfer talisman that he had placed on his chest lit up. The ice-blue light of the talisman began to throb like a heartbeat.
 
 “Lán Zhàn succeeds!” exclaimed Wèi WúXiàn, overjoyed.
 
@@ -38,15 +38,15 @@ The stream progressively expanded as corpses and ghouls continued to fall off th
 
 Wèi WúXiàn was no longer able to stand up as his strength failed him.
 
-Enduring the pain in his abdomen, he quickly untied the blanket, stuck the signal-transfer talisman on the baby girl, and fastened the blanket around Suíbiàn, then he sent Suíbiàn to stick on the trunk of a big tree near the riverbank.
+As he bore the pain in his abdomen, Wèi WúXiàn quickly untied the baby carrier, stuck the signal-transfer talisman on the baby, fastened the baby carrier around Suíbiàn, and then sent Suíbiàn to stick on the trunk of a big tree near the riverbank.
 
-The small amount of spiritual power that Wèi WúXiàn had transferred into Suíbiàn was enough to cause more pain in his Golden Core vessel. He could even sense that his Golden Core was on the verge of shattering.
+The small amount of spiritual power that Wèi WúXiàn had transferred in Suíbiàn was enough to cause more pain in his Golden Core vessel. He could even sense that his Golden Core was on the verge of shattering.
 
 Soon after Suíbiàn flew away with the baby, the barrier collapsed completely, and water rushed like a tsunami; the violent waves carried Wèi WúXiàn and Fāng MèngChén on their chaotic course downstream.
 
 “Lán Zhàn, I won’t die,” swore Wèi WúXiàn.
 
-In this turmoil of the river, Wèi WúXiàn managed to use his last bit of spiritual power to protect the vital parts of his body, namely, the head, the neck, the chest and the abdomen; then, he lost his consciousness, engulfed into the darkness.
+Amid the river's turmoil, Wèi WúXiàn managed to use the last of his spiritual power to protect the vital parts of his body—his head, neck, chest and abdomen—before losing consciousness and being engulfed by darkness.
 
 The excessive use of his spiritual power had put a lot of strain on his newly formed and still fragile Golden Core. Like a crystal ball, it eventually broke into small pieces, which scattered and vanished within the Golden Core vessel.
 
@@ -82,7 +82,7 @@ Unconscious, Wèi WúXiàn was lying on the riverbank of a tributary of the Anka
 
 The underling resumed, “If Wèi WúXiàn happens to disappear without a trace, HánGuāng-Jūn will be deeply devastated.
 
-“Zéwú-Jūn has been living in seclusion for many years, so, right now, GūsūLán only relies on HánGuāng-Jūn. However, if HánGuāng-Jūn is lost without Wèi WúXiàn, GūsūLán will be in an enfeebled state.
+“Zéwú-Jūn has been living in seclusion for many years, so, right now, GūsūLán only depends on HánGuāng-Jūn. However, if HánGuāng-Jūn is lost without Wèi WúXiàn, GūsūLán will be in an enfeebled state.
 
 “At the same time, with Wèi WúXiàn being no longer in this world, the connections GūsūLán has with LánlíngJīn and YúnmèngJiāng will be severed.”
 
@@ -92,7 +92,7 @@ Several years had passed since his return from death by the means of being invok
 
 Progressively, the appearance of Mò XuánYǔ, the summoner, had faded away, replaced by Wèi WúXiàn’s own face.
 
-Back when they were teenagers and attending the school at Yúnshēn Bùzhīchù*, Wèi WúXiàn once said, “The spiritual power is the energy, and the resentment** is also the energy. 
+Back when they were teenagers and attending the school at Yúnshēn Bùzhīchù*, Wèi WúXiàn once said, “The spiritual power is the energy, and the resentment** is also the energy.
 
 <small>*Yúnshēn Bùzhīchù is the name of the residence of the GūsūLán sect.</small>
 
@@ -102,7 +102,7 @@ Back when they were teenagers and attending the school at Yúnshēn Bùzhīchù*
 
 The argument that Wèi WúXiàn had put forward shocked everyone present in the classroom and made Lán Lǎo, the teacher, extremely furious.
 
-Later on, after school, he said, “I don’t plan on leaving the path to a bright future, and walking on the wrong side of the road. It’s much easier to follow the path that someone else had taken.
+Later on, after school, he said, “I don’t plan on leaving the path to a bright future and walking on the wrong side of the road. It’s much easier to follow the path that someone else had taken.
 
 “So, don’t worry about what I said earlier. I was just answering the questions that Lán Lǎo was asking me.”
 

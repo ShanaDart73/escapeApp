@@ -1,6 +1,6 @@
 <br />
 
-As they stepped into the Elegant Room, they found Lán XīChén, Jiāng Chéng and Jīn Líng.
+When they stepped into the Elegant Room, Lán XīChén, Jiāng Chéng and Jīn Líng were waiting for them.
 
 Lán WàngJī glanced at Jīn Líng, and the latter nodded to him, signalling that he had already told the other two about Wèi WúXiàn’s amnesia.
 
@@ -88,7 +88,7 @@ And, right now, he had the opportunity and opted for a topic which was less sens
 
 “Jiāng Chéng, why was I washed away by the flood?” asked Wèi WúXiàn.
 
-Jiāng Chéng replied, “After the dragon that was hidden deep in a pond flew away, a torrential rain began to pour down. This heavy rain caused flash floods that inundated many downstream locations.
+Jiāng Chéng replied, “After the dragon, which was hidden deep in a pond, flew away, a torrential rain began to pour down. This heavy rain caused flash floods that inundated many downstream locations.
 
 “You went to Ankang River, and, using your demonic power, you built a barrier that held the flow of water back. However, when the barrier collapsed, you were carried by the turbulent river.”
 
@@ -122,7 +122,7 @@ Jiāng Chéng was lost for words. Back then, he strongly believed that Lán Wàn
 
 Wèi WúXiàn then said, “Usually, water ghouls emerge after a flood. As the leader, should you not be there, preventing those water ghouls from harming people?”
 
-Jiāng Chéng replied, “Because someone went into a coma, so, in order to check on him, I have to fly on my sword to get here after patrolling the whole area. And, by chance, today, that person finally happened to wake up.”
+Jiāng Chéng replied, “Because someone went into a coma, so, to check on him, I had to fly on my sword to get here after patrolling the whole area. And, by chance, today, that person finally happened to wake up.”
 
 Listening to Jiāng Chéng’s words warmed Wèi WúXiàn’s heart; he said, “Sect Leader Jiāng is a high-minded gentleman. Thank you for the hard work.”
 

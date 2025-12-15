@@ -1,6 +1,6 @@
 <br />
 
-“After destroying the ‘Tiger Talisman’, you died.
+“After you had destroyed the Tiger Talisman, you died.
 
 “Seven years ago, Mò XuánYǔ, the illegitimate son of Jīn GuāngShàn*, summoned you by offering his own body.
 

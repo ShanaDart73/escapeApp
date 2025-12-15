@@ -4,17 +4,17 @@ Wèi WúXiàn smiled, then said, “So, you came here for me, waiting until I wo
 
 “What about your mother?” Wèi WúXiàn asked, “Where is she? Is she all right?”
 
-Instantly, a dead silence fell into the room.
+Instantly, dead silence filled the room.
 
-However, before Lán WàngJī could step in, Jīn Líng had already collected himself, and, like a shooting star, he replied, “She has gone to the eastern regions along with Father.
+Before Lán WàngJī could say something, Jīn Líng had already regained his composure and replied, “She has gone to the eastern regions along with Father.
 
-“Since you wanted absolutely to protect the last Wēn clan, Mother wanted to protect you. Therefore, Father decided to send them to the eastern regions, where he found a new place for them to settle.
+“Since you had insisted on protecting the last Wēn clan, Mother had wanted to protect you. Therefore, Father decided to send them to the eastern regions, where he found a new place for them to settle.
 
 “From time to time, Mother and Father go there to pay them a visit on your behalf.”
 
-“A few years ago, Father was tired of the whole clan’s affairs,” Jīn Líng went on. “He wanted to spend more time with Mother, so he designated me to become the leader of our clan, and then, along with Mother, they set off on a journey, sightseeing the eastern regions.”
+“Later on, Father was tired of the whole clan’s affairs,” Jīn Líng went on. “His sole desire was to spend more time with Mother. So he designated me to become the leader of our clan, and then, along with Mother, they set off on a journey, sightseeing the eastern regions.”
 
-Out of the blue, Jīn Líng said all those lies, causing Lán SīZhuī and Lán JǐngYí to be so dumbfounded that they didn’t even dare to move a muscle.
+Unexpectedly, Jīn Líng told those lies, stunning Lán SīZhuī and Lán JǐngYí into complete stillness.
 
 “Is Jīn ZiXuān* that amazing?” Wèi WúXiàn seemed to talk to himself rather than ask. Then, after a short pause of thinking, he added, “That’s right! Occasionally, he shows some courage.”
 
@@ -154,7 +154,7 @@ Observing Lán WàngJī’s reaction, Wèi WúXiàn said, “You don’t like it
 
 Collecting himself, Lán WàngJī replied, “It’s perfect.”
 
-“Lán Zhàn, after twenty years, your personality becomes more gentle. You even said ‘perfect’ to my suggestion. As far as I can remember, you’ve never praised me before,” remarked Wèi WúXiàn.
+“Lán Zhàn, after twenty years, your personality becomes more gentle. You even said the word ‘perfect’ to my suggestion. As far as I can remember, you’ve never praised me before,” remarked Wèi WúXiàn.
 
 He then went on, “I was washed away by the flood. Was it you who found me?”
 

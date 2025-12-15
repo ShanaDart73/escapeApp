@@ -6,7 +6,7 @@ Lán WàngJī replied, “I don’t need anything.”
 
 Jīn Líng and Lán SīZhuī exchanged a glance, and the latter shook his head in despair.
 
-Jīn Líng hesitantly said, “HánGuāng-Jūn, you... you only slept for three hours. Why don’t you rest a little bit more? SīZhuī and I will be waiting outside along with JǐngYí.”
+Jīn Líng hesitantly said, “HánGuāng-Jūn, you... you only slept for three hours. Why wouldn’t you rest a little bit more? SīZhuī and I will be waiting outside along with JǐngYí.”
 
 Noticing that the bed was wide enough, Jīn Líng wanted to add, “You could sleep with Wèi WúXiàn,” but, on second thoughts, he bit his tongue.
 
@@ -92,7 +92,7 @@ After a short pause, Lán WàngJī asked, “Wèi Yīng, what do you remember?�
 
 Wèi WúXiàn then tried hard to recall what he recently did or planned to do. There were buzzing noises inside his head; then, with a confused mind, he suddenly cried, “Jīn Líng! I’m going to see Jīn Líng! The baby! I have to save the baby!”
 
-Then, he grabbed Lán WàngJīi’s sleeve and asked, “Why do I remember that there is a baby who needs help? Is it Jīn Líng? Quick, take me to Jīnlíntái*!”
+Then, he grabbed Lán WàngJī’s sleeve and asked, “Why do I remember that there is a baby who needs help? Is it Jīn Líng? Quick, take me to Jīnlíntái*!”
 
 <small>*Jīnlíntái is the residence of the LánlíngJīn sect.</small>
 
