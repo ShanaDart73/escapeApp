@@ -30,11 +30,11 @@ Surprised, Wèi WúXiàn exclaimed, “Really?! I am not at all aware of my own 
 
 “I’ll carry you—on my back.” Lán WàngJī was about to say, 'I’ll carry you in my arms.' However, afraid that he would shock Wèi WúXiàn, Lán WàngJī substituted the words ‘in my arms’ with ‘on my back’.
 
-Putting his words into action, Lán WàngJī bent down in order to let Wèi WúXiàn get on his back.
+Putting his words into action, Lán WàngJī bent down to let Wèi WúXiàn get on his back.
 
-Wèi WúXiàn intuitively felt that if he refused to get on his back, Lán WàngJī was capable of doing something else even more embarrassing in order to carry him.
+Wèi WúXiàn intuitively felt that if he refused to get on his back, Lán WàngJī was capable of doing something else even more embarrassing to carry him.
 
-On the other hand, Wèi WúXiàn was really curious to see how Yúnshēn Bùzhīchù’s disciples would react when they would see Lán WàngJī giving him a piggyback ride back to Jingshi.
+On the other hand, Wèi WúXiàn was really curious to see how Yúnshēn Bùzhīchù’s disciples would react when they saw Lán WàngJī giving him a piggyback ride back to Jingshi.
 
 Amused by the eventual priceless expression they might wear on their faces, Wèi WúXiàn got on Lán WàngJī’s back while saying, “Carry me, then.”
 
@@ -64,15 +64,15 @@ Wèi WúXiàn pointed his finger at a white guqin, which was laid on a low table
 
 Kneeling in front of Wèi WúXiàn, Lán WàngJī replied while rolling up Wèi WúXiàn’s trouser leg, “That guqin is not mine. It’s yours.”
 
-Wèi WúXiàn wasn’t sure which fact was more surprising; was it because the white guqin actually belonged to him, or because Lán WàngJī crouched down on one knee in front of him for the sake of applying the ointment on his leg?
+Wèi WúXiàn wasn’t sure which fact was more surprising; was it because the white guqin was his, or because Lán WàngJī crouched down on one knee in front of him for the sake of applying the ointment on his leg?
 
 “Lán Zhàn, there’s no need for you to do that. I’m fine; I’m really fine,” implored Wèi WúXiàn.
 
 Lán WàngJī took no heed of his request. He held Wèi WúXiàn’s calf, applied the salve upon the spot of the wound, and then began to massage the area of the injury.
 
-Wèi WúXiàn then took a look at his leg. There was no trace of the injury or scar, just a small red blotch.
+Wèi WúXiàn then glanced at his leg. There was no trace of the injury or scar, just a small red blotch.
 
-Lán WàngJī then gathered his spiritual power into his fingers until some blue light began to emit from his fingertips, then he softly pressed on the blotch.
+Lán WàngJī then channelled his spiritual power to his fingers until blue light began to emit from his fingertips, then he softly pressed on the blotch.
 
 As a result, the ointment quickly melted and got absorbed into Wèi WúXiàn’s skin.
 
@@ -110,9 +110,9 @@ Wèi WúXiàn blushed at Lán WàngJī’s words. He then quickly changed the to
 
 “Eh?” Wèi WúXiàn was confused. Why would his flute vibrate with the notes of Lán WàngJī’s guqin?
 
-However, he could not keep on wondering on the subject because Lán WàngJī had resumed massaging his leg.
+As Lán WàngJī resumed massaging his leg, it caused Wèi WúXiàn to stop wondering.
 
-Rolling the trouser leg further up, Lán WàngJī massaged Wèi WúXiàn’s leg upward to his thigh.
+Rolling the trouser leg further up, Lán WàngJī massaged his leg upward to his thigh.
 
 Watching Lán WàngJī, it appeared to Wèi WúXiàn that Lán WàngJī was very focused on his task as though it was the most important thing to him.
 
@@ -130,7 +130,7 @@ Still in a daze, Wèi WúXiàn asked, “What did you say?”
 
 “My guqin? Oh! Yes, I do.” Wèi WúXiàn finally woke up from his stupor. He took support from an adjacent table to stand up, then walked quickly towards the guqin while doing his best not to stumble.
 
-It was an exquisite seven-string guqin, slightly finer than the usual width of a guqin, and immaculate white like a blanket of snow lying on the top of the mountains.
+It was an exquisite seven-string guqin, finer than the usual width of a guqin, white as a blanket of snow lying on the top of the mountains.
 
 Engraved on the body of the guqin, in large blue characters, was the word ‘WúXiàn’.
 
@@ -166,7 +166,7 @@ With a faint smile, Lán WàngJī replied, “It was perfect.”
 
 “Not to hold yourself from saying what you have in mind,” he replied.
 
-“That won’t do,” protested Wèi WúXiàn. “Currently, I am in my teenage years, so you have to behave like the teenager HánGuāng-Jūn that I am used to.”
+“That won’t do,” protested Wèi WúXiàn. “Right now, I am in my teenage years, so you have to behave like the teenager HánGuāng-Jūn that I am used to.”
 
 “OK,” he agreed.
 

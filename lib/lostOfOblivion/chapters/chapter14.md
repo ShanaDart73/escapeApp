@@ -1,32 +1,32 @@
 <br />
 
-Before getting on Bìchén, Lán WàngJī put the cloak on Wèi WúXiàn, and the latter, no longer wanting to bother with this matter, just took it as a normal act from Lán WàngJī.
+Before getting on Bìchén, Lán WàngJī put the cloak on Wèi WúXiàn. The latter, no longer wanting to bother with this matter, just took it as a normal act from Lán WàngJī.
 
-On their way to the town, they had travelled against the headwind; however, on their way back, it was a tailwind.
+On their way to the town, they had travelled against the headwind; now, on their way back, it was a tailwind.
 
 Lán WàngJī let Wèi WúXiàn stand in front, and, in a natural way, he wrapped his arms around Wèi WúXiàn’s waist, initiating him to lean against his torso.
 
-The exotic, sweet and warm scent of sandalwood coming from Lán WàngJī also encircled Wèi WúXiàn, and the latter began to hear the sound of his own heartbeat quickening.
+The exotic and sweet and warm scent of sandalwood that emanated from Lán WàngJī also enveloped Wèi WúXiàn. The latter began to hear the sound of his heartbeat quickening.
 
 Wèi WúXiàn then began to move his hands aimlessly. However, when his hands were about to touch Lán WàngJī, he quickly retracted them.
 
 He wanted to touch him, but he didn’t dare to do so.
 
-Wèi WúXiàn was aware that Lán WàngJī valued him, treating him very kindly. However, he didn’t want to speculate on how much his ‘esteem’ was and whether his way of ‘treating him’ was what he was thinking of.
+Wèi WúXiàn was aware that Lán WàngJī valued him, treating him very kindly. But he didn’t want to speculate on how Lán WàngJī held him in esteem. And also, he didn't want to get ahead of himself by misinterpreting his way of treating him.
 
-Never before had he experienced such an unsettled feeling; he didn’t know what to do. He feared that it was just his own fantasy, that he was overly confident.
+Never before had he experienced such an unsettled feeling; he didn’t know what to do. He feared that it was just his fantasy, that he was overly confident.
 
 “Shall I touch his hand?” wondered Wèi WúXiàn. “If Lán Zhàn avoids my touching him, I will just feign ignorance.” After a pause, he went on thinking, “Somehow, I feel that Lán Zhàn won’t dodge my touch.”
 
-“Throughout the entire day, Lán Zhàn himself has been touching me,” he thought. “Hold on! It sounds a little bit weird to use the word ‘touching’ when it comes to Lán Zhàn.”
+“Throughout the entire day, Lán Zhàn has been touching me,” he thought. “Hold on! It sounds a little bit weird to use the word 'touching' when it comes to Lán Zhàn.”
 
 In the morning, Lán WàngJī carried him on his back until they reached Jìngshì, then he massaged his leg, he adjusted his waist belt, and he even held his hand and took him away from the bookshop.
 
-Wèi WúXiàn recalled every single action, expression and word of Lán WàngJī, then he resolved to touch him by pretending that it was an accident.
+As he recalled each action, expression and word of Lán WàngJī, Wèi WúXiàn then resolved to touch him by pretending that it was an accident.
 
-Determined as he was, Wèi WúXiàn began to move his hand bit by bit towards Lán WàngJī’s hand.
+Then, slowly, Wèi WúXiàn began to move his hand to his.
 
-It seemed to him as though the wind had stopped blowing, that he had held his own breath.
+As he did so, Wèi WúXiàn held his breath, the wind seeming to have stopped blowing.
 
 Then, his fingers slightly touched Lán WàngJī’s hand. However, he also brushed something hard, and, at once, his curiosity took over his anxiety; he held and raised Lán WàngJī’s hand so as to have a look.
 
@@ -38,9 +38,9 @@ In a soft tone, Lán WàngJī said, “It’s you who gave it to me.”
 
 Overjoyed, Wèi WúXiàn exclaimed, “I gave it to you? That’s pretty cool! It seems that I’m not staying in the GūsūLán sect as a freeloader, after all.”
 
-There was something else on Lán WàngJī’s wrist: a knotted hair, and Wèi WúXiàn could straightaway tell that there were two different hairs: Lán WàngJī’s and his.
+There was something else on Lán WàngJī’s wrist: a knotted hair. Wèi WúXiàn could straightaway tell that there were two different hairs: Lán WàngJī’s and his.
 
-He said, “Hair?” deliberately avoid saying knotted hair.
+He said, “Hair?” deliberately avoiding saying knotted hair.
 
 “Yes,” Lán WàngJī replied, “The hair is a mix of yours and mine.” Lán WàngJī also avoided saying knotted hair* because he didn’t want to shock Wèi WúXiàn.
 
@@ -48,7 +48,7 @@ He said, “Hair?” deliberately avoid saying knotted hair.
 
 Wèi WúXiàn then pondered, “Why is the stuff I gave Lán Zhàn somewhat ambiguous?! Could it be that my own self in these past years likes Lán Zhàn as well?”
 
-He went on, “That could be plausible, because Lán Zhàn is kind, as well as handsome, so it is hard not to like him.”
+He went on, “That could be plausible, because Lán Zhàn is kind as well as handsome, so it is hard not to like him.”
 
 He turned his head so as to look at Lán WàngJī. “Indeed, Lán Zhàn is very handsome,” he thought. “His eyebrows, his eyes, his nose and his lips are really beautiful. He is without a doubt the most good-looking man I’ve ever seen.”
 
@@ -106,7 +106,7 @@ Lán WàngJī, however, didn’t stop but went past Wèi WúXiàn. The latter th
 
 As he turned around in Lán WàngJī’s direction, the first thing Wèi WúXiàn saw was a large white bath towel that landed on his head.
 
-“Your hair is still wet,” said Lán WàngJī, and then he began to wipe Wèi WúXiàn’s hair. Starting from the scalp, he softly massaged Wèi WúXiàn’s head, then carried on bit by bit, rubbing the whole hair.
+“Your hair is still wet,” said Lán WàngJī, and then he began to wipe it. Starting from the scalp, he softly massaged Wèi WúXiàn’s head, then carried on bit by bit, rubbing all the hair.
 
 Wèi WúXiàn felt as though he was floating on a cloud, feeling relaxed and peaceful, and everything around him became silent, except for the rustle of his hair being wiped.
 
@@ -142,7 +142,7 @@ Having made up his mind, Wèi WúXiàn quietly entered the room, and, to his sur
 
 Wèi WúXiàn nervously said, “Lán Zhàn, I’m thirsty.”
 
-“Thirsty?” Lán WàngJī’s voice was low and hoarse, “The pot of water is on the table.”
+“Thirsty?” Lán WàngJī’s voice was low and hoarse. “The pot of water is on the table.”
 
 Wèi WúXiàn then turned around, and, from where he was standing, he could see the table of the main room; yes, indeed, there was a clay pot on the table.
 

@@ -6,7 +6,7 @@ A waiter came over and handed them a menu.
 
 Lán WàngJī took the menu and gave it to Wèi WúXiàn; he said, “Order whatever you want to eat.”
 
-Wèi WúXiàn looked at the menu, then, to his heart’s content, he ordered, “I’ll have one dish of steamed glutinous rice dumplings, one dish of boiled pak choi, and one dish of bamboo shoot soup.”
+As he looked at the menu, his heart content, Wèi WúXiàn said, “I’ll have one dish of steamed glutinous rice dumplings, one dish of boiled pak choi and one dish of bamboo shoot soup.”
 
 “Let me have a look at the seasonal vegetables,” he went on. “Add one dish of stir-fried garland chrysanthemum with peas. And, finally, one dish of chicken with bean curd and two dipping sauces, one spicy and the other non-spicy.”
 

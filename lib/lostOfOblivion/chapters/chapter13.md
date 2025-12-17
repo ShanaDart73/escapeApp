@@ -10,17 +10,17 @@ Wèi WúXiàn suppressed his thought, then asked, “Lán Zhàn, is there anothe
 
 “Lán Zhàn, you seem to know everything about this story,” he remarked.
 
-“Because we also have a full version of the story that was previously published without illustration. So, I have read that version with you,” replied Lán WàngJī.
+“That’s because we also have a full version of the story, which was previously published without illustration. So, I have read that version with you,” replied Lán WàngJī.
 
 “Really?” exclaimed Wèi WúXiàn, while trying to control his heartbeat that had suddenly quickened. “Then, tell me which passage of the story I like the most.”
 
-Lán WàngJī put aside WàngJī, walked and stood behind Wèi WúXiàn, leaned over him, and then, he opened the third book on a chapter named ‘Sailing In The Sea Of Ghosts’.
+Lán WàngJī set WàngJī aside, walked over to Wèi WúXiàn, and stood behind him. He leaned over him and opened the third book to a chapter titled ‘Sailing in the Sea of Ghosts’.
 
 His voice was low and clear, echoing in Wèi WúXiàn’s ears, “Wèi Yīng, as far as I am concerned, you are my infinite view. Even when I am in peril, you always stay by my side. What is important in my eyes is you, not who you are.”
 
 Wèi WúXiàn began to wonder, “It seems to me that I have heard Lán Zhàn’s voice uttering these very same words before.”
 
-Then, he could no longer control his heartbeat, since his heart was now pounding as though it were about to burst out of his chest.
+He felt as though his heart were about to burst out of his chest.
 
 Lán WàngJī called out, “Wèi Yīng.”
 
@@ -28,11 +28,11 @@ Wèi WúXiàn turned his head towards Lán WàngJī, who was still leaning over 
 
 “What?” he managed to ask.
 
-“This is your most favourite passage of the story,” said Lán WàngJī.
+“This passage is your favourite part of the story,” said Lán WàngJī.
 
-“My what? Oh!” He then collected himself. “Yes, I like this passage the most; it’s my favourite.”
+“My what? Oh!” He then collected himself. “Yes, I like it. It’s indeed my favourite.”
 
-Wèi WúXiàn forced himself to calm down in order to conceal his palpitating heart from Lán WàngJī.
+Wèi WúXiàn forced himself to calm down to conceal his palpitating heart from Lán WàngJī.
 
 He then asked, “What happened afterwards?”
 
@@ -56,19 +56,19 @@ He then asked, “What happened afterwards?”
 
 “All right, then. I’ll read it when we get back home,” said Wèi WúXiàn.
 
-Soon after, however, he asked yet another question, “Are they both safe and sound?”
+Soon after, he asked yet another question. “Are both of them safe and sound?”
 
 Lán WàngJī wore a concerned expression; he replied, “After defeating Bai WuXiang, the main character’s magical power was exhausted, which caused his body to become transparent.”
 
 Wèi WúXiàn was shocked.
 
-“The character says to his partner,” said Lán WàngJī while sitting in front of Wèi WúXiàn and looking straight into his eyes, “I know everything about you: your bravery, your despair, your kindness, your pain, your grievance, your abhorrence, your cleverness and your foolishness.”
+“The character says to his partner,” Lán WàngJī went on while sitting in front of Wèi WúXiàn and looking straight into his eyes. “I know everything about you: your bravery and kindness, your despair and pain, your grievance and abhorrence, and your cleverness and foolishness.”
 
 Lán WàngJī spoke very slowly; however, Wèi WúXiàn’s heart was beating fast. Here we go again with the uncontrollable heartbeat.
 
-“He knows everything about me?” wondered Wèi WúXiàn.
+“He knows everything about me?” thought Wèi WúXiàn.
 
-“Like the characters in the story,” he went on, “I feel that I was completely defeated, a perfect failure covered with blood, rebuked and criticised by others, being extremely desperate and having no other choice but to cry.
+“Like the characters in the story,” Wèi WúXiàn went on. “It appears to me that I have undergone a similar hardship, involving criticism from others and a level of desperation so intense that it led me to cry out.
 
 “However, Lán Zhàn has the memories of these past twenty years. So, he knows everything that happened during these years, including everything about me.
 
