@@ -1,38 +1,38 @@
 <br />
 
-For most of the day, Wèi WúXiàn was anxious about misinterpreting Lán WàngJī’s kindness towards him. However, it turned out that what he had taken earlier as his own fantasy became true.
+For most of the day, Wèi WúXiàn was anxious about misinterpreting Lán WàngJī’s kindness towards him. However, it turned out that what he had taken earlier as his fantasy became true.
 
-And, right now, he was pinned down on the bed and was kissed and fondled by Lán WàngJī. All this happened at too fast a pace for Wèi WúXiàn to cope with.
+And, right now, he was pinned down on the bed and was kissed and fondled by Lán WàngJī. All this happened too fast for Wèi WúXiàn to cope with.
 
 As a teenager, Wèi WúXiàn had read a lot of illustrated pornographic books; however, he never came across those that involved two men in a relationship.
 
 On top of that, Lán WàngJī’s techniques in bed were exceedingly good, turning what he had learned from books to dust and leaving him without any other options but to lie down and be at the mercy of Lán WàngJī.
 
-However, he was still ashamed to let Lán WàngJī notice his swollen and aching manhood. Yet, with Lán WàngJī’s hands that had already reached his hips, it was only a matter of time before he found out.
+However, he was still ashamed to let Lán WàngJī notice his swollen and aching manhood. As Lán WàngJī’s hands slid down to his hips, Wèi WúXiàn knew it was only a matter of time before he found out.
 
 Under the skilful touch of Lán WàngJī, Wèi WúXiàn bit his lip so as to stop himself from moaning; however, he could not prevent his toes from curling in pleasure, nor his feet from moving uncontrollably.
 
 Before losing his memories, Wèi WúXiàn would not be subdued so easily, like he was now, lying down submissively and letting Lán WàngJī do as he pleased.
 
-Now that, in his mind, Wèi WúXiàn was a teenager, Lán WàngJī found him so cute as he tried his best to conceal his reaction, something that he wouldn’t normally do.
+Now that, in his mind, Wèi WúXiàn was a teenager, Lán WàngJī found him so adorable as he tried his best to conceal his reaction, something that he wouldn’t normally do.
 
 Lán WàngJī then slid his hand inside Wèi WúXiàn’s underwear and held his swollen manhood. As he did, Wèi WúXiàn let out a muttered moan.
 
-“Wèi Yīng, don’t bite your lips.” said Lán WàngJī. Then, he put his fingers on Wèi WúXiàn’s lips and parted them, while his other hand stroked his private parts.
+“Wèi Yīng, don’t bite your lips,” said Lán WàngJī. Then, he put his fingers on Wèi WúXiàn’s lips and parted them, while his other hand stroked his private parts.
 
-Then, from Wèi WúXiàn’s lips until his belly button, Lán WàngJī slowly covered this path with light kisses, and, when he reached the belly button, using the tip of his tongue, he licked his navel and around it.
+Then, from Wèi WúXiàn’s lips to his belly button, Lán WàngJī slowly covered this path with light kisses, and, when he reached the belly button, using the tip of his tongue, he licked his navel and around it.
 
 Wèi WúXiàn then reached the state of ecstasy; he could no longer bear this excessive pleasure and called out his name, “Lán Zhàn.”
 
 “Wèi Yīng, everything is all right,” said Lán WàngJī. Then he began to take off Wèi WúXiàn’s underwear.
 
-Unconsciously, Wèi WúXiàn raised his hips so as to assist Lán WàngJī on his task, then he felt ashamed of his own action, but it was too late, because his swollen manhood was already on display for Lán WàngJī to admire.
+Unconsciously, Wèi WúXiàn raised his hips so as to assist Lán WàngJī on his task. Then he felt ashamed of his action, but it was too late, because his swollen manhood was already on display for Lán WàngJī to admire.
 
 However, Wèi WúXiàn could not help but close his legs tight.
 
 Lán WàngJī thrust his knee between Wèi WúXiàn’s legs and opened them up; then, he wrapped his hand around his manhood and began to rub it up and down, introducing some variations by stroking the head with the palm of his hand in a circular motion and also by teasing the small opening with his finger.
 
-Lán WàngJī knew all Wèi WúXiàn’s erogenous zones, and the latter felt so good that he thought he would die if it carried on like this, wondering why Lán WàngJī was so good at it.
+Lán WàngJī knew all Wèi WúXiàn’s erogenous zones, and as for the latter, he felt so good that he thought he would die if it carried on like this, wondering why Lán WàngJī was so versed at it.
 
 Then, suddenly, it occurred to him that he should not be the only one to feel good. Wèi WúXiàn sat up to remove Lán WàngJī’s nightclothes.
 
@@ -46,11 +46,11 @@ Lán WàngJī then lowered his head and took him deeply into his mouth, and, “
 
 Since Lán WàngJī was expecting Wèi WúXiàn to resist him, he pressed down on Wèi WúXiàn’s hips and legs so as to prevent him from wriggling while he performed fellatio on him.
 
-Whenever Lán WàngJī wanted to take him into his mouth, Wèi WúXiàn always refused him to do so. At that moment of their love squabble, Lán WàngJī loved watching him trying to resist but failing, trying to escape but never succeeding, and the way Wèi WúXiàn would finally surrender to him.
+Whenever Lán WàngJī wanted to take his manhood into his mouth, Wèi WúXiàn refused to let him do so. During their love squabble, Lán WàngJī loved watching him trying to resist but failing, trying to escape but never succeeding, and the way Wèi WúXiàn would finally surrender to him.
 
-In the end, Wèi WúXiàn was not able to free himself, because Lán WàngJī’s strength was too great for him to overcome, and he was feeling as though Lán WàngJī was sucking each area of his body.
+In the end, because Lán WàngJī’s strength was overwhelming for him to overcome, Wèi WúXiàn gave up struggling, feeling as though Lán WàngJī was sucking each area of his body.
 
-Inside of Lán WàngJī’s mouth was wet and warm, which added more pleasant feeling, as Lán WàngJī kept on sucking his manhood, as well as licking the head, and teasing the small opening with the tip of his tongue.
+Lán WàngJī’s mouth was wet and warm, which added a pleasurable feeling, as Lán WàngJī kept on sucking his manhood, as well as licking the head, and teasing the small opening with the tip of his tongue.
 
 Wèi WúXiàn could not believe that the person who was at this instance fellating him was none other than Lán WàngJī. So, he closed his eyes tight since he didn’t dare to look at him.
 

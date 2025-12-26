@@ -42,7 +42,7 @@ Then, Wèi WúXiàn began to ask a series of questions.
 
 “Yes, you did,” Lán WàngJī replied.
 
-“Do we always travel together and wear identical clothes and read the same novels in which you know which passages are my favourite?” he asked.
+“Do we usually wear similar clothes, travel together, and read the same novels? he asked. "You even know my favourite passages."
 
 “Yes, that’s correct,” he replied.
 
@@ -52,15 +52,15 @@ This time, however, before asking his question, Wèi WúXiàn nervously clenched
 
 As he spoke, the warm yellow light of the candle showered on his eyelashes. Lán WàngJī intensively fixed his lustful eyes on Wèi WúXiàn.
 
-With this beautiful face, having this sensual expression with this burning gaze, in addition, in this suggestive atmosphere, Wèi WúXiàn seemed to have lost reason; his whole body began to ignite.
+With Lán WàngJī's beautiful face, having this sensual expression with this burning gaze, in addition, in this suggestive atmosphere, Wèi WúXiàn seemed to have lost reason; his whole body began to ignite.
 
 Then, impulsively, he moved forward and kissed Lán WàngJī so passionately that he hit his lower lip against Lán WàngJī’s teeth.
 
 The slight pain felt from his lip brought back his senses; he hastily retreated and quickly began to say, “This is not...”
 
-Lán WàngJī pulled him in his arms, then, feverishly, he began to kiss him. Lán WàngJī’s tongue went deep into his mouth, sweeping every area of it, and then he entwined his own tongue with his, bringing out Wèi WúXiàn’s tongue and sucking it with all the passion he had.
+Lán WàngJī pulled him in his arms, then, feverishly, he began to kiss him. Lán WàngJī’s tongue went deep into his mouth, sweeping every area of it, and then he entwined his tongue with his, bringing it out and sucking it with all the passion he had.
 
-Wèi WúXiàn let out an ‘aah’ sound, which caused Lán WàngJī to pause. Then, he resumed shortly after; however, this time, his kisses became more gentle.
+Wèi WúXiàn let out a moan that caused Lán WàngJī to pause. Then, he resumed shortly after; however, this time, his kisses became more gentle.
 
 Lán WàngJī untied Wèi WúXiàn’s hair ribbon, and then, slowly, he ran his fingers through his long hair, and then, he gently slid his fingers behind Wèi WúXiàn’s neck and then carried on caressing his back, progressively moving down and stroking Wèi WúXiàn’s slender waist.
 
@@ -78,7 +78,7 @@ Wèi WúXiàn looked at him with a dazed expression on his face; he absent-minde
 
 Lán WàngJī kissed him again, then he asked, “You don’t like it when I kiss you?”
 
-“How could I possibly dislike it?” replied Wèi WúXiàn. “Shouldn't it be I who should ask this question?”
+“How could I possibly dislike it?” replied Wèi WúXiàn. “Shouldn't I be the one asking that question?”
 
 Lán WàngJī smiled, then kissed him softly, and then, he confessed, “Wèi Yīng, in Baifeng Mountain*, it was me who kissed you.”
 
@@ -138,7 +138,7 @@ Wèi WúXiàn was feeling very embarrassed as well as overwhelmed by the way Lá
 
 He could not help but say, “Lán Zhàn, can you stop looking at me? It’s really embarrassing.”
 
-Lán WàngJī chuckled, then, gently, he pushed him down on the bed and lay on top of Wèi WúXiàn, and then, he began to kiss his lips, slowly moving down and gently biting his neck and shoulder, and then, he moved further down, licking and biting Wèi WúXiàn’s nipples.
+Lán WàngJī chuckled, and then, gently, he pushed him down on the bed and lay on top of Wèi WúXiàn, and then, he began to kiss his lips, slowly moving down and gently biting his neck and shoulder, and then, he moved further down, licking and biting Wèi WúXiàn’s nipples.
 
 For several days, he did not touch Wèi WúXiàn, and, moreover, for two days, Wèi WúXiàn’s body was soaked wet; as a result, his bite marks on Wèi WúXiàn’s skin had all vanished, Lán WàngJī noted.
 

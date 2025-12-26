@@ -8,15 +8,15 @@ However, to begin the process of dual cultivation, Lán WàngJī needed to penet
 
 While channelling, Lán WàngJī could see in Wèi WúXiàn’s memories a series of images of what happened around Wèi WúXiàn since he woke up this morning, as well as the people he met and talked to, including himself.
 
-Entering the realm of the conscious mind was similar to the empathy, where you invited the spirit of a deceased person to enter your body in order to penetrate into their memory.
+Entering the realm of the conscious mind was similar to empathy, where you invited the spirit of a deceased person to enter your body so you could penetrate into their memory.
 
-Once the spirit of the dead was inside you, you would be able to hear what they heard, observe what they saw, and feel what they felt. This process helped in discovering information that only the deceased person knew about.
+Once the spirit entered your body, you would be able to hear what they heard, observe what they saw, and feel what they felt. This process helped in discovering information that only the deceased person knew about.
 
 Although both empathy and channelling were similar, the process of a spirit entering your body was much easier compared to the process of penetrating into the realm of someone’s conscious mind.
 
 This was because the deceased people no longer possessed the spiritual veins*.
 
-<small>*In Chinese martial arts, spiritual veins, also known as meridians, are believed to be the paths in which the life-energy known as Qi flows. In this story, Qi is the spiritual power.</small>
+<small>*In Chinese martial arts, spiritual veins, also known as meridians, are believed to be the paths in which the life-energy known as 'Qi' flows. In this story, Qi is the spiritual power.</small>
 
 Inside the living beings, spiritual veins forged a barrier that protected the realm of the conscious mind, hence preventing anyone from invading other people’s minds. Even for ordinary people with low spiritual power, their conscious minds were also protected.
 
@@ -58,7 +58,7 @@ Since channelling through the realm of the unconscious mind could allow one to a
 
 Therefore, during their dual cultivation, they always operated in the realm of the conscious mind, and, step by step, they worked together to accomplish their goal.
 
-However, Wèi WúXiàn was not as cautious as Lán WàngJī was; he said, “Èr-gēge*, I trust you. So, you can go deeper and enter the realm of my unconscious mind. In that way, you’ll be able to accelerate the whole process.”
+Unlike Lán WàngJī, Wèi WúXiàn was not cautious; he said, “Èr-gēge*, I trust you. So, you can go deeper and enter the realm of my unconscious mind. In that way, you’ll be able to accelerate the whole process.”
 
 <small>*Since ‘Second Brother’ sounds weird in the English language, from now on Èr-gēge will be used instead. The correct pronunciation of 'Èr-gēge' is on the sidebar.</small>
 

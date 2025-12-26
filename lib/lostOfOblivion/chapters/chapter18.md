@@ -12,13 +12,13 @@
 
 Without saying anything, Lán WàngJī reached out for the black box and took out the same ointment as before.
 
-Although he perfectly knew that he didn’t injure Wèi WúXiàn, especially since this night was his “first time”, still, he wanted to apply the salve on Wèi WúXiàn.
+Since Lán WàngJī took this time as Wèi WúXiàn's 'first time', he was very careful not to hurt him while making love to him. But, even though he knew perfectly well that he didn’t injure him, Lán WàngJī still found the need to apply the salve on him.
 
 Back then, on their first day, Lán WàngJī felt a little bit bitter afterwards because he had injured Wèi WúXiàn due to his lack of experience; he didn’t know that he should have applied an ointment.
 
 Therefore, this time, he didn’t want to make the same mistake.
 
-Seeing what Lán WàngJī was holding in his hand, Wèi WúXiàn began to wonder, “Is it not the ointment? Why does he need it for?” Then, he realised, “Don’t tell me that he’s going to apply it there! No way! It’s so embarrassing.”
+Seeing what Lán WàngJī was holding in his hand, Wèi WúXiàn began to wonder, “Is it not the ointment? Why does he need it for?” Then, he understood. “Don’t tell me that he’s going to apply it there! No way! It’s so embarrassing.”
 
 Wèi WúXiàn’s first reaction was to run away; however, he was rooted to the spot by Lán WàngJī’s glance.
 
@@ -34,17 +34,17 @@ However, this time, Wèi WúXiàn didn’t want to be subdued so easily.
 
 Lán WàngJī paid no heed to his demand. After raising Wèi WúXiàn's buttocks, he now used his fingers to probe the opening of the hole; then, he put two fingers inside and slightly spread the hole.
 
-Everything was all right, and, with this posture, while applying the ointment, it would not leak out, thought Lán WàngJī.
+Lán WàngJī thought, "With this posture, while applying the ointment, it won't leak out."
 
 Then, after taking some portion of the salve, he began gently to apply it on Wèi WúXiàn’s hole.
 
 “Agh...” Wèi WúXiàn moaned. He could not help it, especially after being bumped so vigorously.
 
-Lán WàngJī massaged the hole by making circular motions with his fingers, softly rubbing the inside, which still had his white fluid, and, moreover, it produced a clear sound as his fingers moved about the hole.
+Lán WàngJī massaged the hole by making circular motions with his fingers, softly rubbing the inside, which still had some white fluid. As a result, the movement of his fingers produced a clear sound coming from the hole.
 
 Becoming embarrassed by the erotic sound, Wèi WúXiàn began slightly to twist his hips so as to avoid Lán WàngJī’s touch.
 
-The more Lán WàngJī excelled in his way of making him feel good, the more embarrassing it became for Wèi WúXiàn.
+The more Lán WàngJī excelled in his way of making him feel good, the more embarrassed Wèi WúXiàn became.
 
 “Are you okay?” asked Lán WàngJī.
 
@@ -52,23 +52,23 @@ The more Lán WàngJī excelled in his way of making him feel good, the more emb
 
 “No, you can’t.”
 
-Although he didn’t plan on applying the ointment on Wèi WúXiàn, however, since it had crossed his mind, he might as well do it himself and do it properly for Wèi WúXiàn’s sake.
+Although he didn’t plan on applying the ointment on Wèi WúXiàn, since it had crossed his mind, he might as well do it himself and do it properly for Wèi WúXiàn’s sake.
 
 Back then, everything happened very fast, like dry woods catching fire, and, in an instant, everything turned into a blazing fire.
 
-He was not mentally prepared for it and was caught by the fire of his own long-held-back desire and unleashed his passions that he could scarcely control.
+Lán WàngJī was not mentally prepared to make love to Wèi WúXiàn and was caught by the fire of his own long-held-back desire. He unleashed his passions that he could scarcely control.
 
-He had frenetically moved inside Wèi WúXiàn, over and over, since, at that time, he had felt that it was not enough for him to stop, that his desire had not been quenched yet.
+He had frenetically moved inside Wèi WúXiàn, over and over. At that time, he had felt it was not enough for him to stop; his desire had not been quenched yet. So he kept on moving fiercely.
 
 If only, back then, he had taken good care of him, he would not be injured.
 
 Lán WàngJī withdrew his fingers to take some more ointment, then he applied it directly on Wèi WúXiàn’s sensitive area.
 
-From now on, there would be other occasions to mend his past mistake. So, for now, Lán WàngJī didn’t want to be distracted by what happened back then; he only wanted to make Wèi WúXiàn feel happy and fully satisfied.
+From now on, there would be other occasions to mend his past mistake. So, Lán WàngJī didn’t want to be distracted by what happened back then; he only wanted to make Wèi WúXiàn feel happy and fully satisfied.
 
 “Agh...” However, Wèi WúXiàn could not bear his touch, and his breath gradually became heavy, because, not long ago, he had had an orgasm, and, as a result, his whole body had become too sensitive to withstand an erotic massage. Naturally, his manhood began to react.
 
-“Lán Zhàn, can you let me lie on my stomach?” he asked so that, in this position, Lán WàngJī would not notice his reaction.
+“Lán Zhàn, can you let me lie on my stomach?” He asked so that, in this position, Lán WàngJī would not notice his reaction.
 
 “No, I can’t,” he replied and also noticed that Wèi WúXiàn was getting hard.
 
@@ -96,7 +96,7 @@ Then, he pressed hard on Wèi WúXiàn’s P-spot.
 
 “Come on, Lán Zhàn, stop fooling around. If you want to do it, then do it.”
 
-For a brief instant, a faint smile seemed to have appeared on Lán WàngJī’s face. He pulled out his fingers, and, with the ointment slimily wrapped around his fingers, he applied it around the opening of the hole.
+For a brief instant, a faint smile seemed to have appeared on Lán WàngJī’s face. He pulled out his fingers, and, with the ointment slimily wrapped around them, he applied it around the opening.
 
 And then, once more, using his forehead ribbon that was still around the bedhead, Lán WàngJī tied Wèi WúXiàn’s wrists. This time, however, he firmly tied them before securing the ribbon on the bedhead.
 
@@ -114,13 +114,13 @@ Lán WàngJī felt a little bit disappointed. It seemed that this time he would 
 
 However, for now, it did not matter, because the current Wèi WúXiàn didn’t have any painful past, nor did he have nightmares. Everything was perfect and harmonious, and, as long as Wèi WúXiàn was happy and satisfied, that was all that counted to Lán WàngJī.
 
-He then kissed his lips, moved close to his ear and licked his earlobe, and then, he slightly sucked it.
+He then kissed his lips and licked his earlobe, and then he slightly sucked it.
 
 Afterwards, he whispered to Wèi WúXiàn’s ear, “Wèi Yīng, I want you. Doing it only once is not enough.”
 
 “Agh!” These whispers were enough to turn him on. And, as a response to Lán WàngJī, Wèi WúXiàn wrapped his legs around Lán WàngJī’s waist.
 
-Lán WàngJī then resumed licking and sucking Wèi WúXiàn’s earlobe, then carried down to his neck, and softly bit Wèi WúXiàn’s Adam’s apple.
+Lán WàngJī then resumed licking and sucking Wèi WúXiàn’s earlobe, then carried on down to his neck and softly bit Wèi WúXiàn’s Adam’s apple.
 
 Meanwhile, he slid his hand between Wèi WúXiàn’s legs, then he inserted two fingers deeply inside his body. And, from his fingertips, Lán WàngJī released a thin stream of his spiritual power, which hit directly onto Wèi WúXiàn’s weak spot.
 
@@ -128,24 +128,24 @@ Meanwhile, he slid his hand between Wèi WúXiàn’s legs, then he inserted two
 
 In fact, using spiritual power there was forbidden.
 
-Since he was always eager to try new techniques, Wèi WúXiàn had suggested it to Lán WàngJī. So, when the latter actually used it during their foreplay, Wèi WúXiàn found it too intense to bear. So, he wrote it to their Jingshi’s rules as a forbidden technique.
+Since he was always eager to try new techniques, Wèi WúXiàn had suggested it to Lán WàngJī. So, when the latter actually used it during their foreplay, Wèi WúXiàn found it too intense to bear. So, he wrote in their Jingshi rules that the technique was forbidden to be used.
 
 Lán WàngJī then looked at him, and, in a soothing voice, he said, “Wèi Yīng, leave everything to me.”
 
 Then, he moved down between Wèi WúXiàn’s legs and took his already-upright manhood into his mouth.
 
-While performing fellatio on Wèi WúXiàn, Lán WàngJī alternately released gentle and strong streams of the spiritual power through his two fingers, which were still inside Wèi WúXiàn, and kept on arousing Wèi WúXiàn’s sexual pleasure.
+While performing fellatio on Wèi WúXiàn, Lán WàngJī alternately released gentle and strong streams of the spiritual power through his fingertips. His fingers were still inside Wèi WúXiàn, which kept on arousing Wèi WúXiàn’s sexual pleasure.
 
 Lán WàngJī wanted to make Wèi WúXiàn’s “first time” be an exceptionally unforgettable experience.
 
-He wanted him to savour every one of his moves inside him, to enjoy every pleasure that he gave him.
+He wanted him to savour every move he made inside him, enjoying every pleasure he gave him.
 
 He wanted him to experience great climaxes, to cry when he penetrated deeply inside him, and to surrender to him completely.
 
-He wanted him to feel him when he came inside him and blended with him body and soul.
+He wanted him to feel him when he came inside him, blending their bodies and souls.
 
-“Lán Zhàn... Lán Zhàn...” With the stream of spiritual power hitting his P-spot and his manhood being sucked, and, from time to time, the head getting squeezed by the wall of Lán WàngJī’s throat, Wèi WúXiàn lost control and began to kick Lán WàngJī in the back.
+“Lán Zhàn... Lán Zhàn...” With Lán WàngJī’s spiritual power hitting his P-spot, his manhood being sucked, and, from time to time, the head getting squeezed by the wall of Lán WàngJī’s throat, Wèi WúXiàn lost control and began to kick Lán WàngJī in the back.
 
-“My darling...” Wèi WúXiàn unconsciously said the words that he usually used when he begged for mercy. Then, his whole body convulsed, and, at the same time, he released inside Lán WàngJī’s mouth.
+“My darling...” Wèi WúXiàn unconsciously said the words that he usually used when he begged for mercy. Then, his whole body convulsed, and, at the same time, he released his white fluid inside Lán WàngJī’s mouth.
 
 Lán WàngJī swallowed his fluid, pulled out his fingers from Wèi WúXiàn’s hole, and, vigorously, he inserted his huge manhood deeply inside him.
