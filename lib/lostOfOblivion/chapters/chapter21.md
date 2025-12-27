@@ -94,13 +94,13 @@ Lán WàngJī, however, introduced another topic: “Wèi Yīng, is your body al
 
 “Huh? Not at all. I’m fine,” replied Wèi WúXiàn. “Why are you asking about it? Are you worried that you might have injured me?”
 
-Then, he added, “To be honest, your techniques are really good. I was fully satisfied.”
+Then, he added, “To be honest, your techniques are really great. I was fully satisfied.”
 
 “When I woke up this morning, I examined your Golden Core vessel and noted that everything was perfectly fine, including your Golden Core,” said Lán WàngJī.
 
 He went on, “Since you had not mentioned it earlier, I thought that you had not sensed the Golden Core at all. So, I was worried that something was wrong with the Golden Core.”
 
-With a warm smile, Wèi WúXiàn said, “The Golden Core is not more important than you are to me. I first of all care about you, well, about us, I should say.”
+With a warm smile, Wèi WúXiàn said, “The Golden Core is not more important than you are to me. I first of all care about you; well, about us, I should say.”
 
 Lán WàngJī was stunned and slowly repeating Wèi WúXiàn’s words in his head, “The Golden Core...is not more important...than you are to me.”
 
@@ -124,7 +124,7 @@ Lán WàngJī thought, “I know what a Golden Core means to Wèi Yīng. However
 
 “If I had failed to find him within seven days, then there would be no way of forming another Golden Core.”
 
-Lán WàngJī then imagined what Wèi WúXiàn might have said while taking his decision, “Lán Zhàn, I won’t die. I won’t let you down and make you wait like last time.”
+Lán WàngJī then imagined what Wèi WúXiàn might have said while making his decision, “Lán Zhàn, I won’t die. I won’t let you down and make you wait like last time.”
 
 “I really want to be inside him right now,” Lán WàngJī thought, while looking at Wèi WúXiàn intensively. “All day yesterday, I had longed to hold him, feel his naked body against mine.
 
@@ -140,11 +140,11 @@ Lán WàngJī’s eyes were burning hot; he replied, “You have suggested it yo
 
 Wèi WúXiàn kept on invitingly rubbing Lán WàngJī’s leg, and, while smiling, he asked, “What did I say?”
 
-In a hoarse voice, Lán WàngJī replied, “You said, ‘How about playing with me one more time?’” 
+In a hoarse voice, Lán WàngJī replied, “You said, ‘How about playing with me one more time?’”
 
 Wèi WúXiàn laughed heartily; then, he spread his arms towards Lán WàngJī, letting the latter know that he could carry him to the bed.
 
-So, he did in a hurry, then, impatiently, he tore Wèi WúXiàn’s trousers off.
+So, he did in a hurry, and then, impatiently, he tore Wèi WúXiàn’s trousers off.
 
 Wèi WúXiàn noted that this time Lán WàngJī was a little bit ruthless; he said, “Lán Zhàn, am I overthinking? Are you not becoming more rough after deflowering me? Argh!”
 
@@ -179,4 +179,3 @@ Lán WàngJī progressively rose Wèi WúXiàn’s buttocks, hitting every inch 
 “Lán Zhàn is like an overlord right now, making me feel powerless and submissive,” thought Wèi WúXiàn.
 
 This time, no special techniques were used; however, Wèi WúXiàn felt that he would faint if Lán WàngJī kept on moving at such a speed.
-

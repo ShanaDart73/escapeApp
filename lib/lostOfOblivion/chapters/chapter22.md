@@ -8,7 +8,7 @@ Lán WàngJī then told Wèi WúXiàn everything about their dual cultivation.
 
 “Oh! No wonder why, after doing it with you, I sense that my spiritual power becomes stronger,” said Wèi WúXiàn.
 
-He went on, “So, if I followed correctly, you used your semen as a medium and passed through the spiritual veins barrier, then penetrated into my unconscious mind, and helped me restore my Golden Core.”
+He went on, “So, if I follow you correctly, you used your semen as a medium to pass through my spiritual barrier and penetrate my unconscious mind to help me restore my Golden Core.”
 
 “Wow!” Wèi WúXiàn exclaimed, “I am really amazed to have come up with that method.”
 
@@ -22,11 +22,11 @@ Dissatisfied, Wèi WúXiàn said, “Lán Zhàn, I haven’t finished touching y
 
 Lán WàngJī then kissed him passionately, sucking his tongue as well as his lower lip to the extent that it went numb.
 
-Meanwhile, since last night he had been kissed so many times, Wèi WúXiàn began to respond more actively.
+Since last night, as Lán WàngJī had kissed him so many times, Wèi WúXiàn began to respond more actively.
 
-And also, taking the initiative, he deeply inserted his tongue into Lán WàngJī’s mouth, then continuously twisted his tongue around Lán WàngJī’s tongue.
+Taking the initiative, Wèi WúXiàn deeply inserted his tongue into Lán WàngJī’s mouth, and then he continuously twisted his tongue around his.
 
-Lán WàngJī, however, still held the lead, he kissed him to the point where Wèi WúXiàn felt that all his strength had deserted his body.
+Lán WàngJī, however, still held the lead; he kissed him to the point where Wèi WúXiàn felt that all his strength had deserted his body.
 
 Still, Wèi WúXiàn’s hand, once more, slid underneath Lán WàngJī’s clothes and stroked his chest.
 
@@ -40,51 +40,51 @@ Lán WàngJī replied, “I can make something simple, since we don’t have eno
 
 “Okay,” Lán WàngJī replied. Then, he kissed Wèi WúXiàn once more, got out of bed, picked up their clothes that were scattered on the floor, and hung them on the dressing screen.
 
-Then, he went behind the dressing screen. When he came out, he was once again fully dressed, and left the room.
+Then, he went behind the dressing screen. When he came out, he was once again fully dressed and left the room.
 
 Shortly after, he returned with two bowls of plain noodle soup.
 
-Even though it was a simple recipe, Lán WàngJī still made the dishes pleasing to the eye.
+Although it was a simple recipe, Lán WàngJī still made the dishes appealing in appearance.
 
-Besides noodles, he had added some slices of lotus root, shredded chicken, pickled mustard greens and fresh vegetables. All these toppings were nicely arranged inside the bowl.
+Along with the noodles, he added slices of lotus root, shredded chicken, pickled mustard greens and fresh vegetables. All these toppings were nicely arranged inside the bowl.
 
-The ingredients were similar to that of the breakfast; however, the flavour was completely different.
+The ingredients were similar to those he used for the breakfast; however, the flavour was completely different.
 
-After eating the tasty noodle soup, Wèi WúXiàn was in high spirits. “Lán Zhàn, I have been pondering about the channelling technique that you told me. I think that it might be the cause of my amnesia.”
+After eating the tasty noodle soup, Wèi WúXiàn was in merriment. “Lán Zhàn, I have been pondering about the channelling technique you told me. I think that it might be the cause of my amnesia.”
 
-He went on, “Since there are many memories residing in the realm of the conscious mind, having another conscious mind penetrating inside might destabilise the conscious mind of the host.
+He went on, “As many memories reside in the conscious mind, any invasion could destabilise the host's mind.
 
-“This issue must have slipped out of my attention while the Golden Core vessel was accumulating a lot of energy in order to stabilise itself before the formation of the Golden Core.
+“This issue must have slipped out of my attention. To be stable, a Golden Core vessel needs a lot of energy. Then the formation of the Golden Core comes after.
 
 “However, I formed a Golden Core so suddenly, then, shortly after, I lost it. Meanwhile, the Golden Core vessel was still unstable; the realm of my conscious mind was also unstable; hence, the issue of memory loss arose.”
 
 Lán WàngJī said, “When I found you, you had used the spiritual power to protect yourself, especially your head.
 
-“Except for the injury on your leg that you had before being washed away, there were no other internal or external injuries. Therefore, the doctor could not find the cause of your amnesia.”
+“Except for the injury on your leg, there were no other internal or external injuries. Therefore, the doctor could not find the cause of your amnesia.”
 
 “Well, my reasoning is quite fair. Even though you have already used that kind of, oh...” Wèi WúXiàn paused.
 
 Then, he suddenly smiled and winked at Lán WàngJī. “That kind of invading the conscious mind is likely to influence the host’s habits. Lán Zhàn, you are right about the channelling consequences.”
 
-Wèi WúXiàn then held Lán WàngJī’s hand and said, “I have the feeling that you have been blaming yourself for not entering the realm of my unconscious mind earlier in order to help me form my Golden Core.
+Wèi WúXiàn then held Lán WàngJī’s hand and said, “I have the feeling that you have been blaming yourself for not entering the realm of my unconscious mind earlier to help me form my Golden Core.
 
-“But, Lán Zhàn, what told me was right. Without repeatedly testing a new technique, carelessly using it could bear some serious consequences.
+“But, Lán Zhàn, what he told me was right. Without repeatedly testing a new technique, carelessly using it could bear some serious consequences.
 
 “This time I was lucky to lose only one part of my memories. What if I have lost all of my memories and am unable to recover them again?  Or, even worse, having a memory dysfunction, then what would become of me?”
 
-He went on, this time with a smile, “I think it was a good fortune that you had insisted on penetrating only the realm of my conscious mind and helped me open up the main points of my spiritual veins. Doing so, you have gradually let me get used to your spiritual power.
+He carried on, this time with a smile, “I think it was a good fortune that you had insisted on penetrating only my conscious mind and helped me open up the main points of my spiritual veins. Doing so, you have gradually let me get used to your spiritual power.
 
 “If you had directly entered the realm of my unconscious mind, my spiritual veins and Golden Core vessel might not have coped with a surge of your spiritual power, which, in turn, could have caused another issue.”
 
-Lán WàngJī remained silent, while he got close to Wèi WúXiàn, embraced him in his arms, and rested his chin on Wèi WúXiàn’s head.
+Lán WàngJī remained silent while he got close to Wèi WúXiàn, embraced him in his arms, and rested his chin on Wèi WúXiàn’s head.
 
 Then, he felt Wèi WúXiàn’s hand patting his back, like comforting a child.
 
-Wèi WúXiàn held Lán WàngJī’s hand again and placed it on his stomach, just below the belly button, then he said, “It is one thing to form a Golden Core, but another to solidify it.
+Once more, Wèi WúXiàn held Lán WàngJī’s hand and placed it on his stomach, just below the belly button, then he said, “It is one thing to form a Golden Core, but another to solidify it.
 
 “At this stage, we don’t fully understand the risks involved in our method. And other cultivators have their own way of forming a Golden Core.
 
-“You have helped me build the foundation. To play it safe, from now on, I will rely on my own spiritual power to do the rest.”
+“You have helped me build the foundation. From now on, I will rely on my own spiritual power to do the rest.”
 
 Then, suddenly, Wèi WúXiàn laughed. “Lán Zhàn, the way I put your hand on my stomach, does it not look like I am pregnant with your child and letting you feel the baby’s movement?”
 
@@ -98,7 +98,7 @@ This time, Lán WàngJī took his time. He slowly licked Wèi WúXiàn’s lips,
 
 As for Wèi WúXiàn, the kiss seemed to have some aphrodisiac effects on him.
 
-Lán WàngJī’s kiss felt so good that, when he let go of his lips, Wèi WúXiàn didn’t want it to end just yet, he moved upward and fervently began to kiss Lán WàngJī.
+Lán WàngJī’s kiss felt so good that, when he let go of his lips, Wèi WúXiàn didn’t want it to end just yet; he moved upward and fervently began to kiss Lán WàngJī.
 
 After the kisses, Lán WàngJī said, “I’m going to inform Xiōng-zhǎng and the doctor that your Golden Core has been restored.”  Then he asked, “Wèi Yīng, will you come with me?”
 
@@ -106,19 +106,19 @@ After the kisses, Lán WàngJī said, “I’m going to inform Xiōng-zhǎng and
 
 Wèi WúXiàn needed to change clothes since he was still wearing his nightclothes. So, Lán WàngJī went to the wardrobe, and, when he was about to take Wèi WúXiàn’s usual black clothes, he suddenly changed his mind.
 
-Instead of Wèi WúXiàn’s black robes, Lán WàngJī took out a set of GūsūLán clan uniforms. The garments were not the formal ones, but still, they were not easy to be worn.
+Instead of Wèi WúXiàn’s black robes, Lán WàngJī took out a set of GūsūLán clan uniforms. The garments were not the formal ones, but still, they were not straightforward to be worn.
 
 Wèi WúXiàn usually thought that wearing GūsūLán clothes meant keeping them clean at all times, which meant, according to him, not being able to move freely as you would wish to. Hence, he would rather wear black garments.
 
-Although his black clothes also had the curl cloud motifs of GūsūLán, still, they were not eye-catching.
+Although his black clothes were also embroidered with the curl cloud motifs of the GūsūLán clan, they were not as eye-catching as the white ones.
 
-“Do I usually wear these kind of clothes?” He asked, “They look very complex. I won’t be able to wear them properly.”
+“Do I usually wear these kinds of clothes?” He asked, “They look very complex. I won’t be able to wear them properly.”
 
-Lán WàngJī didn’t reply, but only said, “I’ll help you put them on.”
+Lán WàngJī didn’t reply but only said, “I’ll help you put them on.”
 
 He then did what he said, and, for the final touch, he wrapped the waist-belt around Wèi WúXiàn’s waist.
 
-As he watched Lán WàngJī helping me, Wèi WúXiàn chuckled, then, he said, “Yesterday, I didn’t fasten the belt wrongly. You purposely said so in order to do it yourself.”
+As he watched Lán WàngJī helping me, Wèi WúXiàn chuckled, and then he said, “Yesterday, I didn’t fasten the belt wrongly. You purposely said so to do it yourself.”
 
 Lán WàngJī only said, “I’ll comb your hair.”
 
@@ -146,8 +146,8 @@ Lán WàngJī replied, “Appearance is superficial.”
 
 Lán WàngJī then said, “Wèi Yīng, you are handsome.” Then, he added, “I wish to be like you.”
 
-Extremely surprised, Wèi WúXiàn exclaimed, “Ah! Lán Zhàn, your words become jaw-dropping!”
+Wèi WúXiàn exclaimed, “Ah! Lán Zhàn, your words become mind-blowing!”
 
 Lán WàngJī didn’t really care about Wèi WúXiàn’s appearance.
 
-However, when he finished tying up Wèi WúXiàn’s hair in ponytail, and fastening the forehead ribbon, Lán WàngJī’s heart skipped a beat by how gorgeous Wèi WúXiàn looked on GūsūLán clan uniform.
+However, after he finished tying up his hair in a ponytail and fastening the forehead ribbon, Lán WàngJī’s heart skipped a beat at how gorgeous Wèi WúXiàn looked in the GūsūLán clan uniform.

@@ -32,13 +32,13 @@ Lán WàngJī then gave him another slap. And, this time, Wèi WúXiàn was sure
 
 Then he went on, “How about you recite a few rules to help me remember them?”
 
-Lán WàngJī’s ears turned red as he realised that it was impossible for him to recite the rules while making love to Wèi WúXiàn.
+Lán WàngJī’s ears suddenly turned red; he just realised that he was unable to recite the rules while he was making love to Wèi WúXiàn.
 
 “Try to remember them by yourself,” Lán WàngJī thundered. Then he added, “If you don’t recite the rules, you will be punished.”
 
 Putting his words into action, Lán WàngJī pulled his manhood so as to position the head midway out around the opening of Wèi WúXiàn’s hole and was ready to give the punishment.
 
-Having Lán WàngJī’s huge stuff staying still was more unbearable for Wèi WúXiàn than when he got pounded hard. So, he had no other choice but to try hard to recollect the few rules from yesterday.
+Having Lán WàngJī’s huge stuff not moving inside him was more unbearable for Wèi WúXiàn than when he got pounded hard. So, he had no other choice but to try hard to recollect the few rules from yesterday.
 
 He began, “The Buddhist scriptures teach, ‘You have to be honest and respectful, cautious with your words and deeds, always having a moral conduct.’”
 
@@ -54,7 +54,7 @@ Then, all of a sudden, Lán WàngJī thrust his manhood inside Wèi WúXiàn’s
 
 Lán WàngJī calmly said, “Don’t recite the Buddhist scriptures. Just recite the maxims.”
 
-“Are they both not the GūsūLán rules? I can’t tell which is which,” Wèi WúXiàn argued.
+“Are both of them not parts of the GūsūLán rules? I can’t tell which is which,” Wèi WúXiàn argued.
 
 Lán WàngJī then hit hard on Wèi WúXiàn’s P-spot. “Wèi Yīng, you are not allowed to recite the Buddhist scriptures. You can only recite the maxims. If you don’t, you’re going to be punished again.”
 
@@ -80,33 +80,33 @@ The sound of their lovemaking filled the whole room.
 
 Wèi WúXiàn’s hole tightened around Lán WàngJī’s manhood. He was feeling so good that it seemed to him that his bones were getting weaker.
 
-As a result, it was getting hard for him to keep on supporting his upper body with his elbows, which were resting on the dressing table.
+As a result, it was getting harder for him to keep on supporting his upper body with his elbows, which were resting on the dressing table.
 
-Lán WàngJī was now looking at Wèi WúXiàn with his cheeks turned rosy and his eyes filled with lust. He was completely engulfed in an intense sexual desire, with his mind full of naughty thoughts.
+Lán WàngJī was now looking at Wèi WúXiàn with his cheeks turned rosy and his eyes filled with lust. He was completely immersed in an intense sexual desire, with his mind full of naughty thoughts.
 
-As no more maxims came into his mind, Wèi WúXiàn eventually gave up, “Lán Zhàn, HánGuāng-Jūn, I don’t recall the rest of the maxims. So, please, don’t bump me so hard.”
+As he couldn't remember other maxims, Wèi WúXiàn eventually gave up, “Lán Zhàn, HánGuāng-Jūn, I don’t recall the rest of the maxims. So, please, don’t bump me so hard.”
 
 Lán WàngJī said, “Wèi Yīng, if you don’t carry on reciting the rules, you will receive a punishment.”
 
-Wèi WúXiàn replied, “I accept the punishment... old-fashioned boy. You can punish me.”
+Wèi WúXiàn replied, “I accept the punishment—old-fashioned boy. You can punish me.”
 
 Then, Lán WàngJī said, “Count every thrust until one hundred.”
 
 “Why are you so mean! Aaah! Be gentle,” Wèi WúXiàn protested.
 
-Once more, Lán WàngJī pulled his manhood, and, this time, he pulled the whole thing out and positioned the head on the opening of the hole.
+Once more, Lán WàngJī pulled out his whole hot stuff, and then he placed the head on the opening of the hole.
 
 Without warning, he thrust his hot stuff deeply inside Wèi WúXiàn’s hole. Then, he counted, “One,” and went on, “Count the rest by yourself.”
 
-The sudden thrust almost brought tears to Wèi WúXiàn’s eyes. However, since he had accepted to be punished, he could only comply and began to count, “Two..., thre… four... aaah... five... aargh...”
+The sudden thrust almost brought tears to Wèi WúXiàn’s eyes. However, since he had accepted to be punished, he could only comply and began to count, “Two... three… four... aaah... five... aargh...”
 
 Unlike his first thrust, Lán WàngJī’s back and forth movements were more gentle. However, each time he hit the weak spot, it was enough to cause Wèi WúXiàn’s whole body to quiver.
 
 After each of his thrusts, Lán WàngJī was pausing to allow Wèi WúXiàn to catch his breath and keep on counting.
 
-Some white foam was produced by Lán WàngJī’s back and forth movements. As he carried on, his huge stuff alternately moved the foam in and out of Wèi WúXiàn’s hole.
+Lán WàngJī’s back-and-forth movements produced some white foam. As he kept on thrusting, he made the foam move in and out of Wèi WúXiàn’s hole.
 
-After counting up to eighty times, Wèi WúXiàn could no longer carry on counting. Furthermore, as his strength failed him, his knees slid off the stool, and his upper body collapsed on the dressing table.
+After counting up to eighty, Wèi WúXiàn could no longer carry on counting. Furthermore, as his strength failed him, his knees slid off the stool, and his upper body collapsed on the dressing table.
 
 Lán WàngJī then stopped moving, and, in a gentle voice, he said, “Wèi Yīng, raise your head, and let me see your face in the mirror.”
 
@@ -122,7 +122,7 @@ Lán WàngJī then coaxed him, “Wèi Yīng, it’s only twenty thrusts to go; 
 
 A brief memory of both of them kneeling in front of the ancestral hall and receiving a punishment crossed Wèi WúXiàn’s mind.
 
-Somehow, this flashback appeared to him as their first worship*, that they had already formed ties back then.
+Somehow, this flashback appeared to him as their first worship*, and that they had already formed ties back then.
 
 <small>*In a traditional Chinese wedding ceremony, newlyweds kowtow three times: to the heavens and earth, to their parents and to each other.</small>
 
@@ -202,7 +202,7 @@ As he kissed him, Wèi WúXiàn felt Lán WàngJī’s warm breath caressing his
 
 Lán WàngJī then said, “Wèi Yīng, it’s you who said that I can do whatever I want.”
 
-“Lán Zhàn truly loves me,” thought Wèi WúXiàn, “And he looks so happy.”
+“Lán Zhàn truly loves me,” thought Wèi WúXiàn. “And he looks so happy.”
 
 Wèi WúXiàn could not help but spread out his trembling legs a bit more. As he did so, the liquid produced inside his hole slid down between his buttocks.
 
