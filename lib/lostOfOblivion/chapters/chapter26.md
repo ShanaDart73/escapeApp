@@ -8,7 +8,7 @@
 
 He then added, “However, the inconvenience of wearing a forehead ribbon is that it easily gets crooked.”
 
-“You don’t have to,” Lán WàngJī said, “If it is awkward for you, then, don’t wear it.”
+“You don’t have to,” Lán WàngJī said. “If it is awkward for you, then don’t wear it.”
 
 Then, he reassured him, “Wèi Yīng, with me by your side, just act like you always do. You don’t need to discipline yourself to behave differently.”
 
@@ -18,7 +18,7 @@ Lán WàngJī was washing Wèi WúXiàn, and, when he was done, he carried him t
 
 After putting Wèi WúXiàn under the duvet, Lán WàngJī kissed his forehead, then left the room to go and find his brother and the doctor.
 
-Since, today, he had slept a lot, Wèi WúXiàn woke up soon after. And, while quietly complaining about Lán WàngJī not behaving like an upright member of GūsūLán earlier, Wèi WúXiàn was making his exploration of the room.
+Since he had slept a lot today, Wèi Xiàn woke up soon after. And, while quietly complaining about Lán WàngJī not behaving like an upright member of GūsūLán earlier, Wèi WúXiàn was making his exploration of the room.
 
 He aimlessly inspected every corner of Jingshi and rummaged through all the furniture of the room until he found a small hidden trapdoor on the floor; the inside was the size of a large drawer.
 
@@ -56,7 +56,7 @@ The love bites were from the neck down to the belly button and seemed to form a 
 
 In that painting, Wèi WúXiàn appeared to sleep soundly, with the forehead ribbon wrapped around his wrists.
 
-The painting seemed to have being painted in the morning, showing where Lán WàngJī was sleeping.
+The painting seemed to have been painted in the morning, showing where Lán WàngJī was sleeping.
 
 Being moved by the splendid view of his sleeping Wèi Yīng, Lán WàngJī could not resist capturing that moment in a painting.
 
@@ -84,7 +84,7 @@ This display of love almost swept away Wèi WúXiàn’s irritation. He then qui
 
 Then, unable to wait any longer, he quickly walked towards Lán WàngJī and began frenetically to untie Lán WàngJī’s waist belt.
 
-As he did so, Wèi WúXiàn asked, “Are you planning on making love to me with your clothes on, for the rest of our lives, if I don’t regain my memories?”
+As he did so, Wèi WúXiàn asked, “Are you planning on making love to me with your clothes on for the rest of our lives if I don’t regain my memories?”
 
 Lán WàngJī let Wèi WúXiàn remove the waist belt. Then, he held Wèi WúXiàn’s hands, tenderly patted them, and then, he began to take off his clothes himself.
 
@@ -120,7 +120,7 @@ He then asked again, “Was it extremely painful?”
 
 In a low voice, Lán WàngJī replied, “Yes, it was extremely painful.”
 
-“Oh,” uttered Wèi WúXiàn, then he gently fondled the rounded scar on Lán WàngJī’s chest, and then, he said, “Let me see your back.”
+“Oh,” uttered Wèi WúXiàn, and then he gently fondled the rounded scar on Lán WàngJī’s chest, and then he said, “Let me see your back.”
 
 Lán WàngJī turned around slowly. His whole back was covered with the criss-cross scars, which were spread across his shoulders and the back of his arms.
 
@@ -154,7 +154,7 @@ Then, since Wèi WúXiàn didn’t reply, he called him again.
 
 Lán WàngJī said, “Wèi Yīng, do you remember what you said back then when we were in Xuanwu Cave*: ‘It’s not a big deal for a man to have injuries that leave scars.’”
 
-<small>*Under the domination of Wēn sect, Lán WàngJī and Wèi WúXiàn found themselves trapped in that cave.</small>
+<small>*Under the domination of the Wēn sect, Lán WàngJī and Wèi WúXiàn found themselves trapped in that cave.</small>
 
 Sceptical, Wèi WúXiàn asked. “Did I say that?”
 

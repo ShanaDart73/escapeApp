@@ -1,6 +1,6 @@
 <br />
 
-Amazed by the foetal activity, Wèi WúXiàn exclaimed, “He kicked me!”
+As he felt the unborn baby stir, Wèi WúXiàn exclaimed in amazement, “He kicked me!”
 
 “Just like I said before, he is moving,” Mián-Mián proudly said.
 
@@ -16,7 +16,7 @@ Mián-Mián was not yet convinced; she said, “Uncle Wèi, I don’t think that
 
 “I just want to know,” said Wèi WúXiàn, “why are you calling me ‘uncle’?
 
-“Right now, I am lacking twenty years of memories, which are equivalent to twenty years ago, which, in turn, means I am twenty years younger.
+“Right now, I lack twenty years of memories, which are equivalent to the past twenty years, which, in turn, means I am twenty years younger.
 
 “So, for now, call me ‘Gēge'* until I recover my memories; then, at that time, you can call me ‘uncle’.”
 

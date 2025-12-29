@@ -12,7 +12,7 @@ Jīn Líng had never heard Wèi WúXiàn talking to Jiāng Chéng in such a teas
 
 Jiāng Chéng was also surprised. Then, he remembered what Lán WàngJī said earlier: ‘He will only recall the recent events.’
 
-He had remembered something, but not everything, at least for the time being. Therefore, his attitude was still friendly.
+He had remembered a few things, but not everything, for now. Therefore, his attitude was still friendly.
 
 This friendliness, however, would last only for one day. After today, it wouldn’t happen again.
 
@@ -24,7 +24,7 @@ Jīn Líng replied, “It’s strange. You’re not looking like yourself. You h
 
 At first glance, Jiāng Chéng failed to notice it, because GūsūLán clothes on Wèi WúXiàn were really eye-catching.
 
-Only then, after Jīn Líng’s remark, did he realise that Wèi WúXiàn’s appearance had become more like his former one.
+Only after Jīn Líng’s remark did he realise that Wèi WúXiàn’s appearance had become more like his former one.
 
 Also, it turned out to be the face that was engraved deeply in Jiāng Chéng’s memory.
 
@@ -32,7 +32,7 @@ Jiāng Chéng then thought, “No wonder Jīn Líng thinks that it’s strange. 
 
 At that moment, Lán WàngJī came out of the room and joined them at the table. He brought along an exquisite tea set and began to pour the tea into the cups for everyone while keeping an elegant posture.
 
-It was the white peony tea, which was always abundant in Jīnlíntái and was Jīn Líng’s favourite tea.
+It was white peony tea, Líng’s favourite, that was abundant in Jīnlíntái.
 
 Jiāng Chéng thought, “He has chosen this tea only for Jīn Líng’s sake.” Then, he tried hard to suppress the disappointing feeling in him.
 
@@ -46,7 +46,7 @@ Wèi WúXiàn replied, “Of course, I have.”
 
 Then, to show that he had a Golden Core, Wèi WúXiàn began to produce a red spiritual light that gathered in the palm of his hand. Once completed, it looked like a red ball set on fire and undulated like a flame.
 
-Jiāng Chéng and Jīn Líng noticed that, for someone who newly formed a Golden Core, Wèi WúXiàn had a strong spiritual power and a solid foundation.
+Jiāng Chéng and Jīn Líng noticed that, for someone who had newly formed a Golden Core, Wèi WúXiàn had a strong spiritual power and a solid foundation.
 
 However, Jīn Líng said, “Your spiritual power is feeble, not really impressive.”
 
@@ -64,7 +64,7 @@ He only saw the memories that Lán WàngJī let him see in the incense burner.
 
 Before diving into the realm of his unconscious mind to gather the fragments of his memories, Wèi WúXiàn planned on entering the dream once again tonight.
 
-Last night, he only saw the good memories. Tonight, he had to work hard to recall the bad memories, too.
+Last night, he only saw the good memories. Tonight, he had to work hard to recall the unpleasant memories, too.
 
 So, Jiāng Chéng’s assumption was incorrect, because Wèi WúXiàn didn’t remember all the events that happened after he came back.
 
@@ -78,7 +78,7 @@ Wèi WúXiàn smiled and said, “Thank you so much, Young Leader Jīn, for your
 
 Here we go again with his teasing way of talking and friendly attitude.
 
-Jiāng Chéng could not tell how he felt for being treated so kindly by Wèi WúXiàn. He didn’t allow himself to be a person who liked to reminisce about the old days.
+Jiāng Chéng could not tell how he felt about being treated so kindly by Wèi WúXiàn. He didn’t allow himself to be a person who liked to reminisce about the old days.
 
 Wèi WúXiàn then carried on showing Jīn Líng how he could control the flow of his spiritual power.
 
@@ -100,7 +100,7 @@ Then, from his sleeve, he took out a purple box, placed it on the table, and, in
 
 “Jiāng Chéng, you’re too kind,” said Wèi WúXiàn, and then, with a smile, he took the box and opened it.
 
-The gift was a pair of magnificent pendants with a lotus design on them. Each pendant had a tassel attached to the end, and the two tassels had different colours, a purple and a blue.
+The gift was a pair of magnificent pendants with a lotus design on them. Each pendant had a tassel attached to it. The two tassels were different in colour, one purple and the other blue.
 
 As a matter of fact, Jiāng Chéng’s gift was more suitable for the wedding, to congratulate the couple for getting married.
 
@@ -120,7 +120,7 @@ Wèi WúXiàn said inwardly, “Jiāng Chéng is really thoughtful for choosing 
 
 Then, he took out the pendant with the blue tassel from the box, and, wanting to see how it would look on Lán WàngJī, he placed the pendant against Lán WàngJī’s waist while he was still holding it, and, without even realising it, he leaned on Lán WàngJī.
 
-Wèi WúXiàn’s natural behaviour caused Jiāng Chéng to shiver. The latter then coughed to clear his voice, “Be more discreet. Don’t just throw yourself into his arms with that face of yours.”
+Wèi WúXiàn’s natural behaviour caused Jiāng Chéng to shiver. The latter then coughed to clear his voice. “Be more discreet. Don’t just throw yourself into his arms with that face of yours.”
 
 “What’s wrong with my face?” asked Wèi WúXiàn.
 

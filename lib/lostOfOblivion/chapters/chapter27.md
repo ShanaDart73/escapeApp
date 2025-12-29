@@ -2,11 +2,11 @@
 
 Like in quiet meditation, Lán WàngJī and Wèi WúXiàn hugged each other in complete silence.
 
-Wèi WúXiàn wandered his fingers on Lán WàngJī’s bare skin continuously. As he did so, he felt the body temperature of Lán WàngJī entering his own body through his fingers and making his heart fill with joy.
+Wèi WúXiàn ran his fingers on Lán WàngJī’s bare skin. As he did so, he felt the body temperature of Lán WàngJī entering his body through his fingers and making his heart fill with joy.
 
 He suddenly gained self-confidence and said, “Earlier, while I was waiting for you, I was also thinking of a way that will help me regain my memories.
 
-“Since I have now a Golden Core, and if I can remember some fragment of my lost memories, I can use that fragment as an anchor to penetrate into the realm of my unconscious mind.
+“Now that I have a Golden Core, in addition to remembering some fragments of my lost memories, I'll be able to use those fragments as an anchor to penetrate into my unconscious mind.
 
 “Once I enter, with the support of my Golden Core, I will be able to gather other fragments of my memories, which reside in the unconscious mind.
 
@@ -14,11 +14,11 @@ He suddenly gained self-confidence and said, “Earlier, while I was waiting for
 
 “Have you thought it through?” Lán WàngJī asked.
 
-“To be honest, I haven’t completely thought it over,” Wèi WúXiàn replied, “And I still need to prepare myself first. Nonetheless, I have to face what had happened in the past.”
+“To be honest, I haven’t completely thought it over,” Wèi WúXiàn replied. “And I still need to prepare myself first. Nonetheless, I have to face what had happened in the past.”
 
 He went on after a short pause, “This morning, you helped me again strengthen my Golden Core via the dual cultivation. I have now begun to feel the result.
 
-“For instance, about your scars, although I didn’t recall anything, I was able to sense something. Still, it will take long for my Golden Core to become more powerful.
+“About your scars, for instance, although I didn’t recall anything, I was able to sense something. Still, it will take long for my Golden Core to become more powerful.
 
 “So, rather than waiting for my memories to return suddenly, or maybe they will return only partially, I prefer to use a method that will help me to recover them gradually.”
 
@@ -32,7 +32,7 @@ Lán WàngJī then slowly slid his hands from Wèi WúXiàn’s back down to his
 
 And, at the same time, he asked innocently, “Which technique are you talking about?”
 
-“Argh...” Wèi WúXiàn could not help but let out a long moan, which was caused by the sudden sensation felt around his waist.
+“Argh...” Wèi WúXiàn could not help but let out a long moan; he felt a sudden sensation around his waist.
 
 Then, he began to struggle in an attempt to set himself free from Lán WàngJī’s arms. However, in spite of his effort, he was unable to succeed, because Lán WàngJī held him tight and didn’t want to let him go.
 
@@ -46,11 +46,11 @@ Wèi WúXiàn’s anxiety over the past events finally settled down by Lán Wàn
 
 He could not remember how gruesome and painful their past was. However, he knew that sooner or later he had to face it.
 
-Besides, the past events were a fait accompli. Whether he recalled them or not, they had already occurred, and there was nothing he could do to reverse or modify the outcome.
+Furthermore, the past events were a fait accompli. Whether he recalled them or not, they had already occurred, and there was nothing he could do to reverse or modify the outcome.
 
 However, now that Lán WàngJī was by his side, holding him tight, and kissing him with passion, Wèi WúXiàn could tell that the present time was more cheerful.
 
-After a long kiss, Lán WàngJī finally let go of his mouth, then brought his own lips close to Wèi WúXiàn’s ear. He said, “I want you to come with me to see someone.”
+After a long kiss, Lán WàngJī finally let go of his mouth, then brought his lips close to Wèi WúXiàn’s ear. He said, “I want you to come with me to see someone.”
 
 Then, he took Wèi WúXiàn’s hand and led him out of Jingshi.
 

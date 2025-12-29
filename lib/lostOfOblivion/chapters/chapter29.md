@@ -10,13 +10,13 @@ Jiāng Chéng gave him a slap in the back of the head and said, “Stop talking 
 
 Jīn Líng angrily said, “Don’t hit me in the head.”
 
-There were rumours that were spreading all over Yúnmèng, and it was not conceivable that only a few villagers had given rise to such rumours.
+Rumours about Wèi WúXiàn were spreading throughout the Yúnmèng territory, and it was inconceivable that such rumours could have arisen from only a few villagers.
 
-Jiāng Chéng had assigned his people to trace the source of the rumours. However, every clue they had led nowhere.
+Jiāng Chéng had assigned his people to trace the source of those rumours, but every clue they uncovered led nowhere.
 
 Jiāng Chéng and Jīn Líng were on their way to Yúnshēn Bùzhīchù to see Wèi WúXiàn.
 
-And, for the last two days, Jiāng Chéng didn’t pay any visit to Wèi WúXiàn and was still unwilling to be alone with Lán WàngJī due to their last embarrassing conversation.
+For the last two days, Jiāng Chéng didn’t pay any visit to Wèi WúXiàn and was still unwilling to be alone with Lán WàngJī due to their last embarrassing conversation.
 
 So, he set off on the third day, the last day for the Golden Core to be reconstructed, since he didn’t have other options than to go there in person.
 
@@ -24,7 +24,7 @@ However, on their arrival, they learned that Lán XīChén was not around, and n
 
 Since Jīn Líng had frequently come around, he was familiar with their surroundings and led the way to Jingshi.
 
-Jīn Líng’s words ‘he almost died’ echoed again in Jiāng Chéng’s head, and he seemed to be shaken. However, before he could deeply think about it, they had already reached the gate of Jingshi's front garden.
+Jīn Líng’s words, ‘He almost died,’ echoed again in Jiāng Chéng’s head, and he seemed to be shaken. However, before he could deeply think about it, they had already reached the gate of Jingshi's front garden.
 
 From where they were standing, they could hear some faint sound of guqin coming from the backyard, which indicated that someone was at home.
 
@@ -34,7 +34,7 @@ One petal landed on Jīn Líng’s head, and his uncle, who was still shaken by 
 
 Jīn Líng, unaware of the petal on his head, glared at his uncle. “What is wrong with you this time?”
 
-Jiāng Chéng also glared at him. “Little brat, what did you mean earlier by ‘If he had died’?”
+Jiāng Chéng also glared at him. “Little brat, what did you mean by saying, ‘If he had died’?”
 
 Then, he thought, “What if Wèi WúXiàn wouldn’t come back again, if he had died...”
 
@@ -46,7 +46,7 @@ He wanted him to come back to explain himself, to kneel down and admit his mista
 
 Jiāng Chéng stared at their door, and, irritably, he carried on thinking, “He lost his Golden Core in Yúnmèng territory.
 
-“If it is completely shattered and cannot be repaired, then the one to be blamed for the loss will be me?
+“If it had shattered completely and could not be repaired, would I be the one to blame for the loss?
 
 “Why does every time he loses his Golden Core have something to do with me? Why?”
 
@@ -60,13 +60,13 @@ And when the guqin sound stopped, and then the backyard door began to open, Jiā
 
 However, before he could complete his action, Jīn Líng grabbed his sleeve.
 
-Lán WàngJī opened the backyard door and was slightly surprised to see Jiāng Chéng. However, since Jīn Líng was there, too, he didn’t say anything. He gave a greeting nod, moved aside and invited them to come in.
+Lán WàngJī opened the backyard door and was slightly surprised to see Jiāng Chéng. However, since Jīn Líng was there, too, he didn’t say anything. He nodded in greeting, then moved aside and invited them to come in.
 
-Noticing that there were stone benches with a stone table under the magnolia tree, Jiāng Chéng walked straight there.
+As he noticed a table and benches made of stone under the magnolia tree, Jiāng Chéng walked straight there.
 
-Seeing Jiāng Chéng heading towards the magnolia tree, Lán WàngJī heaved a sigh of relief, since it removed the need of letting them enter the room.
+As he saw Jiāng Chéng heading to the magnolia tree, Lán WàngJī heaved a sigh of relief; in that case, there was no need to invite them inside the room.
 
-He also walked there and invited them to sit down. Then, without waiting for them to speak first, Lán WàngJī said, “Wèi Yīng has formed a Golden Core once more.”
+He followed them and signed to them to sit down. Without waiting for them to ask, Lán WàngJī said, “Wèi Yīng has formed a Golden Core.”
 
 “Really?!” That one sentence dispelled Jiāng Chéng’s worries at once. And Jīn Líng nearly jumped up from his seat.
 
@@ -78,15 +78,15 @@ Lán WàngJī calmly replied, “Wèi Yīng formed the Golden Core the first nig
 
 Jiāng Chéng got a little bit upset, because he could tell that Lán WàngJī knew that they were worried about Wèi WúXiàn; that was why he spoke first.
 
-So, since he knew that they would be worried, why didn’t he send them a message as soon as possible?
+Since he knew that they would be worried, why didn’t he send them a message as soon as possible?
 
 For the past two days, did Lán WàngJī have any idea of how much time he had spent thinking about that matter?
 
-He was absolutely not worried about Wèi WúXiàn, absolutely not. He had no desire to have something to do with Wèi WúXiàn’s loss of Golden Core again.
+He wasn't worried about Wèi WúXiàn, absolutely not. He had no desire to have something to do with Wèi WúXiàn’s loss of the Golden Core again.
 
 However, since he was unwilling to meet Lán WàngJī for the past two days, Lán WàngJī was not in a position to inform him of the progress.
 
-After all, they didn’t have that kind of relation where they needed to get in touch with each other.
+After all, they didn’t have that kind of relationship where they needed to get in touch with each other.
 
 Jiāng Chéng then glanced at Lán WàngJī, and, suddenly, it crossed his mind, “If the Golden Core had been restored that night, wouldn’t it mean that...”
 
@@ -116,7 +116,7 @@ Since he could not bear to let Wèi WúXiàn remember in one go all the tragic e
 
 Last night, they entered the first part of the dream, and Lán WàngJī only let Wèi WúXiàn see the memories that both shared after he came back.
 
-Tonight, when they would enter the second part, he would go with him to Nightless Sky City.
+Tonight, when they entered the second part of their dual cultivation, he would go with him to Nightless Sky City.
 
 Jiāng Chéng then asked, “How can you be so precise on when and how many memories he can recall?”
 
@@ -128,9 +128,9 @@ Jīn Líng was deeply saddened by the news of Wèi WúXiàn regaining his memori
 
 Jiāng Chéng then remembered how Wèi WúXiàn had put his arm around his shoulder and given him a gentle punch on the stomach the day he woke up from a coma.
 
-His friendly habits back when they were teenagers and his warm conviviality were all in that punch.
+His friendly habits and warm conviviality back when they were teenagers were all in that punch.
 
-When he would regain his memories, that would not happen again. From time to time, the two of them could only have meals together, mostly because Jīn Líng was around, nothing more.
+When he regained his memories, that would not happen again. From time to time, the two of them could only have meals together, mostly because Jīn Líng was around, nothing more.
 
 Jiāng Chéng didn’t want to admit that it saddened him for no longer having that kind of friendship with Wèi WúXiàn. He just sat there quietly.
 
@@ -140,7 +140,7 @@ Jīn Líng asked, “Is he sleeping?”
 
 In the last night dream, when he guided Wèi WúXiàn to relive the past events, the scenery kept on changing the whole night.
 
-Also, Wèi WúXiàn had collected at once all the fragments of his memories since he came back, so he needed a good rest.
+Also, Wèi WúXiàn had collected at once all the fragments of his memories since he came back, so he needed to get some rest.
 
 To help Wèi WúXiàn sleep, Lán WàngJī burned incense while playing the guqin.
 
@@ -154,7 +154,7 @@ He stood up immediately and said, “I will be back in a minute.” Then, he qui
 
 Jīn Líng then asked his uncle, “Do you think that he will remember everything?”
 
-Jiāng Chéng recalled the rumours that were rampant in Yúnmèng territory, and, in a gloomy tone, he replied, “Even though he won’t remember everything, other people will help him recall them.”
+Thinking about the rumours that kept circulating in the Yúnmèng territory, Jiāng Chéng replied in a gloomy tone, “Even though he doesn't remember everything, others will 'help' him recall it.”
 
 Jīn Líng felt depressed and said, “Couldn’t it be the same as before?”
 
