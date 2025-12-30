@@ -10,7 +10,7 @@ While trying to remove Lán WàngJī’s top clothes, Wèi WúXiàn asked, “Wh
 
 The revelation of another gift seemed to surprise Wèi WúXiàn a little bit. And, every time Lán WàngJī wanted to give him a present, he would try hard to behave. So, he tidied up Lán WàngJī’s clothes.
 
-He then asked, “Why are you holding me in such an ambiguous way when you are not in a hurry to take me to the bed?"
+He then asked, "Why are you holding me in such an ambiguous way when you are not in a hurry to take me to the bed?"
 
 “Am I not allowed to carry you like this?” retorted Lán WàngJī.
 
@@ -22,7 +22,7 @@ Lán WàngJī replied to his unspoken question, “It’s up to you to choose a 
 
 Puzzled, Wèi WúXiàn opened the volume and began to turn the pages. As he kept on skimming through the volume, Wèi WúXiàn became more and more astonished; it was a collection of his own manuscripts on demonic power methods.
 
-“Lán Zhàn, this is—” Overly dumbfounded, Wèi WúXiàn was not able to finish his sentence. He had never been diligent in writing a book. He always scribbled his work randomly.
+“Lán Zhàn, this is—” Wèi WúXiàn was dumbfounded that he couldn't finish his sentence. He had never been diligent in writing a book. He always scribbled his work randomly.
 
 However, unknown to him, Lán WàngJī had progressively gathered his random scribbles into a compilation.
 
@@ -32,7 +32,7 @@ However, unknown to him, Lán WàngJī had progressively gathered his random scr
 
 “What?!” Wèi WúXiàn cried out and almost jumped up, as if he was struck by lightning.
 
-It was a great honour to have a teaching position in the GūsūLán clan. And the most incredible thing was that they allowed him to teach the demonic power methods!
+It was an honour to have been given a teaching position in the GūsūLán sect. And the most incredible thing was that they allowed him to teach the demonic power methods!
 
 “How could they agree on this?” asked Wèi WúXiàn, while thinking that this matter was very delicate for a respectable sect like GūsūLán and could not possibly be settled that easily.
 
@@ -44,11 +44,11 @@ Still holding the volume, Wèi WúXiàn was speechless, and his hands were sligh
 
 “So, in other words,” thought Wèi WúXiàn, “when we started the dual cultivation, Lán Zhàn was sure that I would form a new Golden Core and began to debate the teaching position with his uncle and the elders.
 
-“Then, I lost my memories; he sent an invitation letter to Mián-Mián to come to Yúnshēn Bùzhīchù along with her husband and daughter.
+“Then, when I lost my memories, he sent an invitation letter to Mián-Mián to come to Yúnshēn Bùzhīchù along with her husband and daughter.
 
 “Lán Zhàn went all out to do all this for my sake.”
 
-In a lovely and tender tone, Lán WàngJī said, “Wèi Yīng, you are the founder of the demonic power. Therefore, you are the most suitable person to teach others how to use this power.”
+In a lovely and tender tone, Lán WàngJī said, “Wèi Yīng, you are the originator of the demonic power. Therefore, you are the most suitable person to teach others how to use this power.”
 
 Then, he sincerely added, “Wèi Yīng, you have a lot of talent; there’s no need to hide it.”
 
@@ -58,11 +58,11 @@ He then tried to picture Lán WàngJī putting forward arguments in front of the
 
 Lán WàngJī looked at him and noticed that he was miles away. To get his attention, he gently kissed Wèi WúXiàn on the forehead, then he asked, “Wèi Yīng, are you happy to take this teaching position?”
 
-Wèi WúXiàn suddenly wrapped his arms around Lán WàngJī’s shoulders, buried his face on Lán WàngJī’s neck, then let out a muffled “uh-huh” sound multiple times.
+Wèi WúXiàn suddenly wrapped his arms around Lán WàngJī’s shoulders, buried his face in Lán WàngJī’s neck, and then let out a muffled “uh-huh” sound multiple times.
 
 Lán WàngJī chuckled and said, “It’s settled, then.”
 
-Wèi WúXiàn then put the volume that he was holding back into the brocade box, and then, he slowly closed the box as though he was daydreaming.
+Wèi WúXiàn then put the volume back into the brocade box, and then, he slowly closed the box as though he was daydreaming.
 
 Suddenly, he felt uneasy and asked, “What if I ruin GūsūLán’s reputation by teaching demonic power methods? What if other sects decide not to send their people to attend courses here at Yúnshēn Bùzhīchù because of that?”
 
@@ -70,7 +70,7 @@ Lán WàngJī reassured him, “You will not ruin the reputation of GūsūLán, 
 
 “How can you be so sure?” Wèi WúXiàn asked.
 
-Proudly and confidently, Lán WàngJī replied, “Because it’s you, and no one else. You have a talent that is unparalleled. You are so brilliant that you are far ahead of others.”
+Proudly and confidently, Lán WàngJī replied, “Because it’s you, and no one else. Your talent is unparalleled. You are so brilliant that you are far ahead of others.”
 
 He went on, “They all admire you and are all envious of your talent. They want to catch up with you. Therefore, they will definitely come to learn your methods.”
 
@@ -110,7 +110,7 @@ Then, he added, “He is too young to attend my class. What if he starts to cry 
 
 The following sects to arrive were all affiliated with YúnmèngJiāng. Soon after, the hesitant ones rushed in like a tsunami after seeing that many sects had already enrolled their young disciples.
 
-Among all those cultivators, who once wanted him dead while still using the devices that he had made, who didn’t know that Yílíng Lǎozǔ possessed a great talent. They were all eager not to miss out on learning Yílíng Lǎozǔ’s extraordinary skills.
+Among all those cultivators, who once wanted him dead while still using the devices that he had made, who didn’t know that Yílíng Lǎozǔ possessed an outstanding talent? They were all eager not to miss out on learning Yílíng Lǎozǔ’s extraordinary skills.
 
 Yú XiǎoShān was the only one from the MéishānYú sect to come to Yúnshēn Bùzhīchù. As the heir of his sect, strangely, he didn’t have any underlings and seemed like he had run away from home.
 

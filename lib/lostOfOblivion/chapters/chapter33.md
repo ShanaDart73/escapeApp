@@ -6,7 +6,7 @@
 
 Lán XīChén smiled, then went on, “I’m not saying this as the elder brother, but as the head of the GūsūLán sect.”
 
-Wèi WúXiàn was extremely moved; he stood up, adjusted his robes, and solemnly bowed, with his left hand turned into a fist while the right hand rested flat against the fist, and both his arms, halfway, stretched forward. Earnestly, he said, “Yes, Zōng-zhǔ*.”
+Wèi WúXiàn was extremely moved; he stood up, adjusted his robes, and solemnly bowed, with his left hand turned into a fist while the right hand rested flat against the fist, and both his arms were halfway stretched forward. Earnestly, he said, “Yes, Zōng-zhǔ*.”
 
 <small>*Zōng-zhǔ means the head of a sect.</small>
 
@@ -16,7 +16,7 @@ Lán XīChén stood up, held Wèi WúXiàn’s arms, and made him stand upright.
 
 “You have a great talent; there’s no need to hide it. And, for this occasion, WàngJī has a surprise for you.”
 
-Wèi WúXiàn didn’t quite understand the reason why Lán XīChén wanted him to make money by selling talismans, but still he agreed, “Okay.” Then, curious, he asked, “What kind of surprise does Lán Zhàn have for me?”
+Wèi WúXiàn didn’t understand why Lán XīChén wanted him to make money by selling talismans, but still he agreed to do so. Then, curious, he asked, “What kind of surprise does Lán Zhàn have for me?”
 
 “I can’t tell you what it is; otherwise, that would spoil the surprise,” replied Lán XīChén. “In a few days, WàngJī will reveal it to you.”
 

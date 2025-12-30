@@ -1,18 +1,18 @@
 <br />
 
-While tossing up some peanuts one by one, which landed into his mouth, and having a smile on in his face, Wèi WúXiàn said, “So, in other words, it was you who spread those nonsense rumours about me.”
+While tossing up some peanuts one by one, which landed into his mouth, and having a smile on his face, Wèi WúXiàn said, “So, in other words, it was you who spread those nonsense rumours about me.”
 
 Jīn Líng’s face turned red with embarrassment.
 
 This was the first time he earnestly admitted his mistake towards Wèi WúXiàn and was remorseful for what he had done.
 
-However, Jīn Líng didn’t expect Wèi WúXiàn to have an easygoing attitude on the matter; he reacted as if the rumours were not about him.
+However, Jīn Líng didn’t expect Wèi WúXiàn to have such an easygoing attitude about the matter; his reaction was as if those rumours were not about him.
 
 “I didn’t mean it,” said Jīn Líng.
 
 “I know that already,” kindly said Wèi WúXiàn.
 
-For fun, Jīn Líng made up stories about Yílíng Lǎozǔ, and most of them were easy to see that they were fake. So, Jīn Líng was certain that none would take them seriously.
+For fun, Jīn Líng made up stories about Yílíng Lǎozǔ. Most of the stories were easy to see that they were fake. So, Jīn Líng was certain that no one would take them seriously.
 
 One of his made-up stories was saying that Yílíng Lǎozǔ used his demonic power to transform his body and give birth to HánGuāng-Jūn’s son.
 
@@ -22,21 +22,21 @@ So, from his made-up story were born the rumours, such as that, in order to tran
 
 None of those people cared to check if Yílíng Lǎozǔ really gave birth to a son who would usurp the position of the head of the sect.
 
-Since he had survived and crawled out of the burial mound and become the master of the demonic power, therefore, he could also change into a woman and give HánGuāng-Jūn a bunch of children.
+Since he had survived in the burial mound and crawled out of it, then become the master of the demonic power, therefore, he could also change into a woman and give HánGuāng-Jūn a bunch of children.
 
-Jīn Líng asked, “Why is it that as long as you are involved, no matter how implausible the rumour is, people will believe it?”
+Jīn Líng asked, “Why is it that people believe rumours about you, no matter how implausible they sound?”
 
 Wèi WúXiàn thought for a moment, then replied, “That’s because in their eyes I’m not a living person.”
 
 Perplexed, Jīn Líng asked, “What do you mean by that?”
 
-Wèi WúXiàn put both hands on the back of his head and lay on the grass with his legs crossed.
+Wèi WúXiàn put both hands on the back of his head, lay on the grass and crossed his legs.
 
 The sunlight was showering on him, making his face glow in a way that seemed illusory.
 
-He slowly replied, “I am a symbol. A symbol of a devil. They don’t care about how I look or what I have achieved. However, they can’t live without using me as a topic of their gossip.
+He slowly replied, “I am a symbol to them; the symbol of a devil. They don’t care about how I look or what I have achieved. However, they can’t live without using me as a topic of their gossip.
 
-“After their tattles, they go back to their business, and none of them cares about me as a person.”
+“After tattling on me, they go back to their own business, and none of them truly cares about me as a person.”
 
 For those people, gossiping about Yílíng Lǎozǔ was part of their entertainment and recreation.
 
@@ -44,13 +44,13 @@ After satisfying their curiosity, dissipating their boredom, venting their disap
 
 “What should we do, then?” asked Jīn Líng.
 
-“There’s nothing we can do about it,” replied Wèi WúXiàn. “As I am a symbol in their eyes, are they not also a symbol in my eyes?
+“There’s nothing we can do about it,” replied Wèi WúXiàn. “Since I am a symbol in their eyes, so are they also a symbol in mine.
 
 “Those people have nothing to do with me, and neither do I with them. Therefore, there’s no need to care about it.”
 
 Wèi WúXiàn went on, “A-ling, sometimes if you don’t respond, it is also a response. Do you remember the case of the MòlíngSū clan?”
 
-“Yes, I do,” replied Jīn Líng. “Last month, the MòlíngSū clan accused GūsūLán of condoning your evil deeds. And also, there were rumours saying that GūsūLán had taken the MòlíngSū’s Night Hunting territory.”
+“Yes, I do,” replied Jīn Líng. “Last month, the MòlíngSū clan accused GūsūLán of condoning your evil deeds. There were also rumours saying that the GūsūLán sect took the MòlíngSū sect Night Hunting territory.”
 
 “And how did GūsūLán respond?” Wèi WúXiàn asked.
 
@@ -58,23 +58,23 @@ Jīn Líng thought for a moment, then replied, “GūsūLán paid no heed to the
 
 “That’s right,” said Wèi WúXiàn. “If GūsūLán had responded to them, I’m afraid that there would be endless back-and-forth arguments between GūsūLán and the MòlíngSū clan.”
 
-In a dispute between a larger clan and a smaller one, no matter what the outcome would be, people would regard the GūsūLán and MòlíngSū clans as equal, which would lower GūsūLán’s status while raising the status of the MòlíngSū clan.
+In a dispute between a larger sect and a smaller one, no matter what the outcome would be, people would regard the GūsūLán and MòlíngSū sects as equal, which would lower the GūsūLán sect's status while raising the status of the MòlíngSū sect.
 
 Furthermore, no matter how you would deal with it, you would be accused of bullying the weak clan.
 
-Wèi WúXiàn resumed, “So, it’s better to ignore them and let those rumours fade away.
+Wèi WúXiàn resumed, “So, it’s better to ignore them. Eventually, those rumours will fade away.
 
-“Those who gather and enjoy watching the show will be disappointed if there is no show to watch and will soon get bored, and, eventually, they will start to disperse.
+“Those who gather to enjoy watching the show will be disappointed when they find out that there is none. They will soon get bored and, eventually, will start to disperse.
 
-“As for the rumours of the MòlíngSū’s Night Hunting territory, GūsūLán doesn’t need to seize it, and, in fact, everyone knows it.”
+“As for the rumours of the MòlíngSū sect’s Night Hunting territory, everyone knows that the GūsūLán sect doesn’t need to take it.”
 
-Jīn Líng then wondered, “Why don’t the rumours about GūsūLán go out of control? Last month, people were gossiping about GūsūLán. But now, they’re no longer talking about it.”
+Jīn Líng then wondered, “Why don't the rumours about the GūsūLán sect escalate? Last month, people were gossiping about GūsūLán. But now, they’re no longer talking about it.”
 
 “It’s probably because they still need GūsūLán to get rid of evil spirits and demons. Unlike me, who is a little bit inactive,” said Wèi WúXiàn.
 
 “Besides,” he went on while smiling to himself, “for more than twenty years, I have gained notoriety for being a dreadful opponent, and it’s almost impossible to change it in people’s minds.”
 
-“It saddens you that you can’t change the way people see you?” Jīn Líng asked, then realised that it was a stupid question. With Wèi WúXiàn’s personality, he would certainly reply, “I don’t care.”
+“Does it sadden you that you can’t change the way people see you?” Jīn Líng asked. Then he realised how foolish his question was. With Wèi WúXiàn’s personality, he would certainly reply, “I don’t care.”
 
 However, Wèi WúXiàn said, “What makes me sad is the fact that Lán Zhàn is also dragged into this mess.”  He looked a little bit down after saying that.
 
@@ -88,7 +88,7 @@ In those stories, they changed his HánGuāng-Jūn from an awe-inspiring martial
 
 People behind those storybooks might or might not have malicious intentions. However, there was nothing he could do about it.
 
-Even he could not help but read one of those stories, which was titled ‘The Hooligan HánGuāng-Jūn Imprisons Yílíng Lǎozǔ’.
+He couldn't help himself from reading one of those stories titled ‘The Hooligan HánGuāng-Jūn Imprisons Yílíng Lǎozǔ’.
 
 “It’s so awfully exciting to read it!” said Wèi WúXiàn inwardly, and he was no longer feeling down.
 
@@ -96,7 +96,7 @@ Then, he said, “Since Lán Zhàn said that he didn’t care what people were s
 
 “After all, they are just a bunch of insignificant people who spend their time spouting nonsense.”
 
-Wèi WúXiàn only cared about his HánGuāng-Jūn. Likewise, Lán WàngJī also only cared about his Wèi Yīng. So, no matter how rampant the rumours were, both of them just carried on living their lovely life as a couple.
+Wèi WúXiàn only cared about his HánGuāng-Jūn. Likewise, Lán WàngJī also only cared about his Wèi Yīng. So, no matter how rampant the rumours were, they simply carried on living their lovely life together.
 
 However, Jīn Líng was still unhappy about the matter, so Wèi WúXiàn gently patted his shoulder in a comforting manner and said, “A-ling, you should always remember what people have done for you and not what you have done for them.
 
@@ -118,9 +118,9 @@ Jīn Líng suddenly blushed at Wèi WúXiàn’s words.
 
 Wèi WúXiàn then stood up and, gracefully, drew Suíbiàn. The red light wrapped around his sword was stunning.
 
-With his red hair ribbon fluttering in the air, Wèi WúXiàn said, “Come on, young Zōng-zhǔ, stop thinking about all this matter, and let’s practise.”
+With his red ribbon fluttering in the air, Wèi WúXiàn said, “Come on, young Zōng-zhǔ, stop thinking about all this matter, and let’s practise.”
 
-Jīn Líng was still sitting on the grass, with the blushing expression that still lingered on his face. He just gazed vacantly at Wèi WúXiàn.
+Jīn Líng was still sitting on the grass, with the blushing expression that lingered on his face. He just gazed vacantly at Wèi WúXiàn.
 
 “This time, I won’t go easy on you,” said Wèi WúXiàn. “Are you up to it?”
 
@@ -128,6 +128,6 @@ Jīn Líng finally reacted and unsheathed Suìhuá, then proudly replied, “You
 
 The two of them fiercely exchanged moves, with their swords being wrapped in red light for Suíbiàn and in golden light for Suìhuá.
 
-When practising with Wèi WúXiàn, Jīn Líng always used the swordsmanship of the YúnmèngJiāng clan.
+When practising with Wèi WúXiàn, Jīn Líng always performed the swordsmanship of the YúnmèngJiāng sect.
 
-Their both swordsmanships came from the YúnmèngJiāng clan, and, as they fought, the two didn’t look like they were from two different generations. They were looking more like brothers.
+Their swordsmanships both came from the YúnmèngJiāng clan, and, as they fought, the two didn’t look like they were from two different generations. They were looking more like brothers.

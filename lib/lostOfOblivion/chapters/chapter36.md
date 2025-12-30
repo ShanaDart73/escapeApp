@@ -6,7 +6,7 @@ About five or six feet away from them, there were two walking corpses staggering
 
 As soon as they noticed the presence of Yílíng Lǎozǔ, the two copses got scared and, immediately, turned around and began to run away just slightly faster than when they were walking towards them.
 
-Despite their ugly appearance and bad smell, those kind of walking copses didn’t pose any threat at all. Even a common person with a physical strength could knock them down.
+Despite their ugly appearance and terrible smell, those kinds of walking corpses didn’t pose any threat at all. Even a common person with physical strength could knock them down.
 
 Still, in a serious manner, Lán JǐngYí told Wèi WúXiàn to take cover behind him, then he threw two talismans towards those walking copses, and, instantly, they were mobilised.
 
@@ -54,7 +54,7 @@ For quite a long time, walking corpses had been a problem for those villagers. L
 
 Then, the three of them were warmly invited to stay for dinner and were served some delicious local dishes, namely ground pot chicken, spicy steamed beef, fried diced pork in bean sauce, potato dumplings, crispy stuffed lotus root, and fried eggs with toon leaves.
 
-Although Lán WàngJī had been cooking for him, and, each time, making his favourite dishes, Wèi WúXiàn wasn’t a picky eater when he was away, and was satisfied eating deep fried dishes.
+Although it was usually Lán WàngJī who cooked for Wèi WúXiàn and made his favourite dishes, Wèi WúXiàn wasn’t a picky eater when he was away from home. He was satisfied eating deep-fried dishes.
 
 As for Lán SīZhuī and Lán JǐngYí, who usually ate Yúnshēn Bùzhīchù’s bland and unseasoned dishes, they were always happy when they could eat something else for a change.
 
@@ -72,7 +72,7 @@ Then, he drank his filled cup in one gulp. As the beverage travelled down to his
 
 Although he had tasted countless wines, Wèi WúXiàn was still impressed by the flavour of their wine.
 
-“Is the taste of wine too strong?” asked the village chief. “It is brewed to be especially rich and strong. We have chosen to name it Burning Campfire.”
+"Is the taste of wine too strong?" asked the village chief. "It is brewed to be especially rich and strong. We have chosen to name the wine Burning Campfire."
 
 “What an excellent name!” Wèi WúXiàn praised. “It’s worthy of this wine.”
 
@@ -88,7 +88,7 @@ Noting that Wèi WúXiàn could hold his alcohol, the village chief joined him, 
 
 After drinking too much wine, the village chief began to talk about their farming, such as whether he should grow rice or millet, sow potatoes or radishes, and so on. Then, he moved on to talking about the number of cattle and sheep they bred in the village, as well as chickens and ducks.
 
-Wèi WúXiàn was a talkative and easy-going type of guy. He could have a good chat with people on their family issues, as well as discussing ordinary farming work.
+Wèi WúXiàn was a talkative and easy-going type of guy. He could have a good chat with people about their family issues, as well as discuss ordinary farming work.
 
 Lán SīZhuī was really impressed. It was the first time for him to notice how his Wèi-qiánbèi was versed in so many subjects and how easily he could discuss with the village chief any topics brought into their conversation.
 
@@ -104,7 +104,7 @@ On their journey to this village, the two teenagers didn’t let Wèi WúXiàn d
 
 Now that Lán JǐngYí was drunk and asleep, and since they had a long journey ahead, Wèi WúXiàn decided to fly on his own and asked Lán SīZhuī to carry Lán JǐngYí.
 
-The villagers saw them off at the entrance of their village, and, suddenly, the village chief said, “We have kept calling you ‘immortal cultivator’ and have forgotten our manners. Could you please tell us your name, so, in future, everyone will remember it?”
+The villagers saw them off at the entrance of their village, and, suddenly, the village chief said, “We have kept calling you ‘immortal cultivator’ and have forgotten our manners. Could you please tell us your name so, in future, everyone will remember it?”
 
 The request startled Wèi WúXiàn a little bit, then, calmly, he replied, “My name is Wèi WúXiàn.”
 

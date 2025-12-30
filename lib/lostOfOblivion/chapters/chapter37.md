@@ -10,9 +10,9 @@ To welcome his Wèi Yīng, Lán WàngJī released from his fingertips some blue 
 
 Jumping off from his sword, Wèi WúXiàn’s heart was beating faster than ever, and his breathing also quickened up; he was no longer as calm as when he was travelling back home.
 
-It was an overwhelming feeling for him to think that such a good-looking man belonged to him. Moreover, he was waiting for him to come home.
+It was an overwhelming feeling for him to think that such a good-looking man was his husband. Moreover, he was waiting for him to come home.
 
-This was by far more precious to him than countless treasures in the world, and he was no longer afraid of other people trying to spoil his happiness.
+Knowing that someone was waiting for your return was by far more precious to him than countless treasures in the world, and he was no longer afraid of other people trying to spoil his happiness.
 
 Without saying a single word, both of them walked quickly towards each other to close the distance that separated them.
 
@@ -24,7 +24,7 @@ Teasingly, he said, “Èr-gēge, what’s wrong with you hugging me so tight af
 
 Lán WàngJī replied, “I have blocked you from their view.”
 
-“Even though they can’t see me, do you think they won’t know what we are doing?” said Wèi WúXiàn, “HánGuāng-Jūn, since when did you become self-deceiving?”
+“Even though they can’t see me, do you think they won’t know what we are doing?” said Wèi WúXiàn. “HánGuāng-Jūn, since when did you become self-deceiving?”
 
 “I am standing outside Yúnshēn Bùzhīchù,” said Lán WàngJī.
 
@@ -44,7 +44,7 @@ He then asked, “Did you smell it on my breath? Would you like to taste it?”
 
 With a seductive look in his eyes, Wèi WúXiàn slightly bit his own lower lip with his pearl-like teeth, then, invitingly, he stuck out the tip of his tongue between his soft lips.
 
-As a result, Lán WàngJī could not help his Adam’s apple to bob up and down. However, he restrained himself by kissing Wèi WúXiàn only slightly. And, when the latter pressed his own lips against his to deepen their kiss, Lán WàngJī drew back.
+As a result, Lán WàngJī could not help his Adam’s apple to bob up and down. However, he restrained himself by kissing Wèi WúXiàn only slightly. When Wèi WúXiàn pressed his lips against his to deepen their kiss, Lán WàngJī drew back.
 
 “I can’t let myself get drunk right now,” said Lán WàngJī. “I have prepared a gift for you, and I want to give it to you before getting drunk.”
 
@@ -66,7 +66,7 @@ A warm moonlight showered on them as they reached Jingshi. The magnolia tree was
 
 Wèi WúXiàn quickly walked into the room and saw several dishes on the table, namely, spicy shrimp balls, Dong’an chicken, crabs in spicy sauce, and steamed fish head with chopped red pepper.
 
-There were also some vegetable dishes such as fresh corn, bamboo shoots and lotus root. And, all these dishes were his favourite and were meticulously presented.
+There were also some vegetable dishes such as fresh corn, bamboo shoots and lotus root. And all these dishes were his favourite and were meticulously presented.
 
 Wèi WúXiàn was overjoyed and said, “Èr-gēge, you are so amazing! This is so splendid! Is this table of delicious-looking dishes the gift you have prepared for me?”
 

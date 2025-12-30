@@ -4,9 +4,9 @@ A few days later, Jīn Líng paid another visit to Yúnshēn Bùzhīchù.
 
 “You let chief instructor Zhāng join the LánlíngJīn sect!” exclaimed Wèi WúXiàn, who was surprised to see that Jīn Líng had acted faster than Jiāng Chéng.
 
-“That’s right,” Jīn Líng proudly replied. “When the rumours of Wěishàn Village started to spread, I thought that he would be in trouble.
+“That’s right,” Jīn Líng proudly replied. “When the rumours about the Wěishàn Village had started to spread, I thought that he would get into trouble.
 
-“As expected, his superiors put the blame for those rumours on him, and, soon after, he was dismissed from his post.”
+“As I had expected, his superiors put the blame for those rumours on him, and, soon after, he was dismissed from his post.”
 
 Since LánlíngJīn took in chief instructor Zhāng, the sect now could be regarded as his salvation.
 
@@ -14,17 +14,17 @@ Since LánlíngJīn took in chief instructor Zhāng, the sect now could be regar
 
 “Nothing for the moment,” replied Jīn Líng. “I’ll wait. There’s no rush.”
 
-Indeed, it would be inappropriate to ask how the authorities had handled Wěishàn Village’s matter to chief instructor Zhāng straight away. They needed to find a suitable time to bring the topic to the table.
+Indeed, it would be inappropriate to ask how the authorities had handled the Wěishàn Village’s matter to chief instructor Zhāng straight away. They needed to find a suitable time to bring the topic to the table.
 
 Wèi WúXiàn was happy about it; however, he could not help but feel a little bit disappointed for the wait.
 
 “A-Líng, you’ve become more coolheaded,” said Wèi WúXiàn. “You’ve even come to discuss it with me. Young Zōng-zhǔ, you have grown up.”
 
-Surely enough, Jīn Líng had become more mature, clever and decisive. He had also gained insight into worldly affairs and experience in social relationships.
+Jīn Líng had undoubtedly become more mature, clever and decisive. He had also gained insight into worldly affairs as well as experience in social relationships.
 
-This was a good thing for Jīn Líng to become an adult, since he was the leader of the LánlíngJīn sect.
+This was a good thing for Jīn Líng to become an adult, since he was the sect leader of the LánlíngJīn.
 
-Wèi WúXiàn was happy for Jīn Líng; however, for now, his desire was to see him stay a kid for a little while, because they had not spent a lot of time together.
+Wèi WúXiàn was happy for Jīn Líng; however, for now, he desired to see him stay a kid for a little while, because they had not spent a lot of time together.
 
 He wanted to catch up on years he had missed when Jīn Líng was still a child; he wanted to spoil him for a while.
 
@@ -34,7 +34,7 @@ With his face slightly turned red, Jīn Líng said, “I came here only to let y
 
 He then added, “A-Líng, thank you.”
 
-“Why are you thanking me?” said Jīn Líng, while blushing even more, “I didn’t do it for you. And I don’t care about you.”
+“Why are you thanking me?” said Jīn Líng, while blushing even more. “I didn’t do it for you. And I don’t care about you.”
 
 Wèi WúXiàn shrugged his shoulders and said, “Okay, then. Anyway, I still want to thank you.”
 
@@ -50,7 +50,7 @@ After staring for a short while at the white rabbits hopping about, Jīn Líng t
 
 Jīn Líng stayed silent; he involuntarily touched the ring on his left thumb and began to fiddle with it.
 
-Often, in his head, he would call it ‘The Supreme Mythical Peerless Precious Ring’. However, he never said it out loud, because the name was too verbose.
+Often, inwardly, he would call it ‘The Supreme Mythical Peerless Precious Ring’. However, he never said it aloud, because the name was too verbose.
 
 Wèi WúXiàn watched him playing with the ring for a short while, then he said, “A-ling, I remember something.”
 
@@ -60,15 +60,15 @@ Wèi WúXiàn watched him playing with the ring for a short while, then he said,
 
 Jīn Líng suddenly felt embarrassed and began to stammer, “I... I... I’m not ready yet.”
 
-“It’s all right,” Wèi WúXiàn gently said. Then, he took Jīn Líng in his arms and began to ruffle Jīn Líng’s hair.
+“It’s all right,” Wèi WúXiàn gently said. Then, he pulled Jīn Líng close to him and began to ruffle Jīn Líng’s hair.
 
-At least, his little Jīn Líng was thinking about it. Right now, he needed some time before he could naturally call him ‘uncle’.
+At least, his little Jīn Líng was thinking about it. He just needed some time before he could naturally call him ‘uncle’.
 
 So, Wèi WúXiàn didn’t mind waiting for that time to come and was looking forward to it.
 
 Jīn Líng started to struggle to set himself free from Wèi WúXiàn’s cuddle. “What’s wrong with you? And stop messing up my hair.”
 
-Then, they heard some faint noise of footsteps and turned their heads towards the coming sound.
+Then, they heard a faint noise of footsteps and turned their heads towards the coming sound.
 
 Wearing snow-like white clothes, Lán WàngJī was looking so graceful, as though he were some kind of heavenly being.
 
@@ -90,11 +90,11 @@ Jīn Líng was a twenty-year-old young man already; however, right now, it seeme
 
 Furthermore, Jīn Líng got the feeling that they were doing even more shocking things above his head, which caused him to be petrified.
 
-In fact, Lán WàngJī only kissed Wèi WúXiàn slightly on the forehead; then, he leaned his own forehead against Wèi WúXiàn’s forehead, and both of them remained like this without doing anything else.
+In fact, Lán WàngJī only kissed Wèi WúXiàn slightly on the forehead; then, he leaned his forehead against Wèi WúXiàn’s forehead, and both of them remained like this without doing anything else.
 
-The sky above them was high and blue with some thin cirrus clouds looking like they were painted, and the grass beneath them was green and luxuriant with lovely colourful wildflowers. Like a caress, a gentle breeze completed the picture of this beautiful scenery.
+The sky above was high and blue with some thin cirrus clouds looking like they were painted. The grass around them was green and luxuriant with lovely colourful wildflowers. Like a caress, a gentle breeze blew, completing the picture of this beautiful scenery.
 
-Inwardly, Wèi WúXiàn said, “The ones I love and care about the most, who also love and care about me, are right now by my side.
+Wèi WúXiàn thought, “The ones I love and care about the most, who also love and care about me, are right now by my side.
 
 “There is a little bit of commotion out there. However, here is Yúnshēn Bùzhīchù, GūsūLán residence, where time is quiet and peaceful.”
 

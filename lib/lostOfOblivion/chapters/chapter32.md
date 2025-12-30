@@ -6,9 +6,9 @@ Lán XīChén placed the black piece that he was holding on the Go board, then h
 
 Lán WàngJī appeared to be completely absorbed in the Go game; still, he calmly replied, “Yes.”
 
-Lán XīChén said, “Rumour has it that WúXiàn forced those people out of their village and destroyed their ancestral graveyard. That you condoned his behaviour and promised to compensate the villagers for all their losses.”
+Lán XīChén said, “Rumour has it that WúXiàn forced those people out of their village and destroyed their ancestral graveyard, that you condoned his behaviour and promised to compensate the villagers for all their losses.”
 
-Wèi WúXiàn said, “Xiōng-zhǎng, I’d like to emphasise one point that Lán Zhàn said. Although he gave his promise for the compensation, the village chief has already signed the compensatory agreement, and this was what the authorities wanted for a long time.
+Wèi WúXiàn said, “Xiōng-zhǎng, I’d like to emphasise one point from what Lán Zhàn said. Although he gave his promise for the compensation, the village chief has already signed the compensatory agreement, and this was what the authorities wanted for a long time.
 
 “So, relocating the villagers in order to divert the flood, as well as compensating them, are the authorities’ responsibilities.”
 
@@ -18,17 +18,17 @@ Lán XīChén then gently touched the folded copy of the compensation plan that 
 
 “And then, they printed more than one hundred thousand copies and distributed them all over the Yúnmèng territory.
 
-“Leader Jiāng is extremely concerned about those rumours.”
+“Leader Jiāng is deeply concerned about those rumours.”
 
 In a low voice, Wèi WúXiàn said, “But no one will believe that those copies are from the original document.”
 
-He then thought, “Such ingrained prejudice against me cannot be corrected so easily. With my notoriety, no matter what I say or do, people won’t trust me. Unfortunately, I have implicated Lán Zhàn in this matter.”
+He then thought, “Such ingrained prejudice against me cannot be so easily corrected. With my notoriety, no matter what I say or do, people won’t trust me. Unfortunately, I have implicated Lán Zhàn in this matter.”
 
 In a very kind tone, as if he were instructing a junior, Lán XīChén said, “The compensatory agreement is indeed incomplete, and there are some omissions.
 
-“The authorities deliberately delay the payment and are unwilling to come forward to explain the situation. And people tend to believe the rumours.”
+“The authorities deliberately delay the payment and are unwilling to come forward to explain the situation. Moreover, people are more inclined to believe the rumours.”
 
-Rumours are sensational; they are full of drama and excitement. Rumours are more interesting than anything else for most people; they dispel their boredom.
+Rumours are sensational; they are full of drama and excitement. Rumours are more fascinating than anything else for most people; they dispel their boredom.
 
 <br />&nbsp;
 ... ... ...
@@ -36,7 +36,7 @@ Rumours are sensational; they are full of drama and excitement. Rumours are more
 
 Meanwhile, those rumours continued to spread.
 
-“So far, the GūsūLán sect has had a great reputation, and HánGuāng-Jūn has been famous for so long. Why not drag them down from their throne? Why not trample on them?
+“So far, the GūsūLán sect has had an excellent reputation, and HánGuāng-Jūn has been famous for so long. Why not drag them down from their throne? Why not trample on them?
 
 “If you can stand out from the crowd by pointing out others’ flaws and seeing through the whole conspiracy, then you’ll be able to make up a story and show that you are insightful, rational and objective.
 
@@ -144,7 +144,7 @@ Lán XīChén said, “WúXiàn, do you really think that I want GūsūLán to p
 
 Surprised, Wèi WúXiàn uttered, “Xiōng-zhǎng, you didn’t have any intention of paying for the compensation?”
 
-Lán XīChén smiled, and restated what Wèi WúXiàn said, “<em>Repay evil with kindness, then, how will you repay kindness?</em>
+Lán XīChén smiled and restated what Wèi WúXiàn said, “<em>Repay evil with kindness; then how will you repay kindness?</em>
 
 “WúXiàn, you are absolutely right. I also think that we should <em>repay evil with justice and kindness with kindness.</em>”
 

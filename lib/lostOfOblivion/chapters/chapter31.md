@@ -18,7 +18,7 @@ In a very low voice, Lán WàngJī agreed, “Uh.”
 
 “We just give her a birth name, and leave your uncle to choose the courtesy name when she grows up,” said Wèi WúXiàn.
 
-When he turned his head towards Lán WàngJī, Wèi WúXiàn was astonished in reading Lán WàngJī’s facial expression.
+When he turned his head towards Lán WàngJī, Wèi WúXiàn was astonished at reading Lán WàngJī’s facial expression.
 
 Uncertain, Wèi WúXiàn asked, “Are you jealous?”
 
@@ -30,7 +30,7 @@ Lán WàngJī then nodded his head very slightly, so slightly that his nod was a
 
 Back then, in the cave* of the burial mound, he saw Wèi WúXiàn pretending to be dizzy in front of Wēn Qíng and happily joking around.
 
-<small>*It’s the cave that Wèi WúXiàn occupied while living with Wēn family, the last branch of Wēn sect.</small>
+<small>*It’s the cave that Wèi WúXiàn occupied while living with the Wēn family, the last branch of the Wēn sect.</small>
 
 He saw Wēn Qíng unrestrainedly sweep all kinds of stuff, which was on Wèi WúXiàn’s stone bed, to the floor.
 
@@ -38,13 +38,13 @@ He watched Wèi WúXiàn pleasantly chatting with Wēn Qíng and teasing A-Yuàn
 
 Of course, he was jealous.
 
-There was a cheerful talk and laughter in the cave, only him felt out of place, like an outsider.
+There was cheerful talk and laughter in the cave; only he felt out of place, like an outsider.
 
-He had seen Wèi WúXiàn being gloomy, arrogant, playful and prankish. However, he had rarely seen him being relaxed and carefree, as though he was surrounded by family members.
+He had seen Wèi WúXiàn being gloomy, arrogant, playful and prankish. However, he had rarely seen him being relaxed and carefree, as though he were surrounded by family members.
 
 He used to think that, one day, Wèi WúXiàn would probably get married and have children.
 
-However, there hadn’t been such a woman to whom Wèi WúXiàn could take as a wife yet. Since Luó QīngYáng was only an acquaintance, and Jiāng YànLí already had someone she loved.
+However, there hadn’t been such a woman whom Wèi WúXiàn could take as a wife yet. Since Luó QīngYáng was only an acquaintance, and Jiāng YànLí already had someone she loved.
 
 So, Lán WàngJī had pretended that this probability didn’t exist until he met Wēn Qíng.
 
@@ -68,17 +68,17 @@ Wèi WúXiàn gently hugged Lán WàngJī by passing his arms under Lán Qíng�
 
 Then, he put his forehead against Lán WàngJī’s chin, and, in a low voice, he said, “That day, after you left the burial mound, Wēn Qíng asked me:
 
-“It’s unusual to see you bringing someone here. You never brought anyone here before; why did you make an exception for HánGuāng-Jūn? And why the two of you call each other by your birth names*?’”
+“It’s unusual to see you bringing someone here. You never brought anyone here before; why did you make an exception for HánGuāng-Jūn? And why do the two of you call each other by your birth names*?’”
 
 <small>*The way two people address each other tells others how they are related. For example, calling someone by his/her birth name indicates intimacy. However, Lán WàngJī and Wèi WúXiàn had started to call each other in that way before even being in an intimate relationship.</small>
 
 Lán WàngJī then lowered his head and kissed Wèi WúXiàn on the forehead. And then, he said, “Wèi Yīng, I know.”
 
-“She was already gone,” thought Lán WàngJī, “Being jealous is meaningless and disrespectful for the deceased.”
+“She was already gone,” thought Lán WàngJī. “Being jealous is meaningless and disrespectful for the deceased.”
 
-Wèi WúXiàn shook his head, and said, “Lán Zhàn, you don’t know everything. You only know that I have treated you differently since we were teenagers.”
+Wèi WúXiàn shook his head and said, “Lán Zhàn, you don’t know everything. You only know that I have treated you differently since we were teenagers.”
 
-He sighed, then resumed, “Wēn Qíng had someone she loved, and that person was from another branch of Wēn sect. The two of them had known each other since childhood and grown up together. They had already talked about marriage.
+He sighed, then resumed, “Wēn Qíng had someone she loved, and that person was from another branch of the Wēn sect. The two of them had known each other since childhood and grown up together. They had already talked about marriage.
 
 “Later on, the war broke out. Wēn Qíng’s branch was specialised in medical studies only. They were not involved in the war.
 
@@ -86,7 +86,7 @@ He sighed, then resumed, “Wēn Qíng had someone she loved, and that person wa
 
 Wèi WúXiàn took a deep breath; then, in a low voice, he carried on, “The body of her fiancé had never been found.”
 
-A self-deprecating smile appeared at the corners of his mouth, he continued, “Maybe he died at my hands. Who knows?
+A self-deprecating smile appeared at the corners of his mouth; he continued, “Maybe he died at my hands. Who knows?
 
 “One day, when Wēn Qíng got drunk, she told me that because of the death of his fiancé, she didn’t seek help from Lotus Piers immediately after her sect had been defeated.”
 
@@ -94,13 +94,13 @@ However, when Wēn Níng, her young brother, was in trouble, she rushed to ask W
 
 But, when they found Wēn Níng, it was too late, and Wèi WúXiàn became the enemy of the LánlíngJīn sect.
 
-Wèi WúXiàn carried on, “She was really drunk, and kept on apologising to me, telling that she regretted for not coming straight away to me for help, that, afterwards, she had pressed me to help her, leaving no room for me to refuser.”
+Wèi WúXiàn carried on, “She was really drunk and kept on apologising to me, saying that she regretted not coming straight away to me for help and that, afterwards, she had pressed me to help her, leaving no room for me to refuse.”
 
-Lán WàngJī shook his head and said, “It was not her fault, nor was yours. Since you cannot read people’s minds, therefore, it is impossible to guard yourself against their scheme.
+Lán WàngJī shook his head and said, “It was not her fault, nor was it yours. Since you cannot read people’s minds, therefore, it is impossible to guard yourself against their scheme.
 
-“Qióngqí Path was heavily guarded by LánlíngJīn’s people. So, how could one explain how Wēn Qíng, alone, managed to escape under their surveillance, and travel all the way down south to Lotus Piers to ask for help?
+“Qióngqí Path was heavily guarded by LánlíngJīn’s people. So, how could one explain how Wēn Qíng, alone, managed to escape under their surveillance and travel all the way down south to Lotus Piers to ask for help?
 
-“After the war, many people knew that both, Wēn Qíng and Wēn Níng, had done YúnmèngJiāng sect a favour. So, they knew that she would come to you.
+“After the war, many people knew that both Wēn Qíng and Wēn Níng had done the YúnmèngJiāng sect a favour. So, they knew that she would come to you.
 
 “Wèi Yīng, they had let her escape on purpose. They had set up this scheme to get you.
 
@@ -116,7 +116,7 @@ He said, “Anyway, Èr-gēge, I want you to know that I’ve never had any feel
 
 And, in a humorous tone, he went on, “Someone said that I am a genius, handsome and romantic. Of course, it’s hard for a girl who sees me not to turn around and look at me again... Aargh!”
 
-Lán WàngJī stopped Wèi WúXiàn’s nonsense talk by giving him a sudden deep kiss, then, he bit Wèi WúXiàn’s lower lip, out of jealousy.
+Lán WàngJī stopped Wèi WúXiàn’s nonsense talk by giving him a sudden deep kiss; then, he bit Wèi WúXiàn’s lower lip out of jealousy.
 
 “Haaah...” Wèi WúXiàn moaned in pain; his lower lip became sensually tinted with a shade of red, and Lán WàngJī’s kisses made Wèi WúXiàn’s lips become moist and slightly shiny.
 
@@ -124,27 +124,27 @@ Then, Wèi WúXiàn, once more, put his forehead against Lán WàngJī’s chin 
 
 “I’m fine,” he replied.
 
-At that moment, the little Lán Qíng stirred a little bit inside her blanket, turned her head to one side, then she carried on sleeping soundly.
+At that moment, the little Lán Qíng stirred a little bit inside her blanket and turned her head to one side, then she carried on sleeping soundly.
 
 “You told me that Wēn Qíng committed suicide by cutting her own throat,” said Wèi WúXiàn.
 
-“That’s right,” confirmed Lán WàngJī, then he added, “At Jīnlíntái, Wēn Qíng took the blame for her sect’s evil deeds, then, she put her sword against the neck and slashed her throat.
+“That’s right,” confirmed Lán WàngJī, then he added, “At Jīnlíntái, Wēn Qíng took the blame for her sect’s evil deeds, then she put her sword against her neck and slashed her throat.
 
 "Her suicide made Jīn GuāngShàn* so furious that, in order to vent his anger, he whipped her body in front of everyone present there, causing Wēn Níng to go crazy and out of control.”
 
 <small>*Jīn GuāngShàn is Jīn Líng’s grandfather.</small>
 
-Wèi WúXiàn said, “It’s good thing that she didn’t suffer too much before dying. If she had not committed suicide, they would have tortured her, made her suffer before killing her.”
+Wèi WúXiàn said, “It’s a good thing that she didn’t suffer too much before dying. If she had not committed suicide, they would have tortured her and made her suffer before killing her.”
 
 Lán WàngJī then said, “Let’s work hard to raise Lán Qíng in a warm and comfortable environment.”
 
-Then he asked, “Wèi Yīng, do you want us to adopt her officially, and register her as our child?”
+Then he asked, “Wèi Yīng, do you want us to adopt her officially and register her as our child?”
 
 Wèi WúXiàn thought about it, then said, “I don’t think it’s a good idea. Just imagine how much attention many people would put on the adopted daughter of HánGuāng-Jūn and Yílíng Lǎozǔ.”
 
 “If you are worried about other people’s criticism——” Lán WàngJī started to say, but Wèi WúXiàn interrupted him.
 
-“Yes, but it’s not all. Firstly, you and I are both males, raising a daughter would be really inconvenient. And secondly,——”
+“Yes, but it’s not all. Firstly, you and I are both males; raising a daughter would be really inconvenient. And secondly,—”
 
 Wèi WúXiàn paused and looked into his lovely eyes; he resumed, “Secondly, among all the children we look after on a daily basis, which one of them do we not consider as our own child?
 
@@ -152,13 +152,13 @@ Wèi WúXiàn paused and looked into his lovely eyes; he resumed, “Secondly, a
 
 Lán WàngJī asked, “This is how you want it to be?”
 
-Wèi WúXiàn smiled, and said, “If we adopt Lán Qíng, I’m afraid that it will cause other young children to be jealous of her.”
+Wèi WúXiàn smiled and said, “If we adopt Lán Qíng, I’m afraid that it will cause other young children to be jealous of her.”
 
-He carried on, “You know how popular I am among those kids, right?.”
+He carried on, “You know how popular I am among those kids, right?”
 
-Lán WàngJī smiled, and said, “I know.”
+Lán WàngJī smiled and said, “I know.”
 
-“In other words, all those kids are our children,” said Wèi WúXiàn, “So, favouring one over others, or treating one differently than the others, will not be a good thing for our little Lán Qíng.
+“In other words, all those kids are our children,” said Wèi WúXiàn. “So, favouring one over others, or treating one differently than the others, will not be a good thing for our little Lán Qíng.
 
 “It’s better for her to be raised in the convent. And, from time to time, we can look after her.”
 
@@ -166,7 +166,7 @@ Lán WàngJī smiled, and said, “I know.”
 
 Wèi WúXiàn then remarked, “Come to think of it, I said that all the kids living in Yúnshēn Bùzhīchù are our children. Does it not sound like I gave birth to your offspring, a bunch of them?”
 
-Lán WàngJī’s ears turned slightly red, he said, “You are talking nonsense, again.”
+Lán WàngJī’s ears turned slightly red; he said, “You are talking nonsense again.”
 
 The present moment was filled with joy and happiness.
 
