@@ -34,7 +34,7 @@ const Sound = () => {
 		{ name: <MyAudio sound="/audio/qiankundai.mp3" name="qiánkūn-dài" />, id: 27 },
 		{ name: <MyAudio sound="/audio/qinghengjun.mp3" name="Qīnghéng-Jūn" />, id: 28 },
 		{ name: <MyAudio sound="/audio/qingxinling.mp3" name="Qīngxīn-líng" />, id: 29 },
-		{ name: <MyAudio sound="/audio/sanduyu.mp3" name="Sāndúyù" />, id: 30 },
+		{ name: <MyAudio sound="/audio/sandujian.mp3" name="Sāndújiàn" />, id: 30 },
 		{ name: <MyAudio sound="/audio/shidi.mp3" name="Shī-dì" />, id: 31 },
 		{ name: <MyAudio sound="/audio/shifu.mp3" name="shīfu" />, id: 32 },
 		{ name: <MyAudio sound="/audio/shijie.mp3" name="Shījiě" />, id: 33 },
