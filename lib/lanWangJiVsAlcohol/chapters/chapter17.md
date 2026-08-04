@@ -2,7 +2,7 @@
 
 Jīn Líng’s gaze was sharp, his fingers gripping the hilt of his sword tightly. When he spoke, it was neither hurried nor slow, and his voice carried a quiet authority that prevented anyone from interrupting and compelled everyone to listen attentively.
 
-“People die in pursuit of money, just like birds die in pursuit of food*,” Jīn Líng began. “Jīn Chǎn has lost all sense of his own morality. After the monster escaped, he failed to report the incident. Instead, he secretly began selling the wine produced by the monster to test its effectiveness in manipulating people’s minds.”
+“<em>People die in pursuit of money, just like birds die in pursuit of food</em>*,” Jīn Líng began. “Jīn Chǎn has lost all sense of his own morality. After the monster escaped, he failed to report the incident. Instead, he secretly began selling the wine produced by the monster to test its effectiveness in manipulating people’s minds.”
 
 <small>*This Chinese proverb describes people who are excessively greedy for money and willing to use unscrupulous means, warning that they will eventually meet a tragic end, like birds lured by bait to their death.</small>
 
@@ -70,11 +70,11 @@ Lost in thought, Jīn Líng continued wandering further away from the residence.
 
 Jīn Líng’s train of thought was interrupted. He said impatiently, “Be quiet!”
 
-At that precise moment, he noticed a silk thread suspended across the path. It appeared to have been tied to something on either sides. Jīn Líng walked over, puzzled.
+At that precise moment, he noticed a silk thread suspended across the path. It appeared to have been tied to something on either side. Jīn Líng walked over, puzzled.
 
 “Who put this thread here, blocking my way?” he wondered.
 
-Before he could get any closer, Jīn Líng noticed the silk thread trembling slightly, immediately putting him on alert. He hadn’t intended to walk down this path, but he couldn’t bring himself to dismiss it a coincidence.
+Before he could get any closer, Jīn Líng noticed the silk thread trembling slightly, immediately putting him on alert. He hadn’t intended to walk down this path, but he couldn’t bring himself to dismiss it as a coincidence.
 
 His suspicion was confirmed when the suspended thread suddenly darted towards him.
 
@@ -88,7 +88,7 @@ As though his movement had been anticipated, Jīn Líng landed straight in a sna
 
 “Zōng-zhǔ, be careful!”
 
-The two guards called out a warning, but Jīn Líng was already trapped, and thread was looped around his neck.
+The two guards called out a warning, but Jīn Líng was already trapped, and the thread was looped around his neck.
 
 The two guards grew anxious as they saw Jīn Líng being restrained. Before they could act, several men dressed in black sprang out of the bushes.
 
@@ -106,7 +106,7 @@ Jīn Líng began to struggle out of one of his kidnappers’ grasp, and the latt
 
 Jīn Líng’s reasoning had proven to be correct–they had no intention of killing him yet. Since that was the case, how could he just remain idle and be at their mercy?
 
-Above all, the kidnapping had occurred at Jīnlíntái. If word got out, the LánlíngJīn Sect would become the laughing stock.
+Above all, the kidnapping had occurred at Jīnlíntái. If the word got out, the LánlíngJīn Sect would become the laughingstock.
 
 With his wrists seized from behind, Jīn Líng suddenly bent forwards, grabbed the hand restraining him and then hurled himself backwards, dragging his kidnapper down with him as they fell through the sky.
 
@@ -118,7 +118,7 @@ There was a grove of trees below, and before reaching the treetops, Jīn Líng b
 
 Ignoring the excruciating pain in his palms, Jīn Líng immediately rushed towards the densest part of the woods. Once inside, he felt more relieved, knowing his pursuers would be unable to follow him while riding their swords.
 
-However, when he heard rapid footsteps approaching from behind, Jīn Líng grew anxious. There was no way he could defend himself–his sword was still in his pursuers’ possession and his spiritual veins had been sealed.
+However, when he heard rapid footsteps approaching from behind, Jīn Líng grew anxious. There was no way he could defend himself–his sword was still in his pursuers’ possession, and his spiritual veins had been sealed.
 
 Running at full speed, Jīn Líng suddenly realised that he had reached a large clearing bathed in moonlight, while the surrounding woods were too dark to distinguish anything within them.
 
@@ -158,7 +158,7 @@ Through the darkness of the dense woods, the newcomer slowly opened his eyes. J�
 
 Suddenly, sinister, cackling laugher rang out from all directions, as something crawled out of the darkness towards Jīn Líng’s pursuers.
 
-At a leisurely pace, the newcomer approached from behind them and gradually steppes into the moonlit clearing.
+At a leisurely pace, the newcomer approached from behind them and gradually stepped into the moonlit clearing.
 
 Jīn Líng’s eyes widened. “Wèi WúXiàn!” he cried.
 
