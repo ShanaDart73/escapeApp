@@ -23,6 +23,7 @@ export default function App({ Component, pageProps }) {
             />
             <Component {...pageProps} />
             <Analytics />
+            {/*<!-- Cloudflare Web Analytics -->*/}<script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "79c59871a503425fa8e9508b4b70bfe2"}' async={true}></script>{/*<!-- End Cloudflare Web Analytics -->*/}
         </>
     )
 }
