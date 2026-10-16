@@ -1,3 +1,10 @@
+<section>
+         <b>Translator Note:</b>
+         <p>I find this side story really heartwarning, because it offers another alternative outcome of the saddest part of Lán WàngJī and Wèi WúXiàn's story, especially for Lán WàngJī who has been grieving for thirteen years.</p>
+         <p>I chose to name it 'Dreaming While Awake' instead of its original title 'Swapping Souls'.</p>
+         <p>You will figure out the reason why I changed the title at the end of the story.</p>
+</section>
+
 <br />
 
 “Do you really want to protect him?”
