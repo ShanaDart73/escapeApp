@@ -1,7 +1,7 @@
 import Router from 'next/router'
 import Head from 'next/head'
 import { getAllChapters, getAllChapIds } from '../../../lib/lanWangJiVsAlcohol/allDataArrays'
-import { deserialize } from 'react-serialize'
+//import { deserialize } from 'react-serialize'
 import Icons from '../../../components/lanWangjiVsAlcohol/sidebarIcons/icons'
 
 const pageTitle = "escape"
@@ -56,8 +56,7 @@ const DynamicsPages = ({ data }) => {
 					<div className="flex flex-col items-center col-span-2 md:col-span-1 row-span-11 sticky top-14">
 						<Icons />
 					</div>
-					<div
-						className="flex justify-between col-span-10 md:col-span-7 lg:col-span-5 row-span-1 sticky bottom-0 bg-blueBG">
+					<div className="flex justify-between col-span-10 md:col-span-7 lg:col-span-5 row-span-1 sticky bottom-0 bg-blueBG">
 						<button className="text-textColor p-4 bg-gradient-to-t from-gradientTop to-gradientBottom cursor-pointer hover:text-blue-400">
 							<span onClick={() => Router.push(data.leftBtn)}>&larr;Prev</span>
 						</button>

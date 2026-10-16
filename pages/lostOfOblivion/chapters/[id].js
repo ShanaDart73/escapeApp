@@ -1,7 +1,7 @@
 import Router from 'next/router'
 import Head from 'next/head'
 import { getAllChapters, getAllChapIds } from '../../../lib/lostOfOblivion/allDataArrays'
-import { deserialize } from 'react-serialize'
+//import { deserialize } from 'react-serialize'
 import Icons from '../../../components/lostOfOblivion/sidebarIcons/icons'
 
 const pageTitle = "escape"
