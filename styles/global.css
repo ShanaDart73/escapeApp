@@ -1,12 +1,8 @@
 @import "tailwindcss";
 /* Force normal hover */
-@custom-variant hover (&:hover);
-/* Force parent/group hovers */
-@custom-variant group-hover (.group:hover &);
-@custom-variant peer-hover (.peer:hover ~ &);
-/*@tailwind base;*/
-/*@tailwind components;*/
-/*@tailwind utilities;*/
+@variant hover (&:hover);
+@variant group-hover (.group:hover &);
+@variant peer-hover (.peer:hover &);
 
 @theme {
     --color-blueBG: #01012a;
@@ -25,7 +21,7 @@
 
 @layer base {
     @font-face {
-        font-family: "Times New Roman", Arial, serif, Verdana, Tahoma;
+        font-family: "Times New Roman";
     }
     p {
         @apply my-4;
