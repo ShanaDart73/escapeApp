@@ -1,0 +1,7 @@
+
+.shadow {
+    box-shadow: var(--shadow-homePic-shadow);
+}
+.shadow:hover {
+    box-shadow: var(--shadow-homePic-hover);
+}

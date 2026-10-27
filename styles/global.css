@@ -1,8 +1,4 @@
 @import "tailwindcss";
-/* Force normal hover */
-@variant hover (&:hover);
-@variant group-hover (.group:hover &);
-@variant peer-hover (.peer:hover &);
 
 @theme {
     --color-blueBG: #01012a;
