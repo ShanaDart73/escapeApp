@@ -1,5 +1,9 @@
 @import "tailwindcss";
+/* Force normal hover */
 @custom-variant hover (&:hover);
+/* Force parent/group hovers */
+@custom-variant group-hover (.group:hover &);
+@custom-variant peer-hover (.peer:hover ~ &);
 /*@tailwind base;*/
 /*@tailwind components;*/
 /*@tailwind utilities;*/
