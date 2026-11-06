@@ -6,6 +6,7 @@ const Nav = () => {
 	const chapList = [
 		{ name: "Chapter One", link: "/dreamWhileAwake/chapters/1", id: 1 },
 		{ name: "Chapter Two", link: "/dreamWhileAwake/chapters/2", id: 2 },
+		{ name: "Chapter Three", link: "/dreamWhileAwake/chapters/3", id: 3 },
 	]
 
 	return (
