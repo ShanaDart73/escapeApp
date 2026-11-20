@@ -27,6 +27,8 @@ const Homepage = () => {
                 <meta name="msvalidate.01" content="6AAB940142707795076943EDBAD8FB19"/>
                 <meta name="google-site-verification" content="ygigt7CFXyUyeMm3KZI8o1-8gnOrV9WMTkLEAha33c4"/>
                 <meta name="p:domain_verify" content="6b5a72759d763c791263fd92f986a1f4"/>
+                <link rel="preconnect" href="https://challenges.cloudflare.com" />
+                <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
                 <title>{pageTitle}</title>
             </Head>
             <div className="flex flex-col items-center gap-y-8">
@@ -38,7 +40,8 @@ const Homepage = () => {
                     <HomeContent />
                 </div>
                 <div className="">
-                    <FooterNote />
+                    <FooterNote/>
+                    <div className="cf-turnstile" data-sitekey="<0x4AAAAAAGJ9_2X0MAD00wCR>" data-theme="light" data-size="normal" data-callback="onSuccess"></div>
                 </div>
             </div>
         </div>
